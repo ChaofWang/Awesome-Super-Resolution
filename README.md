@@ -148,8 +148,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | DNI         | [CVPR19](https://arxiv.org/pdf/1811.10515.pdf)               | [PyTorch](https://github.com/xinntao/DNI)                    |                               |
 | MAANet      | [arXiv](https://arxiv.org/abs/1904.06252)                    |                                                              | Multi-view Aware Attention    |
 | RNAN        | [ICLR19](https://openreview.net/pdf?id=HkeGhoA5FX)           | [PyTorch](https://github.com/yulunzhang/RNAN)                | Residual Non-local Attention  |
-| FSTRN        | [CVPR19](https://arxiv.org/pdf/1904.02870.pdf)           | -                | fast spatio-temporal
-residual block  |
+| FSTRN        | [CVPR19](https://arxiv.org/pdf/1904.02870.pdf)           | -                | fast spatio-temporal residual block  |
 
 #### Super Resolution survey：
 
