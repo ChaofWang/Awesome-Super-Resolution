@@ -149,6 +149,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | MAANet      | [arXiv](https://arxiv.org/abs/1904.06252)                    |                                                              | Multi-view Aware Attention    |
 | RNAN        | [ICLR19](https://openreview.net/pdf?id=HkeGhoA5FX)           | [PyTorch](https://github.com/yulunzhang/RNAN)                | Residual Non-local Attention  |
 | FSTRN        | [CVPR19](https://arxiv.org/pdf/1904.02870.pdf)           | -                | **VideoSR**, fast spatio-temporal residual block  |
+| MsDNN | [arXiv](https://arxiv.org/pdf/1904.10698.pdf) | [TensorFlow](https://github.com/shangqigao/gsq-image-SR) | NTIRE19  real SR  21th place |
 
 #### Super Resolution survey：
 
