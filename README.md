@@ -154,7 +154,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | EDVR        | [CVPR19](https://arxiv.org/pdf/1905.02716.pdf)           |   [Pytorch](https://github.com/xinntao/EDVR)              | **Video**, NTIRE19 video restoration and enhancement champions  |
 | Ensemble for VSR        | [CVPR19](https://arxiv.org/pdf/1905.02462.pdf)           |   -              | **VideoSR**, NTIRE19 video SR 2nd place  |
 | TENet        | [arXiv](https://arxiv.org/pdf/1905.02538.pdf)           |  -              | a Joint Solution for Demosaicking, Denoising and Super-Resolution |
-| MCAN        | [arXiv]https://arxiv.org/pdf/1903.07949.pdf)           |  [Pytorch](https://github.com/macn3388/MCAN) | Matrix-in-matrix CAN, Lightweight |
+| MCAN        | [arXiv](https://arxiv.org/pdf/1903.07949.pdf)           |  [Pytorch](https://github.com/macn3388/MCAN) | Matrix-in-matrix CAN, Lightweight |
 #### Super Resolution survey：
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
