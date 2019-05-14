@@ -60,6 +60,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |    Sintel    | Train/Val  |       [website](http://sintel.is.tue.mpg.de/downloads)       |                      Optical flow                      |
 | FlyingChairs |   Train    | [website](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html#flyingchairs) |                      Optical flow                      |
 |  Vimeo-90k   | Train/Test |           [website](http://toflow.csail.mit.edu/)            |                     90k HQ videos                      |
+|  SR-RAW   | Train/Test |           [website](https://ceciliavision.github.io/project-pages/project-zoom.html)            |                      raw sensor image dataset                      |
 
 #### Dataset collections
 
