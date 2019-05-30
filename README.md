@@ -161,6 +161,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | TENet        | [arXiv](https://arxiv.org/pdf/1905.02538.pdf)           |  [Pytorch](https://github.com/guochengqian/TENet)              | a Joint Solution for Demosaicking, Denoising and Super-Resolution |
 | MCAN        | [arXiv](https://arxiv.org/pdf/1903.07949.pdf)           |  [Pytorch](https://github.com/macn3388/MCAN) | Matrix-in-matrix CAN, Lightweight |
 | IKC&SFTMD        | [CVPR19](https://arxiv.org/pdf/1904.03377.pdf)           |  - | Blind Super-Resolution |
+| SRNTT        | [CVPR19](https://arxiv.org/pdf/1903.00834.pdf)           | [TensorFlow](https://github.com/ZZUTK/SRNTT) | Neural Texture Transfer |
+| RawSR        | [CVPR19](https://arxiv.org/pdf/1905.12156.pdf)           | [TensorFlow](https://drive.google.com/file/d/1yvCceNAgt4UsxZXahPFBkuL1JXyfgr8B/view) | Real Scene Super-Resolution, Raw Images |
 
 #### Super Resolution survey：
 
