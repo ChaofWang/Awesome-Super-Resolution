@@ -146,7 +146,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | SRFBN       | [CVPR19](https://arxiv.org/abs/1903.09814)                   | [PyTorch](https://github.com/Paper99/SRFBN_CVPR19)           | Feedback                      |
 | MoreMNAS    | [arXiv](https://arxiv.org/pdf/1901.01074.pdf)                | -                                                            | Lightweight，NAS              |
 | FALSR       | [arXiv](https://arxiv.org/pdf/1901.07261.pdf)                | [TensorFlow](https://ieeexplore.ieee.org/document/8434354)   | Lightweight，NAS              |
-| Meta-SR     | [arXiv](https://arxiv.org/pdf/1903.00875.pdf)                | [PyTorch](https://github.com/XuecaiHu/Meta-SR-Pytorch)                                                             | Arbitrary Magnification       |
+| Meta-SR     | [CVPR19](https://arxiv.org/pdf/1903.00875.pdf)                | [PyTorch](https://github.com/XuecaiHu/Meta-SR-Pytorch)                                                             | Arbitrary Magnification       |
 | AWSRN       | [arXiv](https://arxiv.org/abs/1904.02358)                    | [PyTorch](https://github.com/ChaofWang/AWSRN)                | Lightweight                   |
 | OISR        | CVPR19                                                       | [PyTorch](https://github.com/HolmesShuan/OISR-PyTorch)       | ODE-inspired Network          |
 | DPSR        | [CVPR19](https://arxiv.org/pdf/1903.12529.pdf)               | [PyTorch](https://github.com/cszn/DPSR)                      |                               |
