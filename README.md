@@ -16,6 +16,8 @@ Collect some super-resolution related papers, data and repositories.
 
 [VideoSuperResolution](https://github.com/LoSealL/VideoSuperResolution)
 
+[Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution)
+
 #### Awesome repos:
 
 |                             repo                             | Framework  |
@@ -169,3 +171,5 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
 
 [2]Saeed Anwar, Salman Khan, Nick Barnes. A Deep Journey into Super-resolution: A survey. arxiv, 2019.[paper](https://arxiv.org/pdf/1904.07523.pdf)
+
+[3]Wang, Z., Chen, J., & Hoi, S. C. (2019). Deep learning for image super-resolution: A survey. arXiv preprint arXiv:1902.06068.[paper](https://arxiv.org/abs/1902.06068)
