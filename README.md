@@ -150,7 +150,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | FALSR       | [arXiv](https://arxiv.org/pdf/1901.07261.pdf)                | [TensorFlow](https://ieeexplore.ieee.org/document/8434354)   | Lightweight，NAS              |
 | Meta-SR     | [CVPR19](https://arxiv.org/pdf/1903.00875.pdf)                | [PyTorch](https://github.com/XuecaiHu/Meta-SR-Pytorch)                                                             | Arbitrary Magnification       |
 | AWSRN       | [arXiv](https://arxiv.org/abs/1904.02358)                    | [PyTorch](https://github.com/ChaofWang/AWSRN)                | Lightweight                   |
-| OISR        | CVPR19                                                       | [PyTorch](https://github.com/HolmesShuan/OISR-PyTorch)       | ODE-inspired Network          |
+| OISR        | [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf)                                                       | [PyTorch](https://github.com/HolmesShuan/OISR-PyTorch)       | ODE-inspired Network          |
 | DPSR        | [CVPR19](https://arxiv.org/pdf/1903.12529.pdf)               | [PyTorch](https://github.com/cszn/DPSR)                      |                               |
 | DNI         | [CVPR19](https://arxiv.org/pdf/1811.10515.pdf)               | [PyTorch](https://github.com/xinntao/DNI)                    |                               |
 | MAANet      | [arXiv](https://arxiv.org/abs/1904.06252)                    |                                                              | Multi-view Aware Attention    |
