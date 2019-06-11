@@ -166,7 +166,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | SRNTT        | [CVPR19](https://arxiv.org/pdf/1903.00834.pdf)           | [TensorFlow](https://github.com/ZZUTK/SRNTT) | Neural Texture Transfer |
 | RawSR        | [CVPR19](https://arxiv.org/pdf/1905.12156.pdf)           | [TensorFlow](https://drive.google.com/file/d/1yvCceNAgt4UsxZXahPFBkuL1JXyfgr8B/view) | Real Scene Super-Resolution, Raw Images |
 |resLF         | [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Residual_Networks_for_Light_Field_Image_Super-Resolution_CVPR_2019_paper.pdf) |     |   Light field |
-|CameraSR      | [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Camera_Lens_Super-Resolution_CVPR_2019_paper.pdf) |  |     |   realistic image SR|
+|CameraSR      | [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Camera_Lens_Super-Resolution_CVPR_2019_paper.pdf) |  |     | realistic image SR |
 
 
 #### Super Resolution survey：
