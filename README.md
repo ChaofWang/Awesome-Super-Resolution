@@ -158,8 +158,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | FSTRN        | [CVPR19](https://arxiv.org/pdf/1904.02870.pdf)           | -                | **VideoSR**, fast spatio-temporal residual block  |
 | MsDNN | [arXiv](https://arxiv.org/pdf/1904.10698.pdf) | [TensorFlow](https://github.com/shangqigao/gsq-image-SR) | NTIRE19  real SR  21th place |
 | SAN | [CVPR19](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR19-SAN.pdf) | [Pytorch](https://github.com/daitao/SAN) | Second-order Attention,cvpr19 oral |
-| EDVR        | [CVPR19](https://arxiv.org/pdf/1905.02716.pdf)           |   [Pytorch](https://github.com/xinntao/EDVR)              | **Video**, NTIRE19 video restoration and enhancement champions  |
-| Ensemble for VSR        | [CVPR19](https://arxiv.org/pdf/1905.02462.pdf)           |   -              | **VideoSR**, NTIRE19 video SR 2nd place  |
+| EDVR        | [CVPRW19](https://arxiv.org/pdf/1905.02716.pdf)           |   [Pytorch](https://github.com/xinntao/EDVR)              | **Video**, NTIRE19 video restoration and enhancement champions  |
+| Ensemble for VSR        | [CVPRW19](https://arxiv.org/pdf/1905.02462.pdf)           |   -              | **VideoSR**, NTIRE19 video SR 2nd place  |
 | TENet        | [arXiv](https://arxiv.org/pdf/1905.02538.pdf)           |  [Pytorch](https://github.com/guochengqian/TENet)              | a Joint Solution for Demosaicking, Denoising and Super-Resolution |
 | MCAN        | [arXiv](https://arxiv.org/pdf/1903.07949.pdf)           |  [Pytorch](https://github.com/macn3388/MCAN) | Matrix-in-matrix CAN, Lightweight |
 | IKC&SFTMD        | [CVPR19](https://arxiv.org/pdf/1904.03377.pdf)           |  - | Blind Super-Resolution |
