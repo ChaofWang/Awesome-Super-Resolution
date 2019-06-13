@@ -168,6 +168,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |resLF         | [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Residual_Networks_for_Light_Field_Image_Super-Resolution_CVPR_2019_paper.pdf) |     |   Light field |
 |CameraSR         | [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Camera_Lens_Super-Resolution_CVPR_2019_paper.pdf) |     |   realistic image SR |
 |ORDSR         | [TIP](https://arxiv.org/pdf/1904.10082.pdf) | [model](https://github.com/tT0NG/ORDSR) | DCT domain SR  |
+|U-Net         | [CVPRW19](https://arxiv.org/pdf/1906.04809.pdf) |  | NTIRE19  real SR  2nd place, U-Net,MixUp,Synthesis  |
+
 
 #### Super Resolution survey：
 
