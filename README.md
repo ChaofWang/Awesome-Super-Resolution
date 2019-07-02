@@ -170,6 +170,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |ORDSR         | [TIP](https://arxiv.org/pdf/1904.10082.pdf) | [model](https://github.com/tT0NG/ORDSR) | DCT domain SR  |
 |U-Net         | [CVPRW19](https://arxiv.org/pdf/1906.04809.pdf) |  | NTIRE19  real SR  2nd place, U-Net,MixUp,Synthesis  |
 |DRLN         | [Arxiv](https://arxiv.org/pdf/1906.12021.pdf) |  | Densely Residual Laplacian Super-Resolution  |
+|EDRN         | [CVPRW19](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Cheng_Encoder-Decoder_Residual_Network_for_Real_Super-Resolution_CVPRW_2019_paper.pdf) |  [Pytorch](https://github.com/yyknight/NTIRE2019_EDRN) | NTIRE19  real SR  9th places  |
 
 #### Super Resolution survey：
 
