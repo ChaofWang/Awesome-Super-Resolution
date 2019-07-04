@@ -172,6 +172,11 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |DRLN         | [Arxiv](https://arxiv.org/pdf/1906.12021.pdf) |  | Densely Residual Laplacian Super-Resolution  |
 |EDRN         | [CVPRW19](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Cheng_Encoder-Decoder_Residual_Network_for_Real_Super-Resolution_CVPRW_2019_paper.pdf) |  [Pytorch](https://github.com/yyknight/NTIRE2019_EDRN) | NTIRE19  real SR  9th places  |
 
+### NTIRE:
+NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
+NTIRE18 [papers](http://openaccess.thecvf.com/CVPR2018_workshops/CVPR2018_W13.py)
+NTIRE19 [papers](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.py)
+
 #### Super Resolution survey：
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
