@@ -172,6 +172,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |DRLN         | [arxiv](https://arxiv.org/pdf/1906.12021.pdf) |  | Densely Residual Laplacian Super-Resolution  |
 |EDRN         | [CVPRW19](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Cheng_Encoder-Decoder_Residual_Network_for_Real_Super-Resolution_CVPRW_2019_paper.pdf) |  [Pytorch](https://github.com/yyknight/NTIRE2019_EDRN) | NTIRE19  real SR  9th places  |
 |FC2N         | [arXiv](https://arxiv.org/pdf/1907.03221.pdf) |  | Fully Channel-Concatenated  |
+|GMFN         | [BMVC2019](https://arxiv.org/pdf/1907.04253.pdf) | [Pytorch](https://github.com/liqilei/GMFN) | Gated Multiple Feedback   |
 
 
 ### NTIRE:
