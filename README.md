@@ -175,6 +175,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |GMFN         | [BMVC2019](https://arxiv.org/pdf/1907.04253.pdf) | [Pytorch](https://github.com/liqilei/GMFN) | Gated Multiple Feedback   |
 |CNN&TV-TV Minimization  | [BMVC2019](https://arxiv.org/pdf/1907.05380.pdf) |  | TV-TV Minimization  |
 |HRAN  | [arXiv](https://arxiv.org/pdf/1907.05514.pdf) |  | Hybrid Residual Attention Network  |
+|PPON         | [arXiv](https://arxiv.org/pdf/1907.10399.pdf) | [code](https://github.com/Zheng222/PPON) | Progressive Perception-Oriented Network   |
 
 
 ### NTIRE:
