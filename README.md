@@ -146,6 +146,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | TecoGAN     | [arXiv](http://arxiv.org/abs/1811.09393)                     | [Tensorflow](https://github.com/thunil/TecoGAN)              | **VideoSR** GAN               |
 | RBPN        | [CVPR19](https://arxiv.org/abs/1903.10128)                   | [PyTorch](https://github.com/alterzero/RBPN-PyTorch)         | **VideoSR**                   |
 | SRFBN       | [CVPR19](https://arxiv.org/abs/1903.09814)                   | [PyTorch](https://github.com/Paper99/SRFBN_CVPR19)           | Feedback                      |
+| AdaFM       | [CVPR19](https://arxiv.org/pdf/1904.08118.pdf)                   | [PyTorch](https://github.com/hejingwenhejingwen/AdaFM)           |  Adaptive Feature Modification Layers                      |
 | MoreMNAS    | [arXiv](https://arxiv.org/pdf/1901.01074.pdf)                | -                                                            | Lightweight，NAS              |
 | FALSR       | [arXiv](https://arxiv.org/pdf/1901.07261.pdf)                | [TensorFlow](https://ieeexplore.ieee.org/document/8434354)   | Lightweight，NAS              |
 | Meta-SR     | [CVPR19](https://arxiv.org/pdf/1903.00875.pdf)                | [PyTorch](https://github.com/XuecaiHu/Meta-SR-Pytorch)                                                             | Arbitrary Magnification       |
