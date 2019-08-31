@@ -18,6 +18,9 @@ Collect some super-resolution related papers, data and repositories.
 
 [Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution)
 
+[MMSR](https://github.com/open-mmlab/mmsr)
+
+
 #### Awesome repos:
 
 |                             repo                             | Framework  |
