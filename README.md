@@ -18,7 +18,6 @@ Collect some super-resolution related papers, data and repositories.
 
 [Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution)
 
-[MMSR](https://github.com/open-mmlab/mmsr)
 
 
 #### Awesome repos:
@@ -37,6 +36,7 @@ Collect some super-resolution related papers, data and repositories.
 | [super-resolution](https://github.com/icpm/super-resolution) |  PyTorch   |
 | [VideoSuperResolution](https://github.com/LoSealL/VideoSuperResolution) | Tensorflow |
 | [video-super-resolution](https://github.com/thangvubk/video-super-resolution) |  Pytorch   |
+|[MMSR](https://github.com/open-mmlab/mmsr) | PyTorch |
 
 
 
