@@ -182,7 +182,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |PPON         | [arXiv](https://arxiv.org/pdf/1907.10399.pdf) | [code](https://github.com/Zheng222/PPON) | Progressive Perception-Oriented Network   |
 |SROBB         | [ICCV19](https://arxiv.org/pdf/1908.07222.pdf) |  | Targeted Perceptual Loss   |
 |RankSRGAN         | [ICCV19](https://arxiv.org/pdf/1908.06382.pdf) | [PyTorch](https://github.com/WenlongZhang0724/RankSRGAN) | oral, rank-content loss   |
-
+|edge-informed         | [ICCV19](https://arxiv.org/pdf/1909.05305.pdf) | [PyTorch](https://github.com/knazeri/edge-informed-sisr) | Edge-Informed Single Image Super-Resolution   |
 
 
 ### NTIRE:
