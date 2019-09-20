@@ -188,9 +188,9 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 ### NTIRE:
 NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
 
-NTIRE18 [Web](https://pirm2018.org/)
+NTIRE18[papers](http://openaccess.thecvf.com/CVPR2018_workshops/CVPR2018_W13.py)
 
-PIRM18 [papers](http://openaccess.thecvf.com/CVPR2018_workshops/CVPR2018_W13.py)
+PIRM18 [Web](https://pirm2018.org/)
 
 NTIRE19 [papers](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.py)
 
