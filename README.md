@@ -183,7 +183,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |SROBB         | [ICCV19](https://arxiv.org/pdf/1908.07222.pdf) |  | Targeted Perceptual Loss   |
 |RankSRGAN         | [ICCV19](https://arxiv.org/pdf/1908.06382.pdf) | [PyTorch](https://github.com/WenlongZhang0724/RankSRGAN) | oral, rank-content loss   |
 |edge-informed         | [ICCV19](https://arxiv.org/pdf/1909.05305.pdf) | [PyTorch](https://github.com/knazeri/edge-informed-sisr) | Edge-Informed Single Image Super-Resolution   |
-
+|Unsupervised Learning  real SR        | [arxiv](https://arxiv.org/pdf/1909.09629.pdf) |  | Unsupervised Learning Super-Resolution   |
 
 ### NTIRE:
 NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
