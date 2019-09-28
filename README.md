@@ -185,7 +185,9 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |edge-informed         | [ICCV19](https://arxiv.org/pdf/1909.05305.pdf) | [PyTorch](https://github.com/knazeri/edge-informed-sisr) | Edge-Informed Single Image Super-Resolution   |
 |s-LWSR        | [arxiv](https://arxiv.org/pdf/1909.10774.pdf) |  | Lightweight   |
 |DNLN        | [arxiv](https://arxiv.org/pdf/1909.10692.pdf) |  | **Video SR** Deformable Non-local Network   |
-
+|MGAN        | [arxiv](https://arxiv.org/pdf/1909.11937.pdf) | | Multi-grained Attention Networks   |
+|IMDN        | [ACM MM 2019](https://arxiv.org/pdf/1909.11856.pdf) | [PyTorch]https://github.com/Zheng222/IMDN | AIM19  Champion  |
+|ESRN        | [arxiv](https://arxiv.org/pdf/1909.11409.pdf) |  | NAS  |
 
 ### NTIRE:
 NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
