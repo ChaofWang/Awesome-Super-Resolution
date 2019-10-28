@@ -183,12 +183,20 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |PPON         | [arXiv](https://arxiv.org/pdf/1907.10399.pdf) | [code](https://github.com/Zheng222/PPON) | Progressive Perception-Oriented Network   |
 |SROBB         | [ICCV19](https://arxiv.org/pdf/1908.07222.pdf) |  | Targeted Perceptual Loss   |
 |RankSRGAN         | [ICCV19](https://arxiv.org/pdf/1908.06382.pdf) | [PyTorch](https://github.com/WenlongZhang0724/RankSRGAN) | oral, rank-content loss   |
-|edge-informed         | [ICCV19](https://arxiv.org/pdf/1909.05305.pdf) | [PyTorch](https://github.com/knazeri/edge-informed-sisr) | Edge-Informed Single Image Super-Resolution   |
+|edge-informed         | [ICCVW19](https://arxiv.org/pdf/1909.05305.pdf) | [PyTorch](https://github.com/knazeri/edge-informed-sisr) | Edge-Informed Single Image Super-Resolution   |
 |s-LWSR        | [arxiv](https://arxiv.org/pdf/1909.10774.pdf) |  | Lightweight   |
 |DNLN        | [arxiv](https://arxiv.org/pdf/1909.10692.pdf) |  | **Video SR** Deformable Non-local Network   |
 |MGAN        | [arxiv](https://arxiv.org/pdf/1909.11937.pdf) | | Multi-grained Attention Networks   |
 |IMDN        | [ACM MM 2019](https://arxiv.org/pdf/1909.11856.pdf) | [PyTorch](https://github.com/Zheng222/IMDN) | AIM19  Champion  |
 |ESRN        | [arxiv](https://arxiv.org/pdf/1909.11409.pdf) |  | NAS  |
+|PFNL         | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf) |  | **VideoSR** oral,Non-Local
+Spatio-Temporal Correlations   |
+|EBRN         | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Embedded_Block_Residual_Network_A_Recursive_Restoration_Model_for_Single-Image_ICCV_2019_paper.pdf) |  | Embedded Block Residual Network   |
+|Deep SR-ITM         | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Deep_SR-ITM_Joint_Learning_of_Super-Resolution_and_Inverse_Tone-Mapping_for_ICCV_2019_paper.pdf) |  | SDR to HDR, 4K SR   |
+|feature SR        | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.pdf) |  | Super-Resolution for Small Object Detection   |
+
+
+
 
 ### NTIRE:
 NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
@@ -198,6 +206,8 @@ NTIRE18[papers](http://openaccess.thecvf.com/CVPR2018_workshops/CVPR2018_W13.py)
 PIRM18 [Web](https://pirm2018.org/)
 
 NTIRE19 [papers](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.py)
+
+AIM19 [papers](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_AIM.py)
 
 #### Super Resolution survey：
 
