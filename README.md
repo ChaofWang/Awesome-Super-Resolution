@@ -193,6 +193,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |EBRN         | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Embedded_Block_Residual_Network_A_Recursive_Restoration_Model_for_Single-Image_ICCV_2019_paper.pdf) |  | Embedded Block Residual Network   |
 |Deep SR-ITM         | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Deep_SR-ITM_Joint_Learning_of_Super-Resolution_and_Inverse_Tone-Mapping_for_ICCV_2019_paper.pdf) | [matlab](https://github.com/sooyekim/Deep-SR-ITM) | SDR to HDR, 4K SR   |
 |feature SR        | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.pdf) |  | Super-Resolution for Small Object Detection   |
+|STFAN        | [ICCV19](https://arxiv.org/pdf/1904.12257.pdf) | [PyTorch](https://github.com/sczhou/STFAN)  | **Video Deblurring**   |
 
 
 
