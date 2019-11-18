@@ -196,9 +196,9 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |STFAN        | [ICCV19](https://arxiv.org/pdf/1904.12257.pdf) | [PyTorch](https://github.com/sczhou/STFAN)  | **Video Deblurring**   |
 |KMSR        | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Kernel_Modeling_Super-Resolution_on_Real_Low-Resolution_Images_ICCV_2019_paper.pdf) | [PyTorch](https://github.com/IVRL/Kernel-Modeling-Super-Resolution)  | GAN for blur-kernel estimation   |
 |CFSNet        | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_CFSNet_Toward_a_Controllable_Feature_Space_for_Image_Restoration_ICCV_2019_paper.pdf) | [PyTorch](https://github.com/qibao77/CFSNet)  | Controllable Feature   |
+|FSRnet        | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_Fast_Image_Restoration_With_Multi-Bin_Trainable_Linear_Units_ICCV_2019_paper.pdf) |   | Multi-bin Trainable Linear Units   |
 
-
-
+Fast Image Restoration with Multi-bin Trainable Linear Units
 
 
 ### NTIRE:
