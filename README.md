@@ -198,6 +198,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |CFSNet        | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_CFSNet_Toward_a_Controllable_Feature_Space_for_Image_Restoration_ICCV_2019_paper.pdf) | [PyTorch](https://github.com/qibao77/CFSNet)  | Controllable Feature   |
 |FSRnet        | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_Fast_Image_Restoration_With_Multi-Bin_Trainable_Linear_Units_ICCV_2019_paper.pdf) |   | Multi-bin Trainable Linear Units   |
 |SAM+VAM        | [ICCVW19](https://arxiv.org/pdf/1911.08711.pdf) |   |    |
+|FISR        | [AAAI 2020](https://arxiv.org/pdf/1912.07213.pdf) | [TensorFlow](https://github.com/JihyongOh/FISR)   | **Video joint VFI-SR method**,Multi-scale Temporal Loss   |
 
 ### NTIRE:
 NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
