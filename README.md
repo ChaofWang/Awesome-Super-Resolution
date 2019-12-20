@@ -200,6 +200,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |SAM+VAM        | [ICCVW19](https://arxiv.org/pdf/1911.08711.pdf) |   |    |
 |FISR        | [AAAI 2020](https://arxiv.org/pdf/1912.07213.pdf) | [TensorFlow](https://github.com/JihyongOh/FISR)   | **Video joint VFI-SR method**,Multi-scale Temporal Loss   |
 |ADCSR        | [arxiv](https://arxiv.org/pdf/1912.08002.pdf) |   |    |
+|SCN        | [AAAI 2020](https://arxiv.org/pdf/1912.09028.pdf) |   | Scale-wise Convolution  |
+
 
 
 ### NTIRE:
