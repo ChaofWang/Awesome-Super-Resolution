@@ -242,6 +242,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | FISR                   | [AAAI 2020](https://arxiv.org/pdf/1912.07213.pdf)            | [TensorFlow](https://github.com/JihyongOh/FISR)              | **Video joint VFI-SR method**,Multi-scale Temporal Loss      |
 | ADCSR                  | [arxiv](https://arxiv.org/pdf/1912.08002.pdf)                |                                                              |                                                              |
 | SCN                    | [AAAI 2020](https://arxiv.org/pdf/1912.09028.pdf)            |                                                              | Scale-wise Convolution                                       |
+| LSRGAN                    | [arxiv](https://arxiv.org/pdf/2001.08126.pdf)            |                                                              | Latent Space Regularization for srgan                                       |
 
 
 ### Super Resolution workshop papers
