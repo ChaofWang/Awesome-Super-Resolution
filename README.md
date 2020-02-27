@@ -243,6 +243,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | ADCSR                  | [arxiv](https://arxiv.org/pdf/1912.08002.pdf)                |                                                              |                                                              |
 | SCN                    | [AAAI 2020](https://arxiv.org/pdf/1912.09028.pdf)            |                                                              | Scale-wise Convolution                                       |
 | LSRGAN                    | [arxiv](https://arxiv.org/pdf/2001.08126.pdf)            |                                                              | Latent Space Regularization for srgan                                       |
+| Zooming Slow-Mo        | [CVPR 2020](https://arxiv.org/pdf/2002.11616.pdf)            | [PyTorch](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)                                                             | joint VFI and SR，one-stage，  deformable ConvLSTM                     |
 
 
 ### Super Resolution workshop papers
