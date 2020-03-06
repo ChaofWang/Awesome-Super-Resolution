@@ -245,6 +245,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | LSRGAN                    | [arxiv](https://arxiv.org/pdf/2001.08126.pdf)            |                                                              | Latent Space Regularization for srgan                                       |
 | Zooming Slow-Mo        | [CVPR 2020](https://arxiv.org/pdf/2002.11616.pdf)            | [PyTorch](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)                                                             | joint VFI and SR，one-stage，  deformable ConvLSTM                     |
 | MZSR        | [CVPR 2020](https://arxiv.org/pdf/2002.12213.pdf)            |                                                              | Meta-Transfer Learning, Zero-Shot                     |
+| VESR-Net        | [arxiv](https://arxiv.org/pdf/2003.02115.pdf)            |                                                              | Youku Video Enhancement and Super-Resolution Challenge Champion                    |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
