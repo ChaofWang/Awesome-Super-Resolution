@@ -254,6 +254,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | EventSR        | [CVPR 2020](https://arxiv.org/pdf/2003.07640.pdf)            |                                                             | split three phases                     |
 | USRNet        | [CVPR 2020](https://arxiv.org/pdf/2003.10428.pdf)            | [PyTorch](https://github.com/cszn/USRNet)                                                             |                    |
 | PULSE        | [CVPR 2020](https://arxiv.org/pdf/2003.03808.pdf)            |                                                             | Self-Supervised                     |
+| SPSR        | [CVPR 2020](https://arxiv.org/pdf/2003.13081.pdf)            | [Code](https://github.com/Maclory/SPSR)                                                             |  Gradient Guidance, GAN                  |
+
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
 
