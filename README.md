@@ -257,6 +257,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | SPSR        | [CVPR 2020](https://arxiv.org/pdf/2003.13081.pdf)            | [Code](https://github.com/Maclory/SPSR)                                                             |  Gradient Guidance, GAN                  |
 | DASR        | [arxiv](https://arxiv.org/pdf/2004.01178.pdf)            | [Code](https://github.com/ShuhangGu/DASR)                                                             | Real-World Image Super-Resolution, Unsupervised SuperResolution, Domain Adaptation.                  |
 | STVUN        | [arxiv](https://arxiv.org/pdf/2004.02432.pdf)            | [PyTorch](https://github.com/JaeYeonKang/STVUN-Pytorch)                                                             | Video Super-Resolution, Video Frame Interpolation, Joint space-time upsampling                  |
+| AdaDSR        | [arxiv](https://arxiv.org/pdf/2004.03915.pdf)            | [PyTorch](https://github.com/csmliu/AdaDSR)                                                             | Adaptive Inference                  |
+| Scale-Arbitrary SR        | [arxiv](https://arxiv.org/pdf/2004.03791.pdf)            |                                                              | Scale-Arbitrary Super-Resolution, Knowledge Transfer                  |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
