@@ -260,6 +260,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | AdaDSR        | [arxiv](https://arxiv.org/pdf/2004.03915.pdf)            | [PyTorch](https://github.com/csmliu/AdaDSR)                                                             | Adaptive Inference                  |
 | Scale-Arbitrary SR        | [arxiv](https://arxiv.org/pdf/2004.03791.pdf)            | [Code](https://github.com/LongguangWang/Scale-Arbitrary-SR)                                                             | Scale-Arbitrary Super-Resolution, Knowledge Transfer                  |
 | DeepSEE        | [arxiv](https://arxiv.org/pdf/2004.04433.pdf)            | [Code](https://mcbuehler.github.io/DeepSEE/)                                                             | Extreme super-resolution,32× magnification                  |
+| CutBlur        | [CVPR 2020](https://arxiv.org/pdf/2004.00448.pdf)            | [PyTorch](https://github.com/clovaai/cutblur/blob/master/main.py)             | SR Data Augmentation                  |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
