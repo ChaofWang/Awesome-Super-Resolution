@@ -41,6 +41,10 @@ Collect some super-resolution related papers, data and repositories.
 
 [Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution)
 
+[Awesome-LF-Image-SR](https://github.com/YingqianWang/Awesome-LF-Image-SR)
+
+[Awesome-Stereo-Image-SR](https://github.com/YingqianWang/Awesome-Stereo-Image-SR)
+
 
 
 #### Awesome repos:
