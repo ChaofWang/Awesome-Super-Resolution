@@ -45,6 +45,7 @@ Collect some super-resolution related papers, data and repositories.
 
 [Awesome-Stereo-Image-SR](https://github.com/YingqianWang/Awesome-Stereo-Image-SR)
 
+[AI-video-enhance](https://github.com/jlygit/AI-video-enhance)
 
 
 #### Awesome repos:
