@@ -268,7 +268,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | DeepSEE        | [arxiv](https://arxiv.org/pdf/2004.04433.pdf)            | [Code](https://mcbuehler.github.io/DeepSEE/)                                                             | Extreme super-resolution,32× magnification                  |
 | CutBlur        | [CVPR 2020](https://arxiv.org/pdf/2004.00448.pdf)            | [PyTorch](https://github.com/clovaai/cutblur/blob/master/main.py)             | SR Data Augmentation                  |
 | UDVD        | [CVPR 2020](https://arxiv.org/pdf/2004.06965.pdf)            |   | Unified Dynamic Convolutional，SISR and denoise           |
-
+| DIN        | [IJCAI-PRICAI 2020](https://arxiv.org/pdf/2004.11814.pdf)            |   | SISR，asymmetric co-attention           |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
