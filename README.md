@@ -270,6 +270,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | UDVD        | [CVPR 2020](https://arxiv.org/pdf/2004.06965.pdf)            |   | Unified Dynamic Convolutional，SISR and denoise           |
 | DIN        | [IJCAI-PRICAI 2020](https://arxiv.org/pdf/2004.11814.pdf)            |   | SISR，asymmetric co-attention           |
 | PANet        | [arxiv](https://arxiv.org/pdf/2004.13824.pdf)   |[PyTorch](https://github.com/SHI-Labs/Pyramid-Attention-Networks)   | Pyramid Attention        |
+| SRResCGAN        | [arxiv](https://arxiv.org/pdf/2005.00953.pdf)   |[PyTorch](https://github.com/RaoUmer/SRResCGAN)   |         |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
@@ -282,7 +283,12 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 #### AIM19 [papers](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_AIM.py)
 
-NOTE:  [NTIRE 2020]('http://www.vision.ee.ethz.ch/ntire20/') **started!**
+#### NTIRE20 [NTIRE 2020](http://www.vision.ee.ethz.ch/ntire20/)
+---[Image and Video Deblurring](https://arxiv.org/pdf/2005.01244.pdf)
+
+---[Perceptual Extreme Super-Resolution](https://arxiv.org/pdf/2005.01056.pdf)
+
+---[Real-World Image Super-Resolution](https://arxiv.org/pdf/2005.01996.pdf)
 
 ###  Super Resolution survey
 
