@@ -290,6 +290,9 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 ---[Real-World Image Super-Resolution](https://arxiv.org/pdf/2005.01996.pdf)
 
+### NOTE! [AIM20](https://data.vision.ee.ethz.ch/cvl/aim20/) Started!
+
+
 ###  Super Resolution survey
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
