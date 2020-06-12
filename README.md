@@ -277,6 +277,13 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | CSNLN               | [CVPR 2020](https://arxiv.org/pdf/2006.01424.pdf)            | [PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)         | Cross-Scale Non-Local Attention,Exhaustive Self-Exemplars Mining, Similar to PANet  |
 | TTSR               | [CVPR 2020](https://arxiv.org/pdf/2006.04139.pdf)            | [PyTorch](https://github.com/FuzhiYang/TTSR)         | Texture Transformer |
 | NSR               | [arxiv](https://arxiv.org/pdf/2006.04357.pdf)            | [PyTorch](https://github.com/ychfan/nsr)         | Neural Sparse Representation |
+| RFANet               | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf)            |    | state-of-the-art SISR |
+| Correction filter     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Abu_Hussein_Correction_Filter_for_Single_Image_Super-Resolution_Robustifying_Off-the-Shelf_Deep_Super-Resolvers_CVPR_2020_paper.pdf)            |    | Enhance  SISR model generalization |
+| Unpaired SR     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.pdf)            |    |Unpaired Image Super-Resolution |
+| STARnet     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Haris_Space-Time-Aware_Multi-Resolution_Video_Enhancement_CVPR_2020_paper.pdf)            |    |Space-Time-Aware multi-Resolution |
+| SSSR     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf)    | [code](https://github.com/wanglixilinx/DSRL)   |SISR for Semantic Segmentation and Human pose estimation |
+| VSR_TGA     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf)    | [code](https://github.com/junpan19/VSR_TGA)   | Temporal Group Attention, Fast Spatial Alignment |
+| SSEN     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.pdf)    |   | Similarity-Aware Deformable Convolution |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
@@ -289,12 +296,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 #### AIM19 [papers](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_AIM.py)
 
-#### NTIRE20 [NTIRE 2020](http://www.vision.ee.ethz.ch/ntire20/)
----[Image and Video Deblurring](https://arxiv.org/pdf/2005.01244.pdf)
-
----[Perceptual Extreme Super-Resolution](https://arxiv.org/pdf/2005.01056.pdf)
-
----[Real-World Image Super-Resolution](https://arxiv.org/pdf/2005.01996.pdf)
+#### NTIRE20 [papers](http://openaccess.thecvf.com/CVPR2020_workshops/CVPR2020_w31.py)
 
 ### NOTE! [AIM20](https://data.vision.ee.ethz.ch/cvl/aim20/) Started!
 
