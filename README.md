@@ -290,6 +290,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | IGNN  | [arxiv](https://arxiv.org/abs/2006.16673)    | [Code](https://github.com/sczhou/IGNN)  | GNN, SISR |
 | MIRNet  | [ECCV 2020](https://arxiv.org/pdf/2003.06792.pdf)    | [PyTorch](https://github.com/swz30/MIRNet)  | multi-scale residual block |
 | SFM  | [ECCV 2020](https://arxiv.org/pdf/2003.07119.pdf)    | [PyTorch](https://github.com/majedelhelou/SFM)  | stochastic frequency mask |
+| TCSVT  | [arxiv](https://arxiv.org/pdf/2007.05835.pdf)    | [TensorFlow](https://github.com/avisekiit/TCSVT-LightWeight-CNNs)  | LightWeight modules |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
