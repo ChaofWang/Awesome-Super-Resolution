@@ -96,6 +96,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |  Vimeo-90k   | Train/Test |           [website](http://toflow.csail.mit.edu/)            |                     90k HQ videos                      |
 |  SR-RAW   | Train/Test |           [website](https://ceciliavision.github.io/project-pages/project-zoom.html)            |                      raw sensor image dataset                      |
 |  W2S   | Train/Test |           [arxiv](https://arxiv.org/pdf/2003.05961.pdf)            |     A Joint Denoising and Super-Resolution Dataset                      |
+|  PIPAL   | Test |           [ECCV 2020](https://arxiv.org/pdf/2007.12142.pdf)            |     Perceptual Image Quality Assessment dataset                  |
 
 #### Dataset collections
 
@@ -292,6 +293,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | SFM  | [ECCV 2020](https://arxiv.org/pdf/2003.07119.pdf)    | [PyTorch](https://github.com/majedelhelou/SFM)  | stochastic frequency mask |
 | TCSVT  | [arxiv](https://arxiv.org/pdf/2007.05835.pdf)    | [TensorFlow](https://github.com/avisekiit/TCSVT-LightWeight-CNNs)  | LightWeight modules |
 | PISR  | [ECCV 2020](https://arxiv.org/pdf/2007.07524.pdf)    | [PyTorch](https://github.com/cvlab-yonsei/PISR)  | FSRCNN,distillation framework, HR privileged information |
+| MuCAN  | [ECCV 2020](https://arxiv.org/pdf/2007.11803.pdf)    | | **VideoSR**, Temporal Multi-Correspondence Aggregation  |
 
 
 ### Super Resolution workshop papers
