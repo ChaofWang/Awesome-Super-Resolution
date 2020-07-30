@@ -294,6 +294,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | TCSVT  | [arxiv](https://arxiv.org/pdf/2007.05835.pdf)    | [TensorFlow](https://github.com/avisekiit/TCSVT-LightWeight-CNNs)  | LightWeight modules |
 | PISR  | [ECCV 2020](https://arxiv.org/pdf/2007.07524.pdf)    | [PyTorch](https://github.com/cvlab-yonsei/PISR)  | FSRCNN,distillation framework, HR privileged information |
 | MuCAN  | [ECCV 2020](https://arxiv.org/pdf/2007.11803.pdf)    | | **VideoSR**, Temporal Multi-Correspondence Aggregation  |
+| DGP  | [ECCV 2020](https://arxiv.org/pdf/2003.13659.pdf)    |[PyTorch](https://github.com/XingangPan/deep-generative-prior) | ECCV oral, GAN, Image Restoration and Manipulation,   |
 
 
 ### Super Resolution workshop papers
