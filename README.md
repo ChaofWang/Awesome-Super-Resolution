@@ -297,6 +297,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | DGP  | [ECCV 2020](https://arxiv.org/pdf/2003.13659.pdf)    |[PyTorch](https://github.com/XingangPan/deep-generative-prior) | ECCV oral, GAN, Image Restoration and Manipulation,   |
 | RSDN| [ECCV 2020](https://arxiv.org/pdf/2008.00455.pdf)    |[Code](https://github.com/junpan19/RSDN) | **VideoSR**, Recurrent Neural Network, TwoStream Block|
 | CDC| [ECCV 2020](https://arxiv.org/pdf/2008.01928.pdf)    |[PyTorch](https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution) | Diverse Real-world SR dataset, Component Divide-and-Conquer model, GradientWeighted loss|
+| MS3-Conv| [arxiv](https://arxiv.org/pdf/2008.00239.pdf)    | | Multi-Scale cross-Scale Share-weights convolution |
+| OverNet| [arxiv](https://arxiv.org/pdf/2008.02382.pdf)    |  | Lightweight, Overscaling Module, multi-scale loss, Arbitrary Scale Factors |
 
 
 ### Super Resolution workshop papers
