@@ -299,7 +299,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | CDC| [ECCV 2020](https://arxiv.org/pdf/2008.01928.pdf)    |[PyTorch](https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution) | Diverse Real-world SR dataset, Component Divide-and-Conquer model, GradientWeighted loss|
 | MS3-Conv| [arxiv](https://arxiv.org/pdf/2008.00239.pdf)    | | Multi-Scale cross-Scale Share-weights convolution |
 | OverNet| [arxiv](https://arxiv.org/pdf/2008.02382.pdf)    |  | Lightweight, Overscaling Module, multi-scale loss, Arbitrary Scale Factors |
-
+| RRN| [BMVC20](https://arxiv.org/pdf/2008.05765.pdf)    | [code](https://github.com/junpan19/RRN) | **VideoSR**, Recurrent Residual Network, temporal modeling method |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
