@@ -302,6 +302,19 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | RRN| [BMVC20](https://arxiv.org/pdf/2008.05765.pdf)    | [code](https://github.com/junpan19/RRN) | **VideoSR**, Recurrent Residual Network, temporal modeling method |
 | NAS-DIP| [ECCV 2020](https://arxiv.org/pdf/2008.11713.pdf)    | | NAS|
 
+| SRFlow| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500698.pdf)    |[code](https://github.com/andreas128/SRFlow) | Spotlight, Normalizing Flow|
+
+| LatticeNet| [ECCV 2020](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)  | |Lattice Block, LatticeNet, Lightweight, Attention|
+| BSRN| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf)  | |Model Quantization, Binary Neural Network, Bit-Accumulation Mechanism|
+| VarSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680426.pdf)  | |Variational Super-Resolution, very low resolution |
+| HAN| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570188.pdf)  | |SISR, holistic attention network, channel-spatial attention module |
+| DeepTemporalSR| [ECCV 2020](http://www.wisdom.weizmann.ac.il/~vision/DeepTemporalSR/supplementary/AcrossScalesAndDimensions_ECCV2020.pdf)  | |Temporal Super-Resolution |
+| DGDML-SR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620256.pdf)  | |Zero-Shot, Depth Guided Internal Degradation Learning  |
+|MLSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720749.pdf)  | |Meta-learning, Patch recurrence  |
+|PlugNet| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600154.pdf)  | |Scene Text Recognition, Feature Squeeze Module |
+|TextZoom| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550647.pdf)  |[code](https://github.com/JasonBoy1/TextZoom) |Scene Text Recognition |
+|TPSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710086.pdf)  |  |NAS,Tiny Perceptual SR |
+|CUCaNet| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740205.pdf)  | [PyTorch](https://github.com/danfenghong/ECCV2020_CUCaNet) |Coupled unmixing, cross-attention,hyperspectral super-resolution, multispectral, unsupervised |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
