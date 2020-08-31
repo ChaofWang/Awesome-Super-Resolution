@@ -301,9 +301,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | OverNet| [arxiv](https://arxiv.org/pdf/2008.02382.pdf)    |  | Lightweight, Overscaling Module, multi-scale loss, Arbitrary Scale Factors |
 | RRN| [BMVC20](https://arxiv.org/pdf/2008.05765.pdf)    | [code](https://github.com/junpan19/RRN) | **VideoSR**, Recurrent Residual Network, temporal modeling method |
 | NAS-DIP| [ECCV 2020](https://arxiv.org/pdf/2008.11713.pdf)    | | NAS|
-
 | SRFlow| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500698.pdf)    |[code](https://github.com/andreas128/SRFlow) | Spotlight, Normalizing Flow|
-
 | LatticeNet| [ECCV 2020](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)  | |Lattice Block, LatticeNet, Lightweight, Attention|
 | BSRN| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf)  | |Model Quantization, Binary Neural Network, Bit-Accumulation Mechanism|
 | VarSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680426.pdf)  | |Variational Super-Resolution, very low resolution |
