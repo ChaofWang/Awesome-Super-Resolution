@@ -314,6 +314,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |TPSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710086.pdf)  |  |NAS,Tiny Perceptual SR |
 |CUCaNet| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740205.pdf)  | [PyTorch](https://github.com/danfenghong/ECCV2020_CUCaNet) |Coupled unmixing, cross-attention,hyperspectral super-resolution, multispectral, unsupervised |
 |MAFFSRN| [ECCVW 2020](https://arxiv.org/pdf/2008.12912.pdf)  |  |Multi-Attentive Feature Fusion, Ultra Lightweight |
+|SRResCycGAN| [ECCVW 2020](https://arxiv.org/pdf/2009.03693.pdf)  | [PyTorch](https://github.com/RaoUmer/SRResCycGAN) |RealSR, CycGAN |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
