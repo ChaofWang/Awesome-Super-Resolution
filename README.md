@@ -315,6 +315,9 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |CUCaNet| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740205.pdf)  | [PyTorch](https://github.com/danfenghong/ECCV2020_CUCaNet) |Coupled unmixing, cross-attention,hyperspectral super-resolution, multispectral, unsupervised |
 |MAFFSRN| [ECCVW 2020](https://arxiv.org/pdf/2008.12912.pdf)  |  |Multi-Attentive Feature Fusion, Ultra Lightweight |
 |SRResCycGAN| [ECCVW 2020](https://arxiv.org/pdf/2009.03693.pdf)  | [PyTorch](https://github.com/RaoUmer/SRResCycGAN) |RealSR, CycGAN |
+|A-CubeNet| [arxiv](https://arxiv.org/pdf/2009.05907.pdf)  |  |SISR, lightweight|
+|MoG-DUN| [arxiv](https://arxiv.org/pdf/2009.06254.pdf)  |  |SISR |
+|Understanding Deformable Alignment| [arxiv](https://arxiv.org/pdf/2009.07265.pdf)  | | **VideoSR**, EDVR, offset-fidelity loss |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
@@ -329,7 +332,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 #### NTIRE20 [papers](http://openaccess.thecvf.com/CVPR2020_workshops/CVPR2020_w31.py)
 
-### NOTE! [AIM20](https://data.vision.ee.ethz.ch/cvl/aim20/) Started!
+### AIM20 [Web](https://data.vision.ee.ethz.ch/cvl/aim20/)
 
 
 ###  Super Resolution survey
