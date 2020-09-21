@@ -318,6 +318,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |A-CubeNet| [arxiv](https://arxiv.org/pdf/2009.05907.pdf)  |  |SISR, lightweight|
 |MoG-DUN| [arxiv](https://arxiv.org/pdf/2009.06254.pdf)  |  |SISR |
 |Understanding Deformable Alignment| [arxiv](https://arxiv.org/pdf/2009.07265.pdf)  | | **VideoSR**, EDVR, offset-fidelity loss |
+|AdderSR| [arxiv](https://arxiv.org/pdf/2009.08891.pdf)  | |  SISR, adder neural networks, Energy Efficient |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
