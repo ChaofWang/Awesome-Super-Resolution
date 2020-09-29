@@ -321,6 +321,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |AdderSR| [arxiv](https://arxiv.org/pdf/2009.08891.pdf)  | |  SISR, adder neural networks, Energy Efficient |
 |RFDN| [arxiv](https://arxiv.org/pdf/2009.11551.pdf)  | |  SISR, Lightweight, IMDN, AIM20 WINNER |
 |Tarsier| [arxiv](https://arxiv.org/pdf/2009.12177.pdf)  | | improve NESRGAN+,injected noise, Diagonal CMA optimize   |
+|DeFiAN| [arxiv](https://arxiv.org/pdf/2009.13134.pdf)  | [PyTorch](https://github.com/YuanfeiHuang/DeFiAN) |SISR, detail-fidelity attention, Hessian filtering  |
+
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
