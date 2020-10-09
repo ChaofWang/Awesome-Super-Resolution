@@ -322,6 +322,12 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |RFDN| [arxiv](https://arxiv.org/pdf/2009.11551.pdf)  | |  SISR, Lightweight, IMDN, AIM20 WINNER |
 |Tarsier| [arxiv](https://arxiv.org/pdf/2009.12177.pdf)  | | improve NESRGAN+,injected noise, Diagonal CMA optimize   |
 |DeFiAN| [arxiv](https://arxiv.org/pdf/2009.13134.pdf)  | [PyTorch](https://github.com/YuanfeiHuang/DeFiAN) |SISR, detail-fidelity attention, Hessian filtering  |
+|ASDN| [arxiv](https://arxiv.org/pdf/2010.02414.pdf)  | | Arbitrary Scale SR |
+|DAN| [NeurIPS 2020](https://arxiv.org/pdf/2010.02631.pdf)  |[PyTorch](https://github.com/greatlog/DAN)  | Unfolding the Alternating Optimization  |
+|DKC| [ECCVW 2020](https://arxiv.org/pdf/2010.00154.pdf)  | | Deformable Kernel Convolutional, VSR  |
+|FAN| [ECCVW 2020](https://arxiv.org/pdf/2009.14547.pdf)  | | Frequency aggregation network, RealSR  |
+|PAN| [ECCVW 2020](https://arxiv.org/pdf/2010.01073.pdf)  |[PyTorch](https://github.com/zhaohengyuan1/PAN) | Lightweight, Pixel Attention  |
+|SCHN| [arxiv](https://arxiv.org/pdf/2009.12461.pdf)  | | Blind SR,  Spatial Context Hallucination |
 
 
 ### Super Resolution workshop papers
@@ -337,7 +343,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 #### NTIRE20 [papers](http://openaccess.thecvf.com/CVPR2020_workshops/CVPR2020_w31.py)
 
-### AIM20 [Web](https://data.vision.ee.ethz.ch/cvl/aim20/)
+#### AIM20 [Web](https://data.vision.ee.ethz.ch/cvl/aim20/)
 
 
 ###  Super Resolution survey
