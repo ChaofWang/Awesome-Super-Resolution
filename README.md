@@ -329,6 +329,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |PAN| [ECCVW 2020](https://arxiv.org/pdf/2010.01073.pdf)  |[PyTorch](https://github.com/zhaohengyuan1/PAN) | Lightweight, Pixel Attention  |
 |SCHN| [arxiv](https://arxiv.org/pdf/2009.12461.pdf)  | | Blind SR,  Spatial Context Hallucination |
 |A2F-SR| [ACCV 2020](https://arxiv.org/pdf/2011.06773.pdf)  |[PyTorch](https://github.com/wxxxxxxh/A2F-SR) | Lightweight, Attentive Auxiliary Feature Learning  |
+|IPT| [arxiv](https://arxiv.org/pdf/2012.00364.pdf)  | | Pre-Trained Image Processing Transformer, Imagenet pretrained, dramatically improve performance  |
+
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
