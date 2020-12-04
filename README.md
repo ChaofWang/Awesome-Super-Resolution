@@ -330,7 +330,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |SCHN| [arxiv](https://arxiv.org/pdf/2009.12461.pdf)  | | Blind SR,  Spatial Context Hallucination |
 |A2F-SR| [ACCV 2020](https://arxiv.org/pdf/2011.06773.pdf)  |[PyTorch](https://github.com/wxxxxxxh/A2F-SR) | Lightweight, Attentive Auxiliary Feature Learning  |
 |IPT| [arxiv](https://arxiv.org/pdf/2012.00364.pdf)  | | Pre-Trained Image Processing Transformer, Imagenet pretrained, dramatically improve performance  |
-
+|GLEAN| [arxiv](https://arxiv.org/pdf/2012.00739.pdf)  | | Latent Bank, large scale factor  |
+|BasicVSR| [arxiv](https://arxiv.org/pdf/2012.02181.pdf)  | | **VideoSR**, The Search for Essential Components  |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
