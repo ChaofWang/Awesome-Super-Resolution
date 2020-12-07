@@ -332,6 +332,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |IPT| [arxiv](https://arxiv.org/pdf/2012.00364.pdf)  | | Pre-Trained Image Processing Transformer, Imagenet pretrained, dramatically improve performance  |
 |GLEAN| [arxiv](https://arxiv.org/pdf/2012.00739.pdf)  | | Latent Bank, large scale factor  |
 |BasicVSR| [arxiv](https://arxiv.org/pdf/2012.02181.pdf)  | | **VideoSR**, The Search for Essential Components  |
+|EVRNet| [arxiv](https://arxiv.org/pdf/2012.02228.pdf)  | | **VideoSR**, design on Edge Devices |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
