@@ -334,6 +334,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |BasicVSR| [arxiv](https://arxiv.org/pdf/2012.02181.pdf)  | | **VideoSR**, The Search for Essential Components  |
 |EVRNet| [arxiv](https://arxiv.org/pdf/2012.02228.pdf)  | | **VideoSR**, design on Edge Devices |
 |HRAN| [arxiv](https://arxiv.org/pdf/2012.04578.pdf)  | | lightweight,SISR |
+|FCA| [arxiv](https://arxiv.org/pdf/2012.10102.pdf)  | | Frequency Consistent Adaptation ,Real SR |
+
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
