@@ -335,7 +335,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |EVRNet| [arxiv](https://arxiv.org/pdf/2012.02228.pdf)  | | **VideoSR**, design on Edge Devices |
 |HRAN| [arxiv](https://arxiv.org/pdf/2012.04578.pdf)  | | lightweight,SISR |
 |FCA| [arxiv](https://arxiv.org/pdf/2012.10102.pdf)  | | Frequency Consistent Adaptation ,Real SR |
-
+|DAQ| [arxiv](https://arxiv.org/pdf/2012.11230.pdf)  | | Distribution-Aware Quantization |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
