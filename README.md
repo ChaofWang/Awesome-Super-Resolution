@@ -10,7 +10,7 @@
     - [2018](2018_papers.md)
     - [2019](2019_papers.md)
     - [2020](2020_papers.md)
-    - [2021](#Latest Year Papers(2021))
+    - [2021](#2021)
 - [Super Resolution workshop papers](workshops.md)
 - [Super Resolution survey](sr_survey.md)
 
@@ -24,8 +24,8 @@ Collect some super-resolution related papers, data and repositories.
 
 Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperResolution/blob/master/README.md#network-list-and-reference-updating)
 
-### Latest Year Papers(2021)
-More years papers, plase check [Quick navigation](#Quick navigation)
+### 2021
+More years papers, plase check Quick navigation
 
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
