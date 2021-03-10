@@ -33,6 +33,7 @@ More years papers, plase check Quick navigation
 | SplitSR                | [arxiv](https://arxiv.org/pdf/2101.07996.pdf)            | -              | lightweight,on Mobile Devices      |
 | BurstSR                | [arxiv](https://arxiv.org/pdf/2101.10997.pdf)            | -              | multi-frame sr, new BurstSR dataset      |
 | USTVSRNet              | [arxiv](https://arxiv.org/pdf/2102.13011.pdf)            | -              | ***VSR***, Unconstrained video super-resolution,general-ized  pixelshuffle  layer.     |
+| ClassSR                | [cvpr21](https://arxiv.org/pdf/2103.04039.pdf)           | [code](https://github.com/Xiangtaokong/ClassSR)         | classification，lightweight |
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
