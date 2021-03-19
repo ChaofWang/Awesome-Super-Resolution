@@ -36,6 +36,7 @@ More years papers, plase check Quick navigation
 | ClassSR                | [cvpr21](https://arxiv.org/pdf/2103.04039.pdf)           | [code](https://github.com/Xiangtaokong/ClassSR)         | classification，lightweight | 
 | FADN                   | [arxiv](https://arxiv.org/pdf/2103.08357.pdf)            | -              |  Efficient SR，DCT，Mask Predictor，dynamic resblocks，frequency mask loss|
 | SESR                   | [arxiv](https://arxiv.org/pdf/2103.09404.pdf)            | -              |  Super-Efficient SR, overparameterization|
+| Adapted VSR            | [arxiv](https://arxiv.org/pdf/2103.10081.pdf)            | -              |  ***VSR***, Self-Supervised Adaptationn|
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
