@@ -37,6 +37,8 @@ More years papers, plase check Quick navigation
 | FADN                   | [arxiv](https://arxiv.org/pdf/2103.08357.pdf)            | -              |  Efficient SR，DCT，Mask Predictor，dynamic resblocks，frequency mask loss|
 | SESR                   | [arxiv](https://arxiv.org/pdf/2103.09404.pdf)            | -              |  Super-Efficient SR, overparameterization|
 | Adapted VSR            | [arxiv](https://arxiv.org/pdf/2103.10081.pdf)            | -              |  ***VSR***, Self-Supervised Adaptationn|
+| Generic Perceptual Loss| [cvpr21](https://arxiv.org/pdf/2103.10571.pdf)           | -              |  Random VGG w/o pretrianed, work at semantic segmentation, depthestimation  and  instance  segmentation|
+
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
