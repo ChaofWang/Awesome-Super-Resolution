@@ -38,6 +38,7 @@ More years papers, plase check Quick navigation
 | SESR                   | [arxiv](https://arxiv.org/pdf/2103.09404.pdf)            | -              |  Super-Efficient SR, overparameterization|
 | Adapted VSR            | [arxiv](https://arxiv.org/pdf/2103.10081.pdf)            | -              |  ***VSR***, Self-Supervised Adaptationn|
 | Generic Perceptual Loss| [cvpr21](https://arxiv.org/pdf/2103.10571.pdf)           | -              |  Random VGG w/o pretrianed, work at semantic segmentation, depthestimation  and  instance  segmentation|
+| U3D-RDN                | [AAAI21](https://arxiv.org/pdf/2103.11744.pdf)           | -              |  ***VSR***, Dual Subnet, Multi-stage Communicated Up-sampling|
 
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
