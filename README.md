@@ -40,6 +40,7 @@ More years papers, plase check Quick navigation
 | Generic Perceptual Loss| [cvpr21](https://arxiv.org/pdf/2103.10571.pdf)           | -              |  Random VGG w/o pretrianed, work at semantic segmentation, depthestimation  and  instance  segmentation|
 | U3D-RDN                | [AAAI21](https://arxiv.org/pdf/2103.11744.pdf)           | -              |  ***VSR***, Dual Subnet, Multi-stage Communicated Up-sampling|
 | UltraSR                | [arxiv](https://arxiv.org/pdf/2103.12716.pdf)            | -              |  Implicit Image Function Based, Arbitrary-Scale|
+| BSRNet/BSRGAN          | [arxiv](https://arxiv.org/pdf/2103.14006.pdf)            | -              |  randomly shuffled blur, downsampling and noise degradations for degradation model |
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
