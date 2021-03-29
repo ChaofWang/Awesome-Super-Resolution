@@ -41,6 +41,8 @@ More years papers, plase check Quick navigation
 | U3D-RDN                | [AAAI21](https://arxiv.org/pdf/2103.11744.pdf)           | -              |  ***VSR***, Dual Subnet, Multi-stage Communicated Up-sampling|
 | UltraSR                | [arxiv](https://arxiv.org/pdf/2103.12716.pdf)            | -              |  Implicit Image Function Based, Arbitrary-Scale|
 | BSRNet/BSRGAN          | [arxiv](https://arxiv.org/pdf/2103.14006.pdf)            | -              |  randomly shuffled blur, downsampling and noise degradations for degradation model |
+| D2C-SR                 | [arxiv](https://arxiv.org/pdf/2103.14373.pdf)            | -              |  RealSR， divergence stage with a triple loss ，convergence stage|
+| MDF loss               | [arxiv](https://arxiv.org/pdf/2103.14616.pdf)            | [code](https://github.com/gfxdisp/mdf)              |  Multi-Scale Discriminative Feature loss|
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
