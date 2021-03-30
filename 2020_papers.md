@@ -78,6 +78,7 @@
 |DeFiAN                  | [arxiv](https://arxiv.org/pdf/2009.13134.pdf)  | [PyTorch](https://github.com/YuanfeiHuang/DeFiAN) |SISR, detail-fidelity attention, Hessian filtering  |
 |ASDN                    | [arxiv](https://arxiv.org/pdf/2010.02414.pdf)  | | Arbitrary Scale SR |
 |DAN                     | [NeurIPS 20](https://arxiv.org/pdf/2010.02631.pdf)  |[PyTorch](https://github.com/greatlog/DAN)  | Unfolding the Alternating Optimization  |
+|LAPAR                   | [NeurIPS 20](https://papers.nips.cc/paper/2020/file/eaae339c4d89fc102edd9dbdb6a28915-Paper.pdf)  |[PyTorch](https://github.com/Jia-Research-Lab/Simple-SR)  | lightweigt, Linearly-Assembled Pixel-Adaptive Regression Network  |
 |DKC                     | [ECCVW 20](https://arxiv.org/pdf/2010.00154.pdf)  | | Deformable Kernel Convolutional, VSR  |
 |FAN                     | [ECCVW 20](https://arxiv.org/pdf/2009.14547.pdf)  | | Frequency aggregation network, RealSR  |
 |PAN                     | [ECCVW 20](https://arxiv.org/pdf/2010.01073.pdf)  |[PyTorch](https://github.com/zhaohengyuan1/PAN) | Lightweight, Pixel Attention  |
