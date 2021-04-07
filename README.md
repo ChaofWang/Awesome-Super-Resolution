@@ -47,6 +47,7 @@ More years papers, plase check Quick navigation
 | OVSR                   | [arxiv](https://arxiv.org/pdf/2103.15683.pdf)            | -              | ***VSR***， new framework， precursor net and successor net  |
 | Beby-GAN               | [arxiv](https://arxiv.org/pdf/2103.15295.pdf)            | [code](https://github.com/Jia-Research-Lab/Simple-SR)  |relaxing the immutable one-to-one constraint, Best-Buddy Loss  |
 | FKP                    | [cvpr21](https://arxiv.org/pdf/2103.15977.pdf)           | [code](https://github.com/JingyunLiang/FKP)            |Blind SR, flow-based kernel prio|
+| SRVC                   | [arxiv](https://arxiv.org/pdf/2104.02322.pdf)            | -            |Video Compression， Adaptive Conv|
 
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
