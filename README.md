@@ -51,6 +51,11 @@ More years papers, plase check Quick navigation
 | CMDSR                  | [arxiv](https://arxiv.org/pdf/2104.03926.pdf)            | -            |Blind SR, Conditional Meta-Network|
 | SR3                    | [arxiv](https://arxiv.org/pdf/2104.07636.pdf)            | -            |Repeated Refinement, better than  SOTA GAN|
 | BAM                    | [arxiv](https://arxiv.org/pdf/2104.07566.pdf)            | [code](https://github.com/dandingbudanding/BAM_A_lightweight_but_efficient_Balanced_attention_mechanism_for_super_resolution)            |balanced Attention Mechanism |
+| KASR                   | [arxiv](https://arxiv.org/pdf/2104.09008.pdf)            | -              |realsr, Kernel Agnostic  |
+| DeCoNAS                | [arxiv](https://arxiv.org/pdf/2104.09048.pdf)            | -              |Densely Constructed Search Space  |
+| A2N                    | [arxiv](https://arxiv.org/pdf/2104.09497.pdf)            | [code](https://github.com/haoyuc/A2N)    |Attention in Attention， lightweight  |
+
+
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
