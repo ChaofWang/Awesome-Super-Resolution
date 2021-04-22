@@ -54,8 +54,8 @@ More years papers, plase check Quick navigation
 | KASR                   | [arxiv](https://arxiv.org/pdf/2104.09008.pdf)            | -              |realsr, Kernel Agnostic  |
 | DeCoNAS                | [arxiv](https://arxiv.org/pdf/2104.09048.pdf)            | -              |Densely Constructed Search Space  |
 | A2N                    | [arxiv](https://arxiv.org/pdf/2104.09497.pdf)            | [code](https://github.com/haoyuc/A2N)    |Attention in Attention， lightweight  |
-
-
+| TMNet                  | [arxiv](https://arxiv.org/pdf/2104.10642.pdf)            | [code](https://github.com/CS-GangXu/TMNet)    | ***VSR***， interpolate frames,  Temporal Modulation Block  |
+| TSAN                   | [arxiv](https://arxiv.org/pdf/2104.10488.pdf)            | [code](https://github.com/Jee-King/TSAN)    | SISR， multi-context attentiveblock  |
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
