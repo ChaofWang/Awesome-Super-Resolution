@@ -56,6 +56,7 @@ More years papers, plase check Quick navigation
 | A2N                    | [arxiv](https://arxiv.org/pdf/2104.09497.pdf)            | [code](https://github.com/haoyuc/A2N)    |Attention in Attention， lightweight  |
 | TMNet                  | [arxiv](https://arxiv.org/pdf/2104.10642.pdf)            | [code](https://github.com/CS-GangXu/TMNet)    | ***VSR***， interpolate frames,  Temporal Modulation Block  |
 | TSAN                   | [arxiv](https://arxiv.org/pdf/2104.10488.pdf)            | [code](https://github.com/Jee-King/TSAN)    | SISR， multi-context attentiveblock  |
+| BasicVSR++             | [arxiv](https://arxiv.org/pdf/2104.13371.pdf)            | [code](https://github.com/open-mmlab/mmediting)    | ***VSR***， 3 champions and 1 runner-up in NTIRE 2021   |
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
