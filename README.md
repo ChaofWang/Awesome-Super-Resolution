@@ -59,7 +59,7 @@ More years papers, plase check Quick navigation
 |BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment   | BasicVSR++             | [arxiv](https://arxiv.org/pdf/2104.13371.pdf)            | [code](https://github.com/open-mmlab/mmediting)    | ***VSR***， 3 champions and 1 runner-up in NTIRE 2021   |
 |SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models              | SRDiff                 | [arxiv](https://arxiv.org/pdf/2104.14951.pdf)            |    | Diffusion Probabilistic Models   |
 |SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation              | SRWarp                 | [cvpr21](https://arxiv.org/pdf/2104.10325.pdf)            |[code](https://github.com/sanghyun-son/srwarp)    |  arbitrary transformation   |
-
+|Cross-MPI: Cross-scale Stereo for Image Super-Resolutionusing Multiplane Images        | Cross-MPI              | [cvpr21](https://arxiv.org/pdf/2011.14631.pdf)            |-   |  RefSR, plane-aware attention, coarse-to-fine guided upsampling    |
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
