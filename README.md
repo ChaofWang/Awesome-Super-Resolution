@@ -63,6 +63,7 @@ More years papers, plase check Quick navigation
 |Lightweight Image Super-Resolution with Hierarchical and DifferentiableNeural Architecture Search   | DLSR      | [arxiv](https://arxiv.org/pdf/2105.03939.pdf)            |[code](https://github.com/DawnHH/DLSR-PyTorch)    |  Lightweight   |
 |HINet: Half Instance Normalization Network for Image Restoration   | HINet      | [arxiv](https://arxiv.org/pdf/2105.06086.pdf)            |-  |  Half Instance Normalization Block, 1st place on the NTIRE 2021 Image Deblurring Challenge - Track2. JPEG Artifacts   |
 |FDAN: Flow-guided Deformable Alignment Network for Video Super-Resolution   | FDAN      | [arxiv](https://arxiv.org/pdf/2105.05640.pdf)            |-  |  ***VSR***, Flowguided Deformable Module  |
+|End-to-end Alternating Optimization for Blind Super Resolution   | DAN      | [arxiv](https://arxiv.org/pdf/2105.06878.pdf)            |[code](https://github.com/greatlog/DAN)  |  Blind SR, Restorer and Estimator Alternating Optimization  |
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
