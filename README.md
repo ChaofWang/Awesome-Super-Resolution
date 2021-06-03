@@ -65,6 +65,7 @@ More years papers, plase check Quick navigation
 |FDAN: Flow-guided Deformable Alignment Network for Video Super-Resolution   | FDAN      | [arxiv](https://arxiv.org/pdf/2105.05640.pdf)            |-  |  ***VSR***, Flowguided Deformable Module  |
 |End-to-end Alternating Optimization for Blind Super Resolution   | DAN      | [arxiv](https://arxiv.org/pdf/2105.06878.pdf)            |[code](https://github.com/greatlog/DAN)  |  Blind SR, Restorer and Estimator Alternating Optimization  |
 |Anchor-based Plain Net for Mobile Image Super-Resolution   | ABPN      | [arxiv](https://arxiv.org/pdf/2105.09750.pdf)            |[code](https://github.com/NJU-Jet/SR_Mobile_Quantization)  |  MAI2021, mobile device SISR, INT8 Quantization  |
+|Fourier Space Losses for Efficient Perceptual Image Super-Resolution   | -      | [arxiv](https://arxiv.org/pdf/2105.09750.pdf)            |-  |   Fourier space supervision loss  |
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
