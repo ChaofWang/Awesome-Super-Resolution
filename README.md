@@ -65,9 +65,13 @@ More years papers, plase check Quick navigation
 |FDAN: Flow-guided Deformable Alignment Network for Video Super-Resolution   | FDAN      | [arxiv](https://arxiv.org/pdf/2105.05640.pdf)            |-  |  ***VSR***, Flowguided Deformable Module  |
 |End-to-end Alternating Optimization for Blind Super Resolution   | DAN      | [arxiv](https://arxiv.org/pdf/2105.06878.pdf)            |[code](https://github.com/greatlog/DAN)  |  Blind SR, Restorer and Estimator Alternating Optimization  |
 |Anchor-based Plain Net for Mobile Image Super-Resolution   | ABPN      | [arxiv](https://arxiv.org/pdf/2105.09750.pdf)            |[code](https://github.com/NJU-Jet/SR_Mobile_Quantization)  |  MAI2021, mobile device SISR, INT8 Quantization  |
+|Extremely Lightweight Quantization RobustReal-Time Single-Image Super Resolution for Mobile Devices   | XLSR      | [arxiv](https://arxiv.org/pdf/2105.10288.pdf)            |-  |  MAI2021, mobile device SISR Winner, INT8 Quantization  |
 |Fourier Space Losses for Efficient Perceptual Image Super-Resolution   | -      | [arxiv](https://arxiv.org/pdf/2105.09750.pdf)            |-  |   Fourier space supervision loss  |
 |Robust Reference-based Super-Resolution via C2-Matching   | C2-Matching      | [arxiv](https://arxiv.org/pdf/2105.09750.pdf)            |[code](https://github.com/yumingj/C2-Matching)  |   RefSR, ransformation gap, contrastive correspondence network, resolution gap, teacher-student  correlation  distillation  |
 |MASA-SR: Matching Acceleration and Spatial Adaptation forReference-Based Image Super-Resolution   | MASA-SR      | [cvpr21](https://arxiv.org/pdf/2106.02299.pdf)            |[code](https://github.com/dvlab-research/MASA-SR)  |   RefSR, Match & Extraction Module , Spatial Adaptation Module|
+|Noise Conditional Flow Model for Learning the Super-Resolution Space   | NCSR      | [arxiv](https://arxiv.org/pdf/2106.04428.pdf)            |[code](https://github.com/younggeun-kim/NCSR)  |   better than GAN-based model，Flow-based， noise conditional layer |
+|Variational AutoEncoder for Reference based Image Super-Resolution   | RefVAE      | [arxiv](https://arxiv.org/pdf/2106.04090.pdf)            |[code](https://github.com/Holmes-Alan/RefVAE)  | Variational AutoEncoder， refsr   |
+
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
