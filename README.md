@@ -71,6 +71,7 @@ More years papers, plase check Quick navigation
 |MASA-SR: Matching Acceleration and Spatial Adaptation forReference-Based Image Super-Resolution   | MASA-SR      | [cvpr21](https://arxiv.org/pdf/2106.02299.pdf)            |[code](https://github.com/dvlab-research/MASA-SR)  |   RefSR, Match & Extraction Module , Spatial Adaptation Module|
 |Noise Conditional Flow Model for Learning the Super-Resolution Space   | NCSR      | [arxiv](https://arxiv.org/pdf/2106.04428.pdf)            |[code](https://github.com/younggeun-kim/NCSR)  |   better than GAN-based model，Flow-based， noise conditional layer |
 |Variational AutoEncoder for Reference based Image Super-Resolution   | RefVAE      | [arxiv](https://arxiv.org/pdf/2106.04090.pdf)            |[code](https://github.com/Holmes-Alan/RefVAE)  | Variational AutoEncoder， refsr   |
+|Video Super-Resolution Transformer   | VSR-Transformer      | [arxiv](https://arxiv.org/pdf/2106.06847.pdf)            |[code](https://github.com/caojiezhang/VSR-Transformer)  | ***VSR***, spatial-temporal convolutional self-attention layer, bidirectional optical flow-based feed-forward layer   |
 
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
