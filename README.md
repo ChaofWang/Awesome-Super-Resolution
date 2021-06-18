@@ -72,7 +72,10 @@ More years papers, plase check Quick navigation
 |Noise Conditional Flow Model for Learning the Super-Resolution Space   | NCSR      | [arxiv](https://arxiv.org/pdf/2106.04428.pdf)            |[code](https://github.com/younggeun-kim/NCSR)  |   better than GAN-based model，Flow-based， noise conditional layer |
 |Variational AutoEncoder for Reference based Image Super-Resolution   | RefVAE      | [arxiv](https://arxiv.org/pdf/2106.04090.pdf)            |[code](https://github.com/Holmes-Alan/RefVAE)  | Variational AutoEncoder， refsr   |
 |Video Super-Resolution Transformer   | VSR-Transformer      | [arxiv](https://arxiv.org/pdf/2106.06847.pdf)            |[code](https://github.com/caojiezhang/VSR-Transformer)  | ***VSR***, spatial-temporal convolutional self-attention layer, bidirectional optical flow-based feed-forward layer   |
-
+|Practical Single-Image Super-Resolution Using Look-Up Table   | SR-LUT      | [cvpr21](https://openaccess.thecvf.com/content/CVPR2021/papers/Jo_Practical_Single-Image_Super-Resolution_Using_Look-Up_Table_CVPR_2021_paper.pdf)            |-  | SISR, fater than Bicubic,  look-up table  |
+|Towards Fast and Accurate Real-World Depth Super-Resolution: BenchmarkDataset and Baseline   | FDSR       | [cvpr21](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.pdf)            |-  |  depth map SR  |
+|Image Super-Resolution with Non-Local Sparse Attention   | NLSN      | [cvpr21](https://openaccess.thecvf.com/content/CVPR2021/papers/Mei_Image_Super-Resolution_With_Non-Local_Sparse_Attention_CVPR_2021_paper.pdf)            |-  |  Non-Local Sparse Attention， Spherical LSH  |
+|Learning the Non-differentiable Optimization for Blind Super-Resolution   | AMNet，AMGAN       | [cvpr21](https://openaccess.thecvf.com/content/CVPR2021/papers/Hui_Learning_the_Non-Differentiable_Optimization_for_Blind_Super-Resolution_CVPR_2021_paper.pdf)   |-  |  Blind SR， non-differentiable,  adap-tive modulation network  |
 
 #### New NTIRE 2021 started! go [here](https://data.vision.ee.ethz.ch/cvl/ntire21/) 
 
