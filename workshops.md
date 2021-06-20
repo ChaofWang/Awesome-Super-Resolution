@@ -15,3 +15,5 @@
 #### [AIM20](https://data.vision.ee.ethz.ch/cvl/aim20/)
 
 #### [NTIRE21](https://openaccess.thecvf.com/CVPR2021_workshops/NTIRE/)
+
+#### [MAI21](https://openaccess.thecvf.com/CVPR2021_workshops/MAI/)
