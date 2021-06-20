@@ -39,7 +39,6 @@
 | SSSR                   | [CVPR 20](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf)    | [code](https://github.com/wanglixilinx/DSRL)   |SISR for Semantic Segmentation and Human pose estimation |
 | VSR_TGA                | [CVPR 20](http://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf)    | [code](https://github.com/junpan19/VSR_TGA)   | Temporal Group Attention, Fast Spatial Alignment |
 | SSEN                   | [CVPR 20](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.pdf)    |   | Similarity-Aware Deformable Convolution |
-| SMSR                   | [arxiv](https://arxiv.org/pdf/2006.09603.pdf)    |[PyTorch](https://github.com/LongguangWang/SMSR)| Sparse Masks, Efficient SISR
 | LF-InterNet            | [ECCV 20](https://arxiv.org/pdf/1912.07849.pdf)    | [PyTorch](https://github.com/YingqianWang/LF-InterNet)  | Spatial-Angular Interaction, Light Field Image SR |
 | Invertible-Image-Rescaling  | [ECCV 20](https://arxiv.org/abs/2005.05650)    | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling)  | ECCV oral |
 | IGNN                   | [arxiv](https://arxiv.org/abs/2006.16673)    | [Code](https://github.com/sczhou/IGNN)  | GNN, SISR |
@@ -72,7 +71,6 @@
 |A-CubeNet               | [arxiv](https://arxiv.org/pdf/2009.05907.pdf)  |  |SISR, lightweight|
 |MoG-DUN                 | [arxiv](https://arxiv.org/pdf/2009.06254.pdf)  |  |SISR |
 |Understanding Deformable Alignment| [arxiv](https://arxiv.org/pdf/2009.07265.pdf)  | | **VideoSR**, EDVR, offset-fidelity loss |
-|AdderSR                 | [arxiv](https://arxiv.org/pdf/2009.08891.pdf)  | |  SISR, adder neural networks, Energy Efficient |
 |RFDN                    | [arxiv](https://arxiv.org/pdf/2009.11551.pdf)  | [PyTorch](https://github.com/njulj/RFDN) |  SISR, Lightweight, IMDN, AIM20 WINNER |
 |Tarsier                 | [arxiv](https://arxiv.org/pdf/2009.12177.pdf)  | | improve NESRGAN+,injected noise, Diagonal CMA optimize   |
 |DeFiAN                  | [arxiv](https://arxiv.org/pdf/2009.13134.pdf)  | [PyTorch](https://github.com/YuanfeiHuang/DeFiAN) |SISR, detail-fidelity attention, Hessian filtering  |
@@ -84,10 +82,6 @@
 |PAN                     | [ECCVW 20](https://arxiv.org/pdf/2010.01073.pdf)  |[PyTorch](https://github.com/zhaohengyuan1/PAN) | Lightweight, Pixel Attention  |
 |SCHN                    | [arxiv](https://arxiv.org/pdf/2009.12461.pdf)  | | Blind SR,  Spatial Context Hallucination |
 |A2F-SR                  | [ACCV 20](https://arxiv.org/pdf/2011.06773.pdf)  |[PyTorch](https://github.com/wxxxxxxh/A2F-SR) | Lightweight, Attentive Auxiliary Feature Learning  |
-|IPT                     | [arxiv](https://arxiv.org/pdf/2012.00364.pdf)  | | Pre-Trained Image Processing Transformer, Imagenet pretrained, dramatically improve performance  |
-|GLEAN                   | [arxiv](https://arxiv.org/pdf/2012.00739.pdf)  | | Latent Bank, large scale factor  |
-|BasicVSR                | [arxiv](https://arxiv.org/pdf/2012.02181.pdf)  | | **VideoSR**, The Search for Essential Components  |
-|EVRNet                  | [arxiv](https://arxiv.org/pdf/2012.02228.pdf)  | | **VideoSR**, design on Edge Devices |
 |HRAN                    | [arxiv](https://arxiv.org/pdf/2012.04578.pdf)  | | lightweight,SISR |
 |FCA                     | [arxiv](https://arxiv.org/pdf/2012.10102.pdf)  | | Frequency Consistent Adaptation, Real SR |
 |DAQ                     | [arxiv](https://arxiv.org/pdf/2012.11230.pdf)  | | Distribution-Aware Quantization |
