@@ -91,7 +91,7 @@ More years papers, plase check Quick navigation
 |AdderSR: Towards Energy Efficient Image Super-Resolution|AdderSR                 | [cvpr21](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_AdderSR_Towards_Energy_Efficient_Image_Super-Resolution_CVPR_2021_paper.pdf)  |- |  SISR, adder neural networks, Energy Efficient |
 |Deep Burst Super-Resolution                                                            | BurstSR                | [cvpr21](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhat_Deep_Burst_Super-Resolution_CVPR_2021_paper.pdf)            | -              | multi-frame sr, new BurstSR dataset      |
 |Pre-Trained Image Processing Transformer |IPT          | [cvpr21](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf)  | | Pre-Trained Image Processing Transformer, Imagenet pretrained, dramatically improve performance  |
-
+|Blind Image Super-Resolution via ContrastiveRepresentation Learning   | CRL-SR       | [arxiv](https://arxiv.org/pdf/2107.00708.pdf)     |-  | blind SR, contrastive decoupling encoding， contrastive feature refinement   |
 
 
 
