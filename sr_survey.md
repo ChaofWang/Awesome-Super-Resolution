@@ -9,3 +9,5 @@
 [4]Hongying Liu and Zhubo Ruan and Peng Zhao and Fanhua Shang and Linlin Yang and Yuanyuan Liu. Video Super Resolution Based on Deep Learning: A comprehensive survey. arXiv preprint arXiv:2007.12928.[paper](https://arxiv.org/abs/2007.12928)
 
 [5]Honggang Chen, Xiaohai He, Linbo Qing, Yuanyuan Wu, Chao Ren, and Ce Zhu. Real-World Single Image Super-Resolution:A Brief Review. arxiv, 2021. [paper](https://arxiv.org/pdf/2103.02368.pdf)
+
+[6]Anran Liu, Yihao Liu, Jinjin Gu, Yu Qiao, Chao Dong. Blind Image Super-Resolution: A Survey and Beyond. arxiv, 2021. [paper](https://arxiv.org/pdf/2107.03055.pdf)
