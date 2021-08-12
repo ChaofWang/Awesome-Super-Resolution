@@ -92,6 +92,7 @@ More years papers, plase check Quick navigation
 |Deep Burst Super-Resolution                                                            | BurstSR                | [cvpr21](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhat_Deep_Burst_Super-Resolution_CVPR_2021_paper.pdf)            | -              | multi-frame sr, new BurstSR dataset      |
 |Pre-Trained Image Processing Transformer |IPT          | [cvpr21](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf)  | | Pre-Trained Image Processing Transformer, Imagenet pretrained, dramatically improve performance  |
 |Blind Image Super-Resolution via ContrastiveRepresentation Learning   | CRL-SR       | [arxiv](https://arxiv.org/pdf/2107.00708.pdf)     |-  | blind SR, contrastive decoupling encoding， contrastive feature refinement   |
-
+|Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution   | MANet       | [iccv21](https://arxiv.org/pdf/2108.05302.pdf)     |[code](https://github.com/JingyunLiang/MANet)  | blind SR, spatially variant and invariant kernel, mutual affine network   |
+|Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling   | HCFlow       | [iccv21](https://arxiv.org/pdf/2108.05301.pdf)     |[code](https://github.com/JingyunLiang/HCFlow)  | SR/Rescale, learns a bijective mapping    |
 
 
