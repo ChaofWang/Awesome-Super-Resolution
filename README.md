@@ -94,5 +94,7 @@ More years papers, plase check Quick navigation
 |Blind Image Super-Resolution via ContrastiveRepresentation Learning   | CRL-SR       | [arxiv](https://arxiv.org/pdf/2107.00708.pdf)     |-  | blind SR, contrastive decoupling encoding， contrastive feature refinement   |
 |Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution   | MANet       | [iccv21](https://arxiv.org/pdf/2108.05302.pdf)     |[code](https://github.com/JingyunLiang/MANet)  | blind SR, spatially variant and invariant kernel, mutual affine network   |
 |Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling   | HCFlow       | [iccv21](https://arxiv.org/pdf/2108.05301.pdf)     |[code](https://github.com/JingyunLiang/HCFlow)  | SR/Rescale, learns a bijective mapping    |
-
+|End-to-End Adaptive Monte Carlo Denoising and Super-Resolution   | -       | [arxiv](https://arxiv.org/pdf/2108.06915.pdf)     |-  | Monte Carlo path tracing    |
+|Deep Reparametrization of Multi-Frame Super-Resolution and Denoising   | -       | [iccv21](https://arxiv.org/pdf/2108.08286.pdf)     |-  | Multi-Frame，deep reparametrization of the classical MAP objective    |
+|SwinIR: Image Restoration Using Swin Transformer   | SwinIR       | [arxiv](https://arxiv.org/pdf/2108.10257.pdf)     |[code](https://github.com/JingyunLiang/SwinIR)  |SISR， Swin Transformer， SOTA    |
 
