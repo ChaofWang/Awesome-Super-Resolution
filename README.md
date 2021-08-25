@@ -97,4 +97,5 @@ More years papers, plase check Quick navigation
 |End-to-End Adaptive Monte Carlo Denoising and Super-Resolution   | -       | [arxiv](https://arxiv.org/pdf/2108.06915.pdf)     |-  | Monte Carlo path tracing    |
 |Deep Reparametrization of Multi-Frame Super-Resolution and Denoising   | -       | [iccv21](https://arxiv.org/pdf/2108.08286.pdf)     |-  | Multi-Frame，deep reparametrization of the classical MAP objective    |
 |SwinIR: Image Restoration Using Swin Transformer   | SwinIR       | [arxiv](https://arxiv.org/pdf/2108.10257.pdf)     |[code](https://github.com/JingyunLiang/SwinIR)  |SISR， Swin Transformer， SOTA    |
+|edge–SR: Super–Resolution For The Masses   | eSR       | [arxiv](https://arxiv.org/pdf/2108.10335.pdf)     |-  |SISR， Edge device SR，one–layer architectures use interpretable mechanisms， Filling the gap between classic and deep learning architectures |
 
