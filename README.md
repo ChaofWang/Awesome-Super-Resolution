@@ -98,4 +98,6 @@ More years papers, plase check Quick navigation
 |Deep Reparametrization of Multi-Frame Super-Resolution and Denoising   | -       | [iccv21](https://arxiv.org/pdf/2108.08286.pdf)     |-  | Multi-Frame，deep reparametrization of the classical MAP objective    |
 |SwinIR: Image Restoration Using Swin Transformer   | SwinIR       | [arxiv](https://arxiv.org/pdf/2108.10257.pdf)     |[code](https://github.com/JingyunLiang/SwinIR)  |SISR， Swin Transformer， SOTA    |
 |edge–SR: Super–Resolution For The Masses   | eSR       | [arxiv](https://arxiv.org/pdf/2108.10335.pdf)     |-  |SISR， Edge device SR，one–layer architectures use interpretable mechanisms， Filling the gap between classic and deep learning architectures |
+|Memory-Augmented Non-Local Attention for Video Super-Resolution   | CSNLN       | [arxiv](https://arxiv.org/pdf/2108.11048.pdf)     |-  |***VSR***， without frame alignment， memory-augmented attention module |
+|Attention-based Multi-Reference Learning for Image Super-Resolution   | AMRSR       | [arxiv](https://arxiv.org/pdf/2108.13697.pdf)     |[code](https://arxiv.org/pdf/2108.13697.pdf)  |RefSR， without frame alignment， Hierarchical Attention-based Similarity |
 
