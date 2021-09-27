@@ -102,4 +102,4 @@ More years papers, plase check Quick navigation
 |Attention-based Multi-Reference Learning for Image Super-Resolution   | AMRSR       | [arxiv](https://arxiv.org/pdf/2108.13697.pdf)     |[code](https://marcopesavento.github.io/AMRSR)  |RefSR， without frame alignment， Hierarchical Attention-based Similarity |
 |Simple and Efficient Unpaired Real-world Super-Resolution using Image Statistics   | -       | [arxiv](https://arxiv.org/pdf/2109.09071.pdf)     |-  |unpair SR,variance matching |
 |Dual-Camera Super-Resolution with Aligned Attention Modules   | -       | [iccv21](https://arxiv.org/pdf/2109.01349.pdf)     |[code](https://tengfei-wang.github.io/Dual-Camera-SR/index.html)  | oral, dual camera SR, RefSR,self-supervised domain adaptation strategy    |
-
+|Learning A Single Network for Scale-Arbitrary Super-Resolution   | arbSR       | [iccv21](https://arxiv.org/pdf/2004.03791.pdf)     |[code](https://github.com/LongguangWang/ArbSR)  | SISR， scale-arbitrary SR   |
