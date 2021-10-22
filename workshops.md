@@ -17,3 +17,5 @@
 #### [NTIRE21](https://openaccess.thecvf.com/CVPR2021_workshops/NTIRE/)
 
 #### [MAI21](https://openaccess.thecvf.com/CVPR2021_workshops/MAI/)
+
+#### [AIM21](https://openaccess.thecvf.com/ICCV2021_workshops/AIM)
