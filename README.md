@@ -121,4 +121,5 @@ More years papers, plase check Quick navigation
 |MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolutio |  MEGAN | [arxiv](https://arxiv.org/pdf/2110.15327.pdf) | - | ***space-time  VSR***, long-range memory graph aggregation |
 |Normalizing Flow as a Flexible Fidelity Objective for Photo-Realistic Super-resolution |  - | [arxiv](https://arxiv.org/pdf/2111.03649.pdf) | [code](https://www.git.io/AdFlow) | flow-based NLL loss,replace L1 |
 |Frequency-Aware Physics-Inspired Degradation Model for Real-World Image Super-Resolution |  - | [arxiv](https://arxiv.org/pdf/2111.03301.pdf) | - |  learn the cutoff frequency of real-world degradation process |
-|Local-Selective Feature Distillation for Single Image Super-Resolution |  - | [arxiv](https://arxiv.org/pdf/2111.10988.pdf) | - |  feature distillation ,  local-selective feature distillation (LSFD) |
+|Local-Selective Feature Distillation for Single Image Super-Resolution |  - | [arxiv](https://arxiv.org/pdf/2111.10988.pdf) | - |  feature distillation , local-selective feature distillation (LSFD) 
+|Investigating Tradeoffs in Real-World Video Super-Resolution | RealBasicVSR | [arxiv](https://arxiv.org/pdf/2111.12704.pdf) | [code](https://github.com/ckkelvinchan/RealBasicVSR) | ***RealVSR***  |
