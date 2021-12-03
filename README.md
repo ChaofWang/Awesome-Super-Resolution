@@ -125,3 +125,4 @@ More years papers, plase check Quick navigation
 |Investigating Tradeoffs in Real-World Video Super-Resolution | RealBasicVSR | [arxiv](https://arxiv.org/pdf/2111.12704.pdf) | [code](https://github.com/ckkelvinchan/RealBasicVSR) | ***RealVSR***  |
 |A Practical Contrastive Learning Framework for Single Image Super-Resolution | - | [arxiv](https://arxiv.org/pdf/2111.13924.pdf) | - | SISR, Task-Generalizable Embedding  |
 |AdaDM: Enabling Normalization for Image Super-Resolution | AdaDM | [arxiv](https://arxiv.org/pdf/2111.13905.pdf) | [code](https://github.com/njulj/AdaDM) | SISR, apply BN in SR model  |
+|Revisiting Temporal Alignment for Video Restoration | - | [arxiv](https://arxiv.org/pdf/2111.15288.pdf) | [code](https://github.com/redrock303/Revisiting-Temporal-Alignment-for-Video-Restoration) |***VSR***, iterative alignment module  |
