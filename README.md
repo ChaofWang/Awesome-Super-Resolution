@@ -126,3 +126,4 @@ More years papers, plase check Quick navigation
 |A Practical Contrastive Learning Framework for Single Image Super-Resolution | - | [arxiv](https://arxiv.org/pdf/2111.13924.pdf) | - | SISR, Task-Generalizable Embedding  |
 |AdaDM: Enabling Normalization for Image Super-Resolution | AdaDM | [arxiv](https://arxiv.org/pdf/2111.13905.pdf) | [code](https://github.com/njulj/AdaDM) | SISR, apply BN in SR model  |
 |Revisiting Temporal Alignment for Video Restoration | - | [arxiv](https://arxiv.org/pdf/2111.15288.pdf) | [code](https://github.com/redrock303/Revisiting-Temporal-Alignment-for-Video-Restoration) |***VSR***, iterative alignment module  |
+|PP-MSVSR: Multi-Stage Video Super-Resolution | PP-MSVSR | [arxiv](https://arxiv.org/pdf/2112.02828.pdf) | [code](https://github.com/PaddlePaddle/PaddleGAN) |***VSR***,  local fusion module, auxiliary loss and re-align module  |
