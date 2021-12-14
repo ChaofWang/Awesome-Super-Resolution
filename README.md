@@ -127,3 +127,5 @@ More years papers, plase check Quick navigation
 |AdaDM: Enabling Normalization for Image Super-Resolution | AdaDM | [arxiv](https://arxiv.org/pdf/2111.13905.pdf) | [code](https://github.com/njulj/AdaDM) | SISR, apply BN in SR model  |
 |Revisiting Temporal Alignment for Video Restoration | - | [arxiv](https://arxiv.org/pdf/2111.15288.pdf) | [code](https://github.com/redrock303/Revisiting-Temporal-Alignment-for-Video-Restoration) |***VSR***, iterative alignment module  |
 |PP-MSVSR: Multi-Stage Video Super-Resolution | PP-MSVSR | [arxiv](https://arxiv.org/pdf/2112.02828.pdf) | [code](https://github.com/PaddlePaddle/PaddleGAN) |***VSR***,  local fusion module, auxiliary loss and re-align module  |
+|SphereSR: 360◦ Image Super-Resolution with Arbitrary Projection via Continuous Spherical Image Representation | SphereSR | [arxiv](https://arxiv.org/pdf/2112.06536.pdf) | - |continuous spherical image SR  |
+|Implicit Transformer Network for Screen Content Image Continuous Super-Resolution | ITSRN | [arxiv](https://arxiv.org/pdf/2112.06174.pdf) | [code](https://github.com/codyshen0000/ITSRN) |Implicit Transformer,  Screen Content Image |
