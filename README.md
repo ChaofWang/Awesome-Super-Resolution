@@ -129,3 +129,5 @@ More years papers, plase check Quick navigation
 |PP-MSVSR: Multi-Stage Video Super-Resolution | PP-MSVSR | [arxiv](https://arxiv.org/pdf/2112.02828.pdf) | [code](https://github.com/PaddlePaddle/PaddleGAN) |***VSR***,  local fusion module, auxiliary loss and re-align module  |
 |SphereSR: 360◦ Image Super-Resolution with Arbitrary Projection via Continuous Spherical Image Representation | SphereSR | [arxiv](https://arxiv.org/pdf/2112.06536.pdf) | - |continuous spherical image SR  |
 |Implicit Transformer Network for Screen Content Image Continuous Super-Resolution | ITSRN | [arxiv](https://arxiv.org/pdf/2112.06174.pdf) | [code](https://github.com/codyshen0000/ITSRN) |Implicit Transformer,  Screen Content Image |
+|Reflash Dropout in Image Super-Resolution | - | [arxiv](https://arxiv.org/pdf/2112.12089.pdf) | - |Dropout in SR,  Screen Content Image |
+|A-ESRGAN: TRAINING REAL-WORLD BLIND SUPER-RESOLUTION WITH ATTENTION U-NET DISCRIMINATORS | A-ESRGAN | [arxiv](https://arxiv.org/pdf/2112.10046.pdf) | [code](https://github.com/aesrgan/A-ESRGAN) |Blind SR, GAN, Attention, U-Net |
