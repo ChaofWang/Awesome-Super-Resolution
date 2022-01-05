@@ -131,3 +131,5 @@ More years papers, plase check Quick navigation
 |Implicit Transformer Network for Screen Content Image Continuous Super-Resolution | ITSRN | [arxiv](https://arxiv.org/pdf/2112.06174.pdf) | [code](https://github.com/codyshen0000/ITSRN) |Implicit Transformer,  Screen Content Image |
 |Reflash Dropout in Image Super-Resolution | - | [arxiv](https://arxiv.org/pdf/2112.12089.pdf) | - |Dropout in SR,  Screen Content Image |
 |A-ESRGAN: TRAINING REAL-WORLD BLIND SUPER-RESOLUTION WITH ATTENTION U-NET DISCRIMINATORS | A-ESRGAN | [arxiv](https://arxiv.org/pdf/2112.10046.pdf) | [code](https://github.com/aesrgan/A-ESRGAN) |Blind SR, GAN, Attention, U-Net |
+|Detail-Preserving Transformer for Light Field Image Super-Resolution | DPT | [AAAI2022](https://arxiv.org/pdf/2201.00346.pdf) | [code](https://github.com/BITszwang/DPT) |Light Field, Detail-Preserving Transformer |
+|What Hinders Perceptual Quality of PSNR-oriented Methods? | DECLoss | [arxiv](https://arxiv.org/pdf/2201.01034.pdf) | - |Detail Enhanced Contrastive Loss |
