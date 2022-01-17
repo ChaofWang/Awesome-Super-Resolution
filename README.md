@@ -133,3 +133,8 @@ More years papers, plase check Quick navigation
 |A-ESRGAN: TRAINING REAL-WORLD BLIND SUPER-RESOLUTION WITH ATTENTION U-NET DISCRIMINATORS | A-ESRGAN | [arxiv](https://arxiv.org/pdf/2112.10046.pdf) | [code](https://github.com/aesrgan/A-ESRGAN) |Blind SR, GAN, Attention, U-Net |
 |Detail-Preserving Transformer for Light Field Image Super-Resolution | DPT | [AAAI2022](https://arxiv.org/pdf/2201.00346.pdf) | [code](https://github.com/BITszwang/DPT) |Light Field, Detail-Preserving Transformer |
 |What Hinders Perceptual Quality of PSNR-oriented Methods? | DECLoss | [arxiv](https://arxiv.org/pdf/2201.01034.pdf) | - |Detail Enhanced Contrastive Loss |
+|SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution | SCSNet | [arxiv](https://arxiv.org/pdf/2201.04364.pdf) | - |Image Colorization and Super-Resolution |
+|Coarse-to-Fine Embedded PatchMatch and Multi-Scale Dynamic Aggregation for Reference-based Super-Resolution | AMSA | [arxiv](https://arxiv.org/pdf/2201.04358.pdf) | - |RefSR |
+|Efficient Non-Local Contrastive Attention for Image Super-Resolution | ENLCA | [arxiv](https://arxiv.org/pdf/2201.03794.pdf) | - |SISR |
+
+
