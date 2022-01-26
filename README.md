@@ -136,5 +136,5 @@ More years papers, plase check Quick navigation
 |SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution | SCSNet | [arxiv](https://arxiv.org/pdf/2201.04364.pdf) | - |Image Colorization and Super-Resolution |
 |Coarse-to-Fine Embedded PatchMatch and Multi-Scale Dynamic Aggregation for Reference-based Super-Resolution | AMSA | [arxiv](https://arxiv.org/pdf/2201.04358.pdf) | - |RefSR |
 |Efficient Non-Local Contrastive Attention for Image Super-Resolution | ENLCA | [arxiv](https://arxiv.org/pdf/2201.03794.pdf) | - |SISR |
-
+|Revisiting L1 Loss in Super-Resolution: A Probabilistic View and Beyond | - | [arxiv](https://arxiv.org/pdf/2201.10084.pdf) | - |SISR, posterior Gaussian distribution, replace L1 loss |
 
