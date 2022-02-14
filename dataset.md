@@ -4,6 +4,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 |     Name     |   Usage    |                             Link                             |                        Comments                        |
 | :----------: | :--------: | :----------------------------------------------------------: | :----------------------------------------------------: |
+|  UHDSR4K     | Train/Test |     [website(ICCV2021)](https://github.com/HDCVLab/Benchmarking-Ultra-High-Definition-Image-Super-resolution)     |                       Ultra-High-Definition 4K dataset                        |
+|  UHDSR8K     | Train/Test |     [website(ICCV2021)](https://github.com/HDCVLab/Benchmarking-Ultra-High-Definition-Image-Super-resolution)     |                       Ultra-High-Definition 8K dataset                        |
 |     Set5     |    Test    | [download](https://uofi.box.com/shared/static/kfahv87nfe8ax910l85dksyl2q212voc.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
 |    SET14     |    Test    | [download](https://uofi.box.com/shared/static/igsnfieh4lz68l926l8xbklwsnnk8we9.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
 |    BSD100    |    Test    | [download](https://uofi.box.com/shared/static/qgctsplb8txrksm9to9x01zfa4m61ngq.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
