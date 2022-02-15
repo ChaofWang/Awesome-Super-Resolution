@@ -39,7 +39,7 @@ More years papers, plase check Quick navigation
 |Scale-arbitrary Invertible Image Downscaling | AIDN | [arxiv](https://arxiv.org/pdf/2201.12576.pdf) | - |***Image Rescaling***, Conditional Resampling Module |
 |VRT: A Video Restoration Transformer | VRT | [arxiv](https://arxiv.org/pdf/2201.12288.pdf) | [code](https://github.com/JingyunLiang/VRT) |***VideoSR***, Video Restoration Transformer, temporal mutual self attention and parallel warping |
 |Fast Online Video Super-Resolution with Deformable Attention Pyramid | DAP | [arxiv](https://arxiv.org/pdf/2202.01731.pdf) | - |***VideoSR***, fast, deformable attention pyramid |
-
+|Revisiting RCAN: Improved Training for Image Super-Resolution | RCAN-it | [arxiv](https://arxiv.org/pdf/2201.11279.pdf) | [code](https://github.com/zudi-lin/rcan-it) |SISR, train tricks |
 
 
 
