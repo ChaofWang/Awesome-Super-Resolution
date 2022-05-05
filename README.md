@@ -57,3 +57,8 @@ More years papers, plase check Quick navigation
 |RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution| RSTT | [CVPR2022](https://arxiv.org/pdf/2203.14186.pdf) | [code](https://github.com/llmpass/RSTT) | ***VideoSR***, spatialtemporal transformer  |
 |Efficient and Degradation-Adaptive Network for Real-World Image Super-Resolution| DASR | [arxiv](https://arxiv.org/pdf/2203.14216.pdf) | [code](https://github.com/csjliang/DASR) | RealSR, degradation-adaptive  |
 |Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling| ETDM | [CVPR2022](https://arxiv.org/pdf/2204.07114.pdf) | - | ***VideoSR***, A novel back-and-forth refinement strategy, A new framework to explore the temporal diff LR and HR |
+|C3-STISR: Scene Text Image Super-resolution with Triple Clues| C3-STISR | [IJCAI2022](https://arxiv.org/pdf/2204.14044.pdf) | [code](https://github.com/zhaominyiz/C3-STISR) | Scene text SR |
+|Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer| LBNet | [IJCAI2022](https://arxiv.org/pdf/2204.13286.pdf) | [code](https://github.com/IVIPLab/LBNet) | Lightweight SISR,  Symmetric CNN, Recursive Transformer |
+|Attentive Fine-Grained Structured Sparsity for Image Restoration| LBNet | [CVPR2022](https://arxiv.org/pdf/2204.12266.pdf) | [code](https://github.com/JungHunOh/SLS_CVPR2022) | Layer-wise N:M structured Sparsity pruning|
+|A New Dataset and Transformer for Stereoscopic Video Super-Resolution| Trans-SVSR | [CVPR2022](https://arxiv.org/pdf/2204.10039.pdf) | [code](https://github.com/H-deep/Trans-SVSR/) | Stereo video super-resolution|
+
