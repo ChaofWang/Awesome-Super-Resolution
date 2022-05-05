@@ -11,3 +11,5 @@
 [5]Honggang Chen, Xiaohai He, Linbo Qing, Yuanyuan Wu, Chao Ren, and Ce Zhu. Real-World Single Image Super-Resolution:A Brief Review. arxiv, 2021. [paper](https://arxiv.org/pdf/2103.02368.pdf)
 
 [6]Anran Liu, Yihao Liu, Jinjin Gu, Yu Qiao, Chao Dong. Blind Image Super-Resolution: A Survey and Beyond. arxiv, 2021. [paper](https://arxiv.org/pdf/2107.03055.pdf)
+
+[7]Chunwei Tian, Xuanyu Zhang, Jerry Chun-Wen Lin, Wangmeng Zuo, Yanning Zhang. Generative Adversarial Networks for Image Super-Resolution: A Survey. arxiv, 2022. [paper](https://arxiv.org/pdf/2204.13620.pdf)
