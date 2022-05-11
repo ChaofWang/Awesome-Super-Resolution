@@ -61,4 +61,7 @@ More years papers, plase check Quick navigation
 |Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer| LBNet | [IJCAI2022](https://arxiv.org/pdf/2204.13286.pdf) | [code](https://github.com/IVIPLab/LBNet) | Lightweight SISR,  Symmetric CNN, Recursive Transformer |
 |Attentive Fine-Grained Structured Sparsity for Image Restoration| LBNet | [CVPR2022](https://arxiv.org/pdf/2204.12266.pdf) | [code](https://github.com/JungHunOh/SLS_CVPR2022) | Layer-wise N:M structured Sparsity pruning|
 |A New Dataset and Transformer for Stereoscopic Video Super-Resolution| Trans-SVSR | [CVPR2022](https://arxiv.org/pdf/2204.10039.pdf) | [code](https://github.com/H-deep/Trans-SVSR/) | Stereo video super-resolution|
-
+|Accelerating the Training of Video Super-Resolution| - | [arxiv](https://arxiv.org/pdf/2205.05069.pdf) | [code](https://github.com/TencentARC/Efficient-VSR-Training) |  ***VideoSR***, 6.2× speedup in wall-clock training time|
+|Metric Learning based Interactive Modulation for Real-World Super-Resolution| MM-RealSR | [arxiv](https://arxiv.org/pdf/2205.05065.pdf) | [code](https://github.com/TencentARC/MM-RealSR) | Metric Learning based Interactive Modulation |
+|Activating More Pixels in Image Super-Resolution Transformer | HAT |[arxiv](https://arxiv.org/pdf/2205.04437.pdf) | [code](https://github.com/chxy95/HAT) | SISR,SOTA,  Hybrid Attention Transformer,  more than 1dB |
+|SPQE: Structure-and-Perception-Based Quality Evaluation for Image Super-Resolution | - |[arxiv](https://arxiv.org/pdf/2205.03584.pdf) |-  | SR-IQA |
