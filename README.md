@@ -90,3 +90,9 @@ More years papers, plase check Quick navigation
 |A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution | TATT |[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_A_Text_Attention_Network_for_Spatial_Deformation_Robust_Scene_Text_CVPR_2022_paper.pdf) |[code](https://github.com/mjq11302010044/TATT)  | Scene Text SR|
 |MNSRNet: Multimodal Transformer Network for 3D Surface Super-Resolution | MNSRNet |[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_MNSRNet_Multimodal_Transformer_Network_for_3D_Surface_Super-Resolution_CVPR_2022_paper.pdf) |-  | 3D surface super-resolution|
 |Task Decoupled Framework for Reference-based Super-Resolution | - |[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Task_Decoupled_Framework_for_Reference-Based_Super-Resolution_CVPR_2022_paper.pdf) |-  | -|
+|Joint Super-Resolution and Inverse Tone-Mapping:A Feature Decomposition Aggregation Network and A New Benchmark | FDAN |[TIP](https://arxiv.org/pdf/2207.03367.pdf) |-  | joint SR-ITM|
+|Cross-receptive Focused Inference Network for Lightweight Image Super-Resolution | CFIN |[arxiv](https://arxiv.org/pdf/2207.02796.pdf) |-  | SISR, Lightweight|
+|Degradation-Guided Meta-Restoration Network for Blind Super-Resolution | DMSR |[arxiv](https://arxiv.org/pdf/2207.00943.pdf) |-  | blind SR|
+|Residual Sparsity Connection Learning for Efficient Video Super-Resolution| RSCL |[arxiv](https://arxiv.org/pdf/2206.07687.pdf) |-  | ***VideoSR***,Residual Sparsity Connection|
+|AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos| AnimeSR |[arxiv](https://arxiv.org/pdf/2206.07038.pdf) |-  | Animation Video SR|
+|Learning a Degradation-Adaptive Network for Light Field Image Super-Resolution| LF-DAnet |[arxiv](https://arxiv.org/pdf/2206.06214.pdf) |[code](https://github.com/YingqianWang/LF-DAnet)  | Light Field SR|
