@@ -96,3 +96,5 @@ More years papers, plase check Quick navigation
 |Residual Sparsity Connection Learning for Efficient Video Super-Resolution| RSCL |[arxiv](https://arxiv.org/pdf/2206.07687.pdf) |-  | ***VideoSR***,Residual Sparsity Connection|
 |AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos| AnimeSR |[arxiv](https://arxiv.org/pdf/2206.07038.pdf) |-  | Animation Video SR|
 |Learning a Degradation-Adaptive Network for Light Field Image Super-Resolution| LF-DAnet |[arxiv](https://arxiv.org/pdf/2206.06214.pdf) |[code](https://github.com/YingqianWang/LF-DAnet)  | Light Field SR|
+|CADyQ: Content-Aware Dynamic Quantization for Image Super-Resolution| CADyQ |[ECCV2022](https://arxiv.org/pdf/2207.10345.pdf) |[code](https://github.com/Cheeun/CADyQ)  | |
+
