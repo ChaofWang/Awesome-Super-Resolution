@@ -97,4 +97,15 @@ More years papers, plase check Quick navigation
 |AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos| AnimeSR |[arxiv](https://arxiv.org/pdf/2206.07038.pdf) |-  | Animation Video SR|
 |Learning a Degradation-Adaptive Network for Light Field Image Super-Resolution| LF-DAnet |[arxiv](https://arxiv.org/pdf/2206.06214.pdf) |[code](https://github.com/YingqianWang/LF-DAnet)  | Light Field SR|
 |CADyQ: Content-Aware Dynamic Quantization for Image Super-Resolution| CADyQ |[ECCV2022](https://arxiv.org/pdf/2207.10345.pdf) |[code](https://github.com/Cheeun/CADyQ)  | |
+|Towards Interpretable Video Super-Resolution via Alternating Optimization| DAVSR |[ECCV2022](https://arxiv.org/pdf/2207.10345.pdf) |[code](https://github.com/caojiezhang/DAVSR)  | ***STVSR***, Motion Blur, Motion Aliasing |
+|Reference-based Image Super-Resolution with Deformable Attention Transformer | DATSR |[ECCV2022](https://arxiv.org/pdf/2207.11938.pdf) |[code](https://github.com/caojiezhang/DATSR)  | RefSR, Correspondence Matching, Texture Transfer, Deformable Attention Transformer |
+|Learning Series-Parallel Lookup Tables for Efficient Image Super-Resolution | SPLUT |[ECCV2022](https://arxiv.org/pdf/2207.12987.pdf) |[code](https://github.com/zhjy2016/SPLUT)  |  SISR，look-up table, series-parallel network |
+|Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution | FTVSR |[ECCV2022](https://arxiv.org/pdf/2208.03012.pdf) |[code](https://github.com/researchmm/FTVSR)  |  ***VSR***，Transformer, Frequency Learning, Compression |
+|Image Super-Resolution with Deep Dictionary | SRDD |[ECCV2022](https://arxiv.org/pdf/2207.09228.pdf) |[code](https://github.com/shuntama/srdd)  |  SISR,Deep Dictionary, Sparse Representation |
+|Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution | MMSR |[ECCV2022](https://arxiv.org/pdf/2207.09156.pdf) |[code](https://github.com/palmdong/MMSR)  |  Mutual Modulation, Self-Supervised Super-Resolution, Cross-Modal, Multi-Modal |
+|Compiler-Aware Neural Architecture Search for On-Mobile Real-time Super-Resolution | - |[arxiv](https://arxiv.org/pdf/2207.12577.pdf) |[code](https://github.com/wuyushuwys/compiler-aware-nas-sr)  | SISR, Mobile Real-time，nas |
+|Enhancing Image Rescaling using Dual Latent Variables in Invertible Neural Network| DLV-IRN |[ACMM 2022](https://arxiv.org/pdf/2207.11844.pdf) |- | Image Rescaling |
+|Perception-Distortion Balanced ADMM Optimization for Single-Image Super-Resolution | PDASR |[arxiv](https://arxiv.org/pdf/2208.03324.pdf) |[code](https://github.com/Yuehan717/PDASR)  |  Perception-Distortion Trade-Off, Constrained Optimization |
+|Adaptive Local Implicit Image Function for Arbitrary-scale Super-resolution | A-LIIF |[ICIP2022](https://arxiv.org/pdf/2208.04318.pdf) |[code](https://github.com/LeeHW-THU/A-LIIF)  |   implicit image function |
+|Rethinking Alignment in Video Super-Resolution Transformers | - |[arxiv](https://arxiv.org/pdf/2207.08494.pdf) |[code](https://github.com/XPixelGroup/RethinkVSRAlignment)  |  ***VSR***, feature alignment |
 
