@@ -109,3 +109,4 @@ More years papers, plase check Quick navigation
 |Adaptive Local Implicit Image Function for Arbitrary-scale Super-resolution | A-LIIF |[ICIP2022](https://arxiv.org/pdf/2208.04318.pdf) |[code](https://github.com/LeeHW-THU/A-LIIF)  |   implicit image function |
 |Rethinking Alignment in Video Super-Resolution Transformers | - |[arxiv](https://arxiv.org/pdf/2207.08494.pdf) |[code](https://github.com/XPixelGroup/RethinkVSRAlignment)  |  ***VSR***, feature alignment |
 |SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution | SwinFIR |[arxiv](https://arxiv.org/pdf/2208.11247.pdf) |- |  SISR, Fast Fourier Convolution，SOTA |
+|KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution| KXNet |[ECCV2022](https://arxiv.org/pdf/2209.10305.pdf) |[code](https://github.com/jiahong-fu/KXNet)  | Blind SR, Model-Driven, Kernel Estimation, Mutual Learning |
