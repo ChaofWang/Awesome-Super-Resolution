@@ -110,3 +110,10 @@ More years papers, plase check Quick navigation
 |Rethinking Alignment in Video Super-Resolution Transformers | - |[arxiv](https://arxiv.org/pdf/2207.08494.pdf) |[code](https://github.com/XPixelGroup/RethinkVSRAlignment)  |  ***VSR***, feature alignment |
 |SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution | SwinFIR |[arxiv](https://arxiv.org/pdf/2208.11247.pdf) |- |  SISR, Fast Fourier Convolution，SOTA |
 |KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution| KXNet |[ECCV2022](https://arxiv.org/pdf/2209.10305.pdf) |[code](https://github.com/jiahong-fu/KXNet)  | Blind SR, Model-Driven, Kernel Estimation, Mutual Learning |
+|MULTI-SCALE ATTENTION NETWORK FOR SINGLE IMAGE SUPER-RESOLUTION | MAN |[arxiv](https://arxiv.org/pdf/2209.14145.pdf) |[code](https://github.com/icandle/MAN)  | SISR, CNN-based multi-scale attention, SOTA |
+|From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution| ReDegNet |[ECCV2022](https://arxiv.org/pdf/2210.00752.pdf) |[code](https://github.com/csxmli2016/ReDegNet)  | Blind SR, real world degradation |
+|Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images | SRPO |[ECCV2022](https://arxiv.org/pdf/2210.04198.pdf) |- | SISR, lightweight, sharp edges and flatter areas |
+|Efficient Image Super-Resolution using Vast-Receptive-Field Attention  | VapSR |[ECCVW 2022](https://arxiv.org/pdf/2210.05960.pdf) | [code](https://github.com/zhoumumu/VapSR) | SISR, lightweight|
+|ISTA-Inspired Network for Image Super-Resolution  | ISTAR |[arxiv](https://arxiv.org/pdf/2210.07818.pdf) | - | SISR, unfolding iterative shrinkage thresholding algorith|
+
+
