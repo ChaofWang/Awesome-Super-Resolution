@@ -115,5 +115,6 @@ More years papers, plase check Quick navigation
 |Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images | SRPO |[ECCV2022](https://arxiv.org/pdf/2210.04198.pdf) |- | SISR, lightweight, sharp edges and flatter areas |
 |Efficient Image Super-Resolution using Vast-Receptive-Field Attention  | VapSR |[ECCVW 2022](https://arxiv.org/pdf/2210.05960.pdf) | [code](https://github.com/zhoumumu/VapSR) | SISR, lightweight|
 |ISTA-Inspired Network for Image Super-Resolution  | ISTAR |[arxiv](https://arxiv.org/pdf/2210.07818.pdf) | - | SISR, unfolding iterative shrinkage thresholding algorith|
-
+|N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution  | NGswin |[arxiv](https://arxiv.org/pdf/2211.11436.pdf) | - | Lightweight SISR,  N-Gram|
+|RDRN: Recursively Defined Residual Network for Image Super-Resolution  | RDRN |[arxiv](https://arxiv.org/pdf/2211.09462.pdf) | - | SISR,  Recursively|
 
