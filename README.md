@@ -117,4 +117,5 @@ More years papers, plase check Quick navigation
 |ISTA-Inspired Network for Image Super-Resolution  | ISTAR |[arxiv](https://arxiv.org/pdf/2210.07818.pdf) | - | SISR, unfolding iterative shrinkage thresholding algorith|
 |N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution  | NGswin |[arxiv](https://arxiv.org/pdf/2211.11436.pdf) | - | Lightweight SISR,  N-Gram|
 |RDRN: Recursively Defined Residual Network for Image Super-Resolution  | RDRN |[arxiv](https://arxiv.org/pdf/2211.09462.pdf) | - | SISR,  Recursively|
+|CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution  | CiaoSR |[arxiv](https://arxiv.org/pdf/2212.04362.pdf) | [code](https://github.com/caojiezhang/CiaoSR) | SISR,  Arbitrary-Scale,Continuous Implicit Attention-in-Attention |
 
