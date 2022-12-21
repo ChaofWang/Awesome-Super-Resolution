@@ -118,4 +118,12 @@ More years papers, plase check Quick navigation
 |N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution  | NGswin |[arxiv](https://arxiv.org/pdf/2211.11436.pdf) | - | Lightweight SISR,  N-Gram|
 |RDRN: Recursively Defined Residual Network for Image Super-Resolution  | RDRN |[arxiv](https://arxiv.org/pdf/2211.09462.pdf) | - | SISR,  Recursively|
 |CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution  | CiaoSR |[arxiv](https://arxiv.org/pdf/2212.04362.pdf) | [code](https://github.com/caojiezhang/CiaoSR) | SISR,  Arbitrary-Scale,Continuous Implicit Attention-in-Attention |
+|NAWQ-SR: A Hybrid-Precision NPU Engine for Efficient On-Device Super-Resolution  | NAWQ-SR  |[arxiv](https://arxiv.org/pdf/2212.09501.pdf) | - | SISR,  hybrid-precision quantization tech|
+|Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation  | MetaKernelGAN |[arxiv](https://arxiv.org/pdf/2212.07886.pdf) | - | Blind SR, meta learnig, a kernel-generating GAN |
+|DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution  | DCS-RISR |[arxiv](https://arxiv.org/pdf/2212.07613.pdf) | - | RealSR,  channel splitting vector, ctave conv |
+|Benchmark Dataset and Effective Inter-Frame Alignment for Real-World Video Super-Resolution  | EAVSR |[arxiv](https://arxiv.org/pdf/2212.05342.pdf) | [code](https://github.com/HITRainer/EAVSR) | RealVSR,  MVSR4× dataset, AdaSTN |
+
+
+
+
 
