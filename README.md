@@ -34,7 +34,7 @@ More years papers, plase check Quick navigation
 |Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network | FIWHN | [AAAI2022](https://arxiv.org/pdf/2212.14181.pdf) | - |- |
 |DIVA: Deep Unfolded Network from Quantum Interactive Patches for Image Restoration | DIVA | [arxiv](https://arxiv.org/pdf/2301.00247.pdf) | - |- |
 |DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution | DLGSANet | [arxiv](https://arxiv.org/pdf/2301.02031.pdf) | [code](https://neonleexiang.github.io/DLGSANet) |- |
-
+|The Best of Both Worlds: A Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks | - | [MDPI Sensors](https://doi.org/10.3390/s23010419) | [code](https://github.com/um-dsrg/RUMpy) |- |
 
 
 
