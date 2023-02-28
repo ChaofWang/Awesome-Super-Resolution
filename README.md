@@ -36,7 +36,12 @@ More years papers, plase check Quick navigation
 |DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution | DLGSANet | [arxiv](https://arxiv.org/pdf/2301.02031.pdf) | [code](https://neonleexiang.github.io/DLGSANet) |- |
 |The Best of Both Worlds: A Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks | - | [MDPI Sensors](https://doi.org/10.3390/s23010419) | [code](https://github.com/um-dsrg/RUMpy) |- |
 |Image Super-Resolution using Efficient Striped Window Transformer | ESWT | [arxiv](https://arxiv.org/pdf/2301.09869.pdf) | [code](https://github.com/Fried-Rice-Lab/FriedRiceLab) |SISR|
-
-
+|A statistically constrained internal method for single image super-resolution | - | [arxiv](https://arxiv.org/pdf/2302.01648.pdf) |  |-|
+|OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer | OSRT | [arxiv](https://arxiv.org/pdf/2302.03453.pdf) | - |ODISR|
+|Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild | SR3+ | [arxiv](https://arxiv.org/pdf/2302.07864.pdf) | - |blind SR, DDPMs|
+|Kernelized Back-Projection Networks for Blind Super Resolution | KCBPN/KBPN | [arxiv](https://arxiv.org/pdf/2302.08478.pdf) | [code](https://github.com/Yuki-11/KBPN) |blind SR|
+|Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network | DPMN | [arxiv](https://arxiv.org/pdf/2302.10414.pdf) | [code](https://github.com/jdfxzzy/DPMN) |Scene text SR|
+|CDPMSR: CONDITIONAL DIFFUSION PROBABILISTIC MODELS FOR SINGLE IMAGE SUPER-RESOLUTION | CDPMSR | [arxiv](https://arxiv.org/pdf/2302.12831.pdf) | - |DDPMs|
+|Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution | SAFMN | [arxiv](https://arxiv.org/pdf/2302.13800.pdf) | [code](https://github.com/sunny2109/SAFMN) |SISR, lightweight|
 
 
