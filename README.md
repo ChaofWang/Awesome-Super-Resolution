@@ -43,5 +43,5 @@ More years papers, plase check Quick navigation
 |Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network | DPMN | [arxiv](https://arxiv.org/pdf/2302.10414.pdf) | [code](https://github.com/jdfxzzy/DPMN) |Scene text SR|
 |CDPMSR: CONDITIONAL DIFFUSION PROBABILISTIC MODELS FOR SINGLE IMAGE SUPER-RESOLUTION | CDPMSR | [arxiv](https://arxiv.org/pdf/2302.12831.pdf) | - |DDPMs|
 |Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution | SAFMN | [arxiv](https://arxiv.org/pdf/2302.13800.pdf) | [code](https://github.com/sunny2109/SAFMN) |SISR, lightweight|
-
+|Efficient and Explicit Modelling of Image Hierarchies for Image Restoration | GRL | [arxiv](https://arxiv.org/pdf/2303.00748.pdf) | [code](https://github.com/ofsoundof/GRL-Image-Restoration) |SISR|
 
