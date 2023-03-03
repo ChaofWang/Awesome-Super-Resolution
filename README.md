@@ -45,3 +45,4 @@ More years papers, plase check Quick navigation
 |Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution | SAFMN | [arxiv](https://arxiv.org/pdf/2302.13800.pdf) | [code](https://github.com/sunny2109/SAFMN) |SISR, lightweight|
 |Efficient and Explicit Modelling of Image Hierarchies for Image Restoration | GRL | [CVPR23](https://arxiv.org/pdf/2303.00748.pdf) | [code](https://github.com/ofsoundof/GRL-Image-Restoration) |SISR|
 |Unlimited-Size Diffusion Restoration | - | [arxiv](https://arxiv.org/pdf/2303.00354.pdf) | [code](https://github.com/wyhuai/DDNM/tree/main) |DDNM|
+|OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution | OPE | [CVPR23](https://arxiv.org/pdf/2303.01091.pdf) | - |Arbitrary-scale SR|
