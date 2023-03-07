@@ -47,3 +47,5 @@ More years papers, plase check Quick navigation
 |Zero Shot Image Restoration Using Denoising Diffusion Null-Space Model  | DDNM | [ICLR23](https://arxiv.org/pdf/2212.00490.pdf) | [code](https://github.com/wyhuai/DDNM/tree/main) |DDNM|
 |Unlimited-Size Diffusion Restoration | - | [arxiv](https://arxiv.org/pdf/2303.00354.pdf) | [code](https://github.com/wyhuai/DDNM/tree/main) |DDNM|
 |OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution | OPE | [CVPR23](https://arxiv.org/pdf/2303.01091.pdf) | - |Arbitrary-scale SR|
+|Super-Resolution Neural Operator | SRNO | [CVPR23](https://arxiv.org/pdf/2303.02584.pdf) | [code](https://github.com/2y7c3/Super-Resolution-Neural-Operator) |continuous SR|
+|Self-Asymmetric Invertible Network for Compression-Aware Image Rescaling | SAIN | [AAAI23](https://arxiv.org/pdf/2303.02353.pdf) | - |Image Rescaling|
