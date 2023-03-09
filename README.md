@@ -49,3 +49,4 @@ More years papers, plase check Quick navigation
 |OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution | OPE | [CVPR23](https://arxiv.org/pdf/2303.01091.pdf) | - |Arbitrary-scale SR|
 |Super-Resolution Neural Operator | SRNO | [CVPR23](https://arxiv.org/pdf/2303.02584.pdf) | [code](https://github.com/2y7c3/Super-Resolution-Neural-Operator) |continuous SR|
 |Self-Asymmetric Invertible Network for Compression-Aware Image Rescaling | SAIN | [AAAI23](https://arxiv.org/pdf/2303.02353.pdf) | - |Image Rescaling|
+|QuickSRNet: Plain Single-Image Super-Resolution Architecture for Faster Inference on Mobile Platforms | QSRNet | [arxiv](https://arxiv.org/pdf/2303.04336.pdf) | - |SISR, lightweight|
