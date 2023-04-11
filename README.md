@@ -50,3 +50,29 @@ More years papers, plase check Quick navigation
 |Super-Resolution Neural Operator | SRNO | [CVPR23](https://arxiv.org/pdf/2303.02584.pdf) | [code](https://github.com/2y7c3/Super-Resolution-Neural-Operator) |continuous SR|
 |Self-Asymmetric Invertible Network for Compression-Aware Image Rescaling | SAIN | [AAAI23](https://arxiv.org/pdf/2303.02353.pdf) | - |Image Rescaling|
 |QuickSRNet: Plain Single-Image Super-Resolution Architecture for Faster Inference on Mobile Platforms | QSRNet | [arxiv](https://arxiv.org/pdf/2303.04336.pdf) | - |SISR, lightweight|
+|Burstormer: Burst Image Restoration and Enhancement Transformer | Burstormer | [CVPR23](https://arxiv.org/pdf/2304.01194.pdf) | [code](https://github.com/akshaydudhane16/Burstormer) ||
+|Better “CMOS” Produces Clearer Images:Learning Space-Variant Blur Estimation for Blind Image Super-Resolution | CMOS | [CVPR23](https://arxiv.org/pdf/2304.03542.pdf) | [code](https://github.com/ByChelsea/CMOS) |Blind SR|
+|Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution | DiWa | [arxiv](https://arxiv.org/abs/2304.01994) | - |Diffusion-Wavelet|
+|Generative Diffusion Prior for Unified Image Restoration and Enhancement | GDP | [CVPR23](https://arxiv.org/pdf/2304.01247.pdf) | [code](https://generativediffusionprior.github.io) |unified image recovery|
+|Tunable Convolutions with Parametric Multi-Loss Optimization | - | [CVPR23](https://arxiv.org/pdf/2304.00898.pdf) |   | |
+|SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer| SOSR | [arxiv](https://arxiv.org/pdf/2303.17783.pdf) |    |
+|Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution | CLIT | [arxiv](https://arxiv.org/pdf/2303.16513.pdf) | [code](https://github.com/jaroslaw1007/CLIT) | |
+|Implicit Diffusion Models for Continuous Super-Resolution | IDM | [arxiv](https://arxiv.org/pdf/2303.16491.pdf) | [code](https://github.com/Ree1s/IDM) | |
+|Unlocking Masked Autoencoders as Loss Function for Image and Video Restoration| - | [arxiv](https://arxiv.org/pdf/2303.16411.pdf) |   | |
+|Learning Generative Structure Prior for Blind Text Image Super-resolution | MARCONet | [CVPR23](https://arxiv.org/pdf/2303.14726.pdf) | [code](https://github.com/csxmli2016/MARCONet) |Blind Text SR |
+|Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables | MuLUT | [arxiv](https://arxiv.org/pdf/2303.14506.pdf) | [code](https://github.com/ddlee-cn/MuLUT) | |
+|Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution | TCSR | [arxiv](https://arxiv.org/pdf/2303.14324.pdf) | [code](https://github.com/Aitical/TCSR) |LightweightSR |
+|Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution | egvsr | [CVPR23](https://arxiv.org/pdf/2303.13767.pdf) | [code](https://vlis2022.github.io/cvpr23/egvsr) |VSR |
+|Human Guided Ground-truth Generation for Realistic Image Super-resolution | HGGT | [CVPR23](https://arxiv.org/pdf/2303.13069.pdf) | [code](https://github.com/ChrisDud0257/HGGT) |RealSR |
+|EBSR: Enhanced Binary Neural Network for Image Super-Resolution | EBSR | [arxiv](https://arxiv.org/pdf/2303.12270.pdf) | |Binary NN |
+|A High-Frequency Focused Network for Lightweight Single Image Super-Resolution | HFFN | [arxiv](https://arxiv.org/pdf/2303.11701.pdf) |- |LightweightSR |
+|Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution | VQD-SR | [arxiv](https://arxiv.org/pdf/2303.09826.pdf) |- |Animation VSR |
+|SRFormer: Permuted Self-Attention for Single Image Super-Resolution | SRFormer | [arxiv](https://arxiv.org/pdf/2303.09735.pdf) | - | |
+|A High-Performance Accelerator for Super-Resolution Processing on Embedded GPU | - | [arxiv](https://arxiv.org/pdf/2303.08999.pdf) |- | |
+|DeblurSR: Event-Based Motion Deblurring Under the Spiking Representation | DeblurSR | [arxiv](https://arxiv.org/pdf/2303.08977.pdf) | [code](https://github.com/chensong1995/DeblurSR) | |
+|ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution | ResDiff | [arxiv](https://arxiv.org/pdf/2303.08714.pdf) | - |  |
+|Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting | STDO | [CVPR23](https://arxiv.org/pdf/2303.08331.pdf) | [code](https://github.com/coulsonlee/STDO-CVPR2023) |VSR |
+|Synthesizing Realistic Image Restoration Training Pairs: A Diffusion Approach | - | [arxiv](https://arxiv.org/pdf/2303.06994.pdf) | - | |
+|Recursive Generalization Transformer for Image Super-Resolution | RGT | [arxiv](https://arxiv.org/pdf/2303.06373.pdf) | - |  |
+|Local Implicit Normalizing Flow for Arbitrary-Scale Image Super-Resolution | LINF | [CVPR23](https://arxiv.org/pdf/2303.05156.pdf) | - |  |
+|LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution | MRefSR | [arxiv](https://arxiv.org/pdf/2303.04970.pdf) | [code](https://github.com/wdmwhh/MRefSR) |  |
