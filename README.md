@@ -76,3 +76,8 @@ More years papers, plase check Quick navigation
 |Recursive Generalization Transformer for Image Super-Resolution | RGT | [arxiv](https://arxiv.org/pdf/2303.06373.pdf) | - |  |
 |Local Implicit Normalizing Flow for Arbitrary-Scale Image Super-Resolution | LINF | [CVPR23](https://arxiv.org/pdf/2303.05156.pdf) | - |  |
 |LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution | MRefSR | [arxiv](https://arxiv.org/pdf/2303.04970.pdf) | [code](https://github.com/wdmwhh/MRefSR) |  |
+|REVISITING IMPLICIT NEURAL REPRESENTATIONS IN LOW-LEVEL VISION | LINR | [ICLRW-NF23](https://arxiv.org/pdf/2304.10250.pdf) | [code](https://github.com/WenTXuL/LINR) |INR,lowlevel |
+|Omni Aggregation Networks for Lightweight Image Super-Resolution | Omni-SR | [CVPR23](https://github.com/Francis0625/Omni-SR) | [code](https://arxiv.org/pdf/2304.10244.pdf) |lightweiget,sota, Omni SA |
+|Quantum Annealing for Single Image Super-Resolution | AQC | [arxiv](https://arxiv.org/pdf/2304.08924.pdf) | - | |
+|DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution | DIPNet | [arxiv](https://arxiv.org/pdf/2304.07018.pdf) | - | efficient sr |
+|CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input | CABM | [CVPR23](https://arxiv.org/pdf/2304.06454.pdf) | - |  |
