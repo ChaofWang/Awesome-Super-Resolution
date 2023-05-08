@@ -48,7 +48,7 @@ More years papers, plase check Quick navigation
 |Unlimited-Size Diffusion Restoration | - | [arxiv](https://arxiv.org/pdf/2303.00354.pdf) | [code](https://github.com/wyhuai/DDNM/tree/main) |DDNM|
 |OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution | OPE | [CVPR23](https://arxiv.org/pdf/2303.01091.pdf) | - |Arbitrary-scale SR|
 |Super-Resolution Neural Operator | SRNO | [CVPR23](https://arxiv.org/pdf/2303.02584.pdf) | [code](https://github.com/2y7c3/Super-Resolution-Neural-Operator) |continuous SR|
-|Self-Asymmetric Invertible Network for Compression-Aware Image Rescaling | SAIN | [AAAI23](https://arxiv.org/pdf/2303.02353.pdf) | - |Image Rescaling|
+|Self-Asymmetric Invertible Network for Compression-Aware Image Rescaling | SAIN | [AAAI23](https://arxiv.org/pdf/2303.02353.pdf) | [code](https://github.com/yang-jin-hai/SAIN) |Image Rescaling|
 |QuickSRNet: Plain Single-Image Super-Resolution Architecture for Faster Inference on Mobile Platforms | QSRNet | [arxiv](https://arxiv.org/pdf/2303.04336.pdf) | - |SISR, lightweight|
 |Burstormer: Burst Image Restoration and Enhancement Transformer | Burstormer | [CVPR23](https://arxiv.org/pdf/2304.01194.pdf) | [code](https://github.com/akshaydudhane16/Burstormer) ||
 |Better “CMOS” Produces Clearer Images:Learning Space-Variant Blur Estimation for Blind Image Super-Resolution | CMOS | [CVPR23](https://arxiv.org/pdf/2304.03542.pdf) | [code](https://github.com/ByChelsea/CMOS) |Blind SR|
@@ -77,7 +77,9 @@ More years papers, plase check Quick navigation
 |Local Implicit Normalizing Flow for Arbitrary-Scale Image Super-Resolution | LINF | [CVPR23](https://arxiv.org/pdf/2303.05156.pdf) | - |  |
 |LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution | MRefSR | [arxiv](https://arxiv.org/pdf/2303.04970.pdf) | [code](https://github.com/wdmwhh/MRefSR) |  |
 |REVISITING IMPLICIT NEURAL REPRESENTATIONS IN LOW-LEVEL VISION | LINR | [ICLRW-NF23](https://arxiv.org/pdf/2304.10250.pdf) | [code](https://github.com/WenTXuL/LINR) |INR,lowlevel |
-|Omni Aggregation Networks for Lightweight Image Super-Resolution | Omni-SR | [CVPR23](https://github.com/Francis0625/Omni-SR) | [code](https://arxiv.org/pdf/2304.10244.pdf) |lightweiget,sota, Omni SA |
+|Omni Aggregation Networks for Lightweight Image Super-Resolution | Omni-SR | [CVPR23](https://github.com/Francis0625/Omni-SR) | [code](https://arxiv.org/pdf/2304.10244.pdf) |lightweight,sota, Omni SA |
 |Quantum Annealing for Single Image Super-Resolution | AQC | [arxiv](https://arxiv.org/pdf/2304.08924.pdf) | - | |
 |DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution | DIPNet | [arxiv](https://arxiv.org/pdf/2304.07018.pdf) | - | efficient sr |
 |CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input | CABM | [CVPR23](https://arxiv.org/pdf/2304.06454.pdf) | - |  |
+|Hitchhiker’s Guide to Super-Resolution:Introduction and Recent Advances | - | [TPAMI](https://arxiv.org/pdf/2304.06454.pdf) | - | an overview of SR  |
+|AsConvSR: Fast and Lightweight Super-Resolution Network with Assembled Convolutions | AsConvSR | [arxiv](https://arxiv.org/pdf/2304.06454.pdf) | [code](https://gitee.com/mindspore/models/tree/master/research/cv/AsConvSR) | lightweight |
