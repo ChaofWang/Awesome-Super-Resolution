@@ -83,3 +83,16 @@ More years papers, plase check Quick navigation
 |CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input | CABM | [CVPR23](https://arxiv.org/pdf/2304.06454.pdf) | - |  |
 |Hitchhiker’s Guide to Super-Resolution:Introduction and Recent Advances | - | [TPAMI](https://arxiv.org/pdf/2304.06454.pdf) | - | an overview of SR  |
 |AsConvSR: Fast and Lightweight Super-Resolution Network with Assembled Convolutions | AsConvSR | [arxiv](https://arxiv.org/pdf/2304.06454.pdf) | [code](https://gitee.com/mindspore/models/tree/master/research/cv/AsConvSR) | lightweight |
+|Expanding Synthetic Real-World Degradations for Blind Video Super Resolution | SRWD-VSR | [arxiv](https://arxiv.org/pdf/2305.02660.pdf) | - | VSR |
+|An Implicit Alignment for Video Super-Resolution | IART | [arxiv](https://arxiv.org/pdf/2305.00163.pdf) | [code](https://arxiv.org/pdf/2305.00163.pdf) | VSR |
+|OPDN: Omnidirectional Position-aware Deformable Network for Omnidirectional Image Super-Resolution | OPDN | [arxiv](https://arxiv.org/pdf/2304.13471.pdf) | - | Omnidirectional SR |
+|Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution | - | [arxiv](https://arxiv.org/pdf/2305.15357.pdf) | - | diffusion ODEs |
+|EgoVSR: Towards High-Quality Egocentric Video Super-Resolution | EgoVSR | [arxiv](https://arxiv.org/pdf/2305.14708.pdf) | - | VSR |
+|A Dive into SAM Prior in Image Restoration | SPT | [arxiv](https://arxiv.org/pdf/2305.13620.pdf) | - |  |
+|RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration | RAMiT | [arxiv](https://arxiv.org/pdf/2305.11474.pdf) | - | LightweightSR |
+|Efficient Mixed Transformer for Single Image Super-Resolution | EMT | [arxiv](https://arxiv.org/pdf/2305.11403.pdf) | [code](https://github.com/Fried-Rice-Lab/EMT) | SISR |
+|Denoising Diffusion Models for Plug-and-Play Image Restoration | DiffPIR | [arxiv](https://arxiv.org/pdf/2305.08995.pdf) | [code](https://github.com/yuanzhi-zhu/DiffPIR) |  |
+|Exploiting Diffusion Prior for Real-World Image Super-Resolution | StableSR | [arxiv](https://arxiv.org/pdf/2305.07015.pdf) | - |  realsr |
+|Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks | DFSQ | [arxiv](https://arxiv.org/pdf/2305.05888.pdf) | [code](https://github.com/zysxmu/DFSQ) |  Post-Quantize |
+|Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution | - | [arxiv](https://arxiv.org/pdf/2305.05177.pdf) | - |  Stereo SR |
+|Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling | SSD | [arxiv](https://arxiv.org/pdf/2305.16965.pdf) | [code](https://github.com/GongyeLiu/SSD) |  |
