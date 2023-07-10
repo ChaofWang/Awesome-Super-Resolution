@@ -96,3 +96,8 @@ More years papers, plase check Quick navigation
 |Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks | DFSQ | [arxiv](https://arxiv.org/pdf/2305.05888.pdf) | [code](https://github.com/zysxmu/DFSQ) |  Post-Quantize |
 |Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution | - | [arxiv](https://arxiv.org/pdf/2305.05177.pdf) | - |  Stereo SR |
 |Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling | SSD | [arxiv](https://arxiv.org/pdf/2305.16965.pdf) | [code](https://github.com/GongyeLiu/SSD) |  |
+|Crafting Training Degradation Distribution for the Accuracy-Generalization Trade-off in Real-World Super-Resolution | - | [ICML 2023](https://arxiv.org/pdf/2305.18107.pdf) | - |  |
+|High-Similarity-Pass Attention for Single Image Super-Resolution | HSPAM | [arxiv](https://arxiv.org/pdf/2305.15768.pdf) | - | SISR |
+|DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models  | DeSRA | [ICML 2023](https://arxiv.org/pdf/2307.02457.pdf) | [code](https://github.com/TencentARC/DeSRA) | Artifacts, Detect, Delete |
+|HQ-50K: A Large-scale, High-quality Dataset for Image Restoration  | DAMoE | [arxiv](https://arxiv.org/pdf/2307.02457.pdf) | [code](https://github.com/littleYaang/HQ-50K) | Dataset|
+|RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution | RefVSR++ | [arxiv](https://arxiv.org/pdf/2307.02897.pdf) | - | RefVSR|
