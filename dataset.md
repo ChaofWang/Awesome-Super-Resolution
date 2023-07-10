@@ -29,6 +29,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |  SR-RAW   | Train/Test |           [website](https://ceciliavision.github.io/project-pages/project-zoom.html)            |                      raw sensor image dataset                      |
 |  W2S   | Train/Test |           [arxiv](https://arxiv.org/pdf/2003.05961.pdf)            |     A Joint Denoising and Super-Resolution Dataset                      |
 |  PIPAL   | Test |           [ECCV 2020](https://arxiv.org/pdf/2007.12142.pdf)            |     Perceptual Image Quality Assessment dataset                  |
+|  HQ-50K   | Train |           [website](https://huggingface.co/datasets/YangQiee/HQ-50K)            |  50,000 images  |
 
 #### Dataset collections
 
