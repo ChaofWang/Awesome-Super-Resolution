@@ -36,3 +36,4 @@
 | [VideoSuperResolution](https://github.com/LoSealL/VideoSuperResolution) | Tensorflow |
 | [video-super-resolution](https://github.com/thangvubk/video-super-resolution) |  Pytorch   |
 |[MMSR](https://github.com/open-mmlab/mmsr) | PyTorch |
+|[UpscalerJS](https://github.com/thekevinscott/upscalerjs) | Tensorflow.js |
