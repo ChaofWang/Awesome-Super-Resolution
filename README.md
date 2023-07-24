@@ -67,7 +67,6 @@ More years papers, plase check Quick navigation
 |EBSR: Enhanced Binary Neural Network for Image Super-Resolution | EBSR | [arxiv](https://arxiv.org/pdf/2303.12270.pdf) | |Binary NN |
 |A High-Frequency Focused Network for Lightweight Single Image Super-Resolution | HFFN | [arxiv](https://arxiv.org/pdf/2303.11701.pdf) |- |LightweightSR |
 |Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution | VQD-SR | [arxiv](https://arxiv.org/pdf/2303.09826.pdf) |- |Animation VSR |
-|SRFormer: Permuted Self-Attention for Single Image Super-Resolution | SRFormer | [arxiv](https://arxiv.org/pdf/2303.09735.pdf) | - | |
 |A High-Performance Accelerator for Super-Resolution Processing on Embedded GPU | - | [arxiv](https://arxiv.org/pdf/2303.08999.pdf) |- | |
 |DeblurSR: Event-Based Motion Deblurring Under the Spiking Representation | DeblurSR | [arxiv](https://arxiv.org/pdf/2303.08977.pdf) | [code](https://github.com/chensong1995/DeblurSR) | |
 |ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution | ResDiff | [arxiv](https://arxiv.org/pdf/2303.08714.pdf) | - |  |
@@ -101,3 +100,4 @@ More years papers, plase check Quick navigation
 |DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models  | DeSRA | [ICML 2023](https://arxiv.org/pdf/2307.02457.pdf) | [code](https://github.com/TencentARC/DeSRA) | Artifacts, Detect, Delete |
 |HQ-50K: A Large-scale, High-quality Dataset for Image Restoration  | DAMoE | [arxiv](https://arxiv.org/pdf/2307.02457.pdf) | [code](https://github.com/littleYaang/HQ-50K) | Dataset|
 |RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution | RefVSR++ | [arxiv](https://arxiv.org/pdf/2307.02897.pdf) | - | RefVSR|
+|SRFormer: Permuted Self-Attention for Single Image Super-Resolution | SRFormer | [ICCV2023](https://arxiv.org/pdf/2303.09735.pdf) | [code](https://github.com/HVision-NKU/SRFormer) | SISR.SOTA |
