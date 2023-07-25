@@ -101,3 +101,4 @@ More years papers, plase check Quick navigation
 |HQ-50K: A Large-scale, High-quality Dataset for Image Restoration  | DAMoE | [arxiv](https://arxiv.org/pdf/2307.02457.pdf) | [code](https://github.com/littleYaang/HQ-50K) | Dataset|
 |RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution | RefVSR++ | [arxiv](https://arxiv.org/pdf/2307.02897.pdf) | - | RefVSR|
 |SRFormer: Permuted Self-Attention for Single Image Super-Resolution | SRFormer | [ICCV2023](https://arxiv.org/pdf/2303.09735.pdf) | [code](https://github.com/HVision-NKU/SRFormer) | SISR.SOTA |
+|ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting | ResShift | [arxiv](https://arxiv.org/pdf/2307.12348.pdf) | [code](https://github.com/zsyOAOA/ResShift) |  |
