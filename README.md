@@ -102,3 +102,4 @@ More years papers, plase check Quick navigation
 |RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution | RefVSR++ | [arxiv](https://arxiv.org/pdf/2307.02897.pdf) | - | RefVSR|
 |SRFormer: Permuted Self-Attention for Single Image Super-Resolution | SRFormer | [ICCV2023](https://arxiv.org/pdf/2303.09735.pdf) | [code](https://github.com/HVision-NKU/SRFormer) | SISR.SOTA |
 |ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting | ResShift | [arxiv](https://arxiv.org/pdf/2307.12348.pdf) | [code](https://github.com/zsyOAOA/ResShift) |  |
+|Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks | ODM | [arxiv](https://arxiv.org/pdf/2307.13337.pdf) | [code](https://github.com/Cheeun/ODM) | Quantize  |
