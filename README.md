@@ -91,7 +91,7 @@ More years papers, plase check Quick navigation
 |RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration | RAMiT | [arxiv](https://arxiv.org/pdf/2305.11474.pdf) | - | LightweightSR |
 |Efficient Mixed Transformer for Single Image Super-Resolution | EMT | [arxiv](https://arxiv.org/pdf/2305.11403.pdf) | [code](https://github.com/Fried-Rice-Lab/EMT) | SISR |
 |Denoising Diffusion Models for Plug-and-Play Image Restoration | DiffPIR | [arxiv](https://arxiv.org/pdf/2305.08995.pdf) | [code](https://github.com/yuanzhi-zhu/DiffPIR) |  |
-|Exploiting Diffusion Prior for Real-World Image Super-Resolution | StableSR | [arxiv](https://arxiv.org/pdf/2305.07015.pdf) | - |  realsr |
+|Exploiting Diffusion Prior for Real-World Image Super-Resolution | StableSR | [arxiv](https://arxiv.org/pdf/2305.07015.pdf) | [code](https://github.com/IceClear/StableSR) |  realsr |
 |Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks | DFSQ | [arxiv](https://arxiv.org/pdf/2305.05888.pdf) | [code](https://github.com/zysxmu/DFSQ) |  Post-Quantize |
 |Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution | - | [arxiv](https://arxiv.org/pdf/2305.05177.pdf) | - |  Stereo SR |
 |Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling | SSD | [arxiv](https://arxiv.org/pdf/2305.16965.pdf) | [code](https://github.com/GongyeLiu/SSD) |  |
