@@ -80,8 +80,8 @@ More years papers, plase check Quick navigation
 |Quantum Annealing for Single Image Super-Resolution | AQC | [arxiv](https://arxiv.org/pdf/2304.08924.pdf) | - | |
 |DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution | DIPNet | [arxiv](https://arxiv.org/pdf/2304.07018.pdf) | - | efficient sr |
 |CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input | CABM | [CVPR23](https://arxiv.org/pdf/2304.06454.pdf) | - |  |
-|Hitchhiker’s Guide to Super-Resolution:Introduction and Recent Advances | - | [TPAMI](https://arxiv.org/pdf/2304.06454.pdf) | - | an overview of SR  |
-|AsConvSR: Fast and Lightweight Super-Resolution Network with Assembled Convolutions | AsConvSR | [arxiv](https://arxiv.org/pdf/2304.06454.pdf) | [code](https://gitee.com/mindspore/models/tree/master/research/cv/AsConvSR) | lightweight |
+|Hitchhiker’s Guide to Super-Resolution:Introduction and Recent Advances | - | [TPAMI](https://arxiv.org/pdf/2209.13131.pdf) | - | an overview of SR  |
+|AsConvSR: Fast and Lightweight Super-Resolution Network with Assembled Convolutions | AsConvSR | [arxiv](https://arxiv.org/pdf/2305.03387.pdf) | [code](https://gitee.com/mindspore/models/tree/master/research/cv/AsConvSR) | lightweight |
 |Expanding Synthetic Real-World Degradations for Blind Video Super Resolution | SRWD-VSR | [arxiv](https://arxiv.org/pdf/2305.02660.pdf) | - | VSR |
 |An Implicit Alignment for Video Super-Resolution | IART | [arxiv](https://arxiv.org/pdf/2305.00163.pdf) | [code](https://arxiv.org/pdf/2305.00163.pdf) | VSR |
 |OPDN: Omnidirectional Position-aware Deformable Network for Omnidirectional Image Super-Resolution | OPDN | [arxiv](https://arxiv.org/pdf/2304.13471.pdf) | - | Omnidirectional SR |
