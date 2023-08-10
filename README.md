@@ -103,3 +103,4 @@ More years papers, plase check Quick navigation
 |SRFormer: Permuted Self-Attention for Single Image Super-Resolution | SRFormer | [ICCV2023](https://arxiv.org/pdf/2303.09735.pdf) | [code](https://github.com/HVision-NKU/SRFormer) | SISR.SOTA |
 |ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting | ResShift | [arxiv](https://arxiv.org/pdf/2307.12348.pdf) | [code](https://github.com/zsyOAOA/ResShift) |  |
 |Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks | ODM | [arxiv](https://arxiv.org/pdf/2307.13337.pdf) | [code](https://github.com/Cheeun/ODM) | Quantize  |
+|Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution | CRAFT | [ICCV2023](https://arxiv.org/pdf/2308.05022.pdf) | [code](https://github.com/AVC2-UESTC/CRAFT-SR) | SISR  |
