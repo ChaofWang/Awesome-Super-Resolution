@@ -104,3 +104,26 @@ More years papers, plase check Quick navigation
 |ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting | ResShift | [arxiv](https://arxiv.org/pdf/2307.12348.pdf) | [code](https://github.com/zsyOAOA/ResShift) |  |
 |Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks | ODM | [arxiv](https://arxiv.org/pdf/2307.13337.pdf) | [code](https://github.com/Cheeun/ODM) | Quantize  |
 |Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution | CRAFT | [ICCV2023](https://arxiv.org/pdf/2308.05022.pdf) | [code](https://github.com/AVC2-UESTC/CRAFT-SR) | SISR  |
+|RBSR: Efficient and Flexible Recurrent Network for Burst Super-Resolution | RBSR | [arxiv](https://arxiv.org/pdf/2306.17595) | [code](https://github.com/ZcsrenlongZ/RBSR) |   |
+|WaveMixSR: A Resource-efficient Neural Network for Image Super-resolution | WaveMixSR | [arxiv](https://arxiv.org/pdf/2307.00430.pdf) | - |   |
+|MaxSR: Image Super-Resolution Using Improved MaxViT | MaxSR | [arxiv](https://arxiv.org/pdf/2307.07240.pdf) | - | SISR  |
+|Reconstructed Convolution Module Based Look-Up Tables for Efficient Image Super-Resolution | RC-LUT | [arxiv](https://github.com/liuguandu/RC-LUT) | - | Efficient SISR  |
+|DARTS: Double Attention Reference-based Transformer for Super-resolution |DARTS | [arxiv](https://arxiv.org/pdf/2307.08837.pdf) | [code](https://github.com/bia006/DARTS) | SISR  |
+|Fully 1×1 Convolutional Network for Lightweight Image Super-Resolution |SCNet | [arxiv](https://arxiv.org/pdf/2307.16140.pdf) | [code](https://github.com/Aitical/SCNet) | Lightweight SISR  |
+|Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution |DITN | [ACMM2023](https://arxiv.org/pdf/2308.02794.pdf) | [code](https://github.com/yongliuy/DITN) |  |
+|A Benchmark for Chinese-English Scene Text Image Super-resolution |Real-CE | [ICCV2023](https://github.com/mjq11302010044/Real-CE) | [code](https://github.com/mjq11302010044/Real-CE) |  |
+|Dual Aggregation Transformer for Image Super-Resolution |DAT | [ICCV2023](https://arxiv.org/pdf/2308.03364.pdf) | [code](https://github.com/zhengchen1999/DAT) | SISR  |
+|TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution |TextDiff | [arxiv](https://arxiv.org/pdf/2308.06743.pdf) | [code](https://github.com/Lenubolim/TextDiff) | textsr  |
+|YODA: You Only Diffuse Areas.An Area-Masked Diffusion Approach For Image Super-Resolution |YODA | [arxiv](https://arxiv.org/pdf/2308.07977.pdf) | - |   |
+|S2R: Exploring a Double-Win Transformer-Based Framework for Ideal and Blind Super-Resolution |S2R | [arxiv](https://arxiv.org/pdf/2308.08142.pdf) | - |   |
+|End-to-end Alternating Optimization for Real-World Blind Super Resolution |RealDAN | [IJCV2023](https://arxiv.org/pdf/2308.08816) | [code](https://github.com/greatlog/RealDAN) |   |
+|SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution |SEAL | [arxiv](https://arxiv.org/pdf/2309.03020.pdf) | [code](https://github.com/XPixelGroup/SEAL) | REALSR   |
+|Towards Real-World Burst Image Super-Resolution: Benchmark and Method |FBANet | [ICCV2023](https://arxiv.org/pdf/2309.04803.pdf) | [code](https://github.com/yjsunnn/FBANet) | RealBSR   |
+|MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces |MetaF2N | [ICCV2023](https://arxiv.org/pdf/2309.08113.pdf) | [code](https://github.com/yinzhicun/MetaF2N) |    |
+|Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution |RTSRN | [ACMM2023](https://arxiv.org/pdf/2309.08919.pdf) | [code](https://github.com/wenyu1009/RTSRN) |    |
+|Data Upcycling Knowledge Distillation for Image Super-Resolution |DUKD | [arxiv](https://arxiv.org/pdf/2309.14162.pdf) |   |    |
+
+
+
+
+
