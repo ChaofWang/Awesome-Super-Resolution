@@ -122,7 +122,8 @@ More years papers, plase check Quick navigation
 |MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces |MetaF2N | [ICCV2023](https://arxiv.org/pdf/2309.08113.pdf) | [code](https://github.com/yinzhicun/MetaF2N) |    |
 |Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution |RTSRN | [ACMM2023](https://arxiv.org/pdf/2309.08919.pdf) | [code](https://github.com/wenyu1009/RTSRN) |    |
 |Data Upcycling Knowledge Distillation for Image Super-Resolution |DUKD | [arxiv](https://arxiv.org/pdf/2309.14162.pdf) |   |    |
-
+|Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution |RTSRN | [ACMM2023](https://arxiv.org/pdf/2309.08919.pdf) | [code](https://github.com/wenyu1009/RTSRN) |    |
+|DWA: Differential Wavelet Amplifier for Image Super-Resolution |DWA | [ICANN 2023](https://arxiv.org/pdf/2307.04593.pdf) |   |    |
 
 
 
