@@ -124,7 +124,8 @@ More years papers, plase check Quick navigation
 |Data Upcycling Knowledge Distillation for Image Super-Resolution |DUKD | [arxiv](https://arxiv.org/pdf/2309.14162.pdf) |   |    |
 |Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution |RTSRN | [ACMM2023](https://arxiv.org/pdf/2309.08919.pdf) | [code](https://github.com/wenyu1009/RTSRN) |    |
 |DWA: Differential Wavelet Amplifier for Image Super-Resolution |DWA | [ICANN 2023](https://arxiv.org/pdf/2307.04593.pdf) |   |    |
-
+|Equivalent Transformation and Dual Stream Network Construction for Mobile Image Super-Resolution |ETDS | [CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Chao_Equivalent_Transformation_and_Dual_Stream_Network_Construction_for_Mobile_Image_CVPR_2023_paper.pdf) | [code](https://github.com/ECNUSR/ETDS)  |    |
+|A Novel Learnable Interpolation Approach for Scale-Arbitrary Image Super-Resolution | | [IJCAI2023](https://www.ijcai.org/proceedings/2023/63) |  |    |
 
 
 
