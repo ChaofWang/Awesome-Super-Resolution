@@ -126,6 +126,6 @@ More years papers, plase check Quick navigation
 |DWA: Differential Wavelet Amplifier for Image Super-Resolution |DWA | [ICANN 2023](https://arxiv.org/pdf/2307.04593.pdf) |   |    |
 |Equivalent Transformation and Dual Stream Network Construction for Mobile Image Super-Resolution |ETDS | [CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Chao_Equivalent_Transformation_and_Dual_Stream_Network_Construction_for_Mobile_Image_CVPR_2023_paper.pdf) | [code](https://github.com/ECNUSR/ETDS)  |    |
 |A Novel Learnable Interpolation Approach for Scale-Arbitrary Image Super-Resolution | | [IJCAI2023](https://www.ijcai.org/proceedings/2023/63) |  |    |
-
-
+|Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach |SS-MoE | [arxiv](https://arxiv.org/pdf/2310.12004.pdf) |  |  |
+|A Comparative Study of Image Restoration Networks for General Backbone Network Design |X-Restormer | [arxiv](https://arxiv.org/pdf/2310.11881.pdf) | [code](https://github.com/Andrew0613/X-Restormer)  |  
 
