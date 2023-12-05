@@ -128,4 +128,4 @@ More years papers, plase check Quick navigation
 |A Novel Learnable Interpolation Approach for Scale-Arbitrary Image Super-Resolution | | [IJCAI2023](https://www.ijcai.org/proceedings/2023/63) |  |    |
 |Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach |SS-MoE | [arxiv](https://arxiv.org/pdf/2310.12004.pdf) |  |  |
 |A Comparative Study of Image Restoration Networks for General Backbone Network Design |X-Restormer | [arxiv](https://arxiv.org/pdf/2310.11881.pdf) | [code](https://github.com/Andrew0613/X-Restormer)  |  
-
+|CoSeR: Bridging Image and Language for Cognitive Super-Resolution |CoSeR | [arxiv](https://arxiv.org/pdf/2311.16512.pdf) | [code](https://github.com/VINHYU/CoSeR)  | Image  Language SR|
