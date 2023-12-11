@@ -129,3 +129,5 @@ More years papers, plase check Quick navigation
 |Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach |SS-MoE | [arxiv](https://arxiv.org/pdf/2310.12004.pdf) |  |  |
 |A Comparative Study of Image Restoration Networks for General Backbone Network Design |X-Restormer | [arxiv](https://arxiv.org/pdf/2310.11881.pdf) | [code](https://github.com/Andrew0613/X-Restormer)  |  
 |CoSeR: Bridging Image and Language for Cognitive Super-Resolution |CoSeR | [arxiv](https://arxiv.org/pdf/2311.16512.pdf) | [code](https://github.com/VINHYU/CoSeR)  | Image  Language SR|
+|Equivalent Transformation and Dual Stream Network Construction for Mobile Image Super-Resolution|PCEVA | [ACMM](https://dl.acm.org/doi/10.1145/3581783.3611729) | [code](https://github.com/ECNUSR/PCEVA)  | |
+
