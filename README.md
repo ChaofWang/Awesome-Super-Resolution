@@ -33,5 +33,7 @@ More years papers, plase check Quick navigation
 | Title                  | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |Noise-free Optimization in Early Training Steps for Image Super-Resolution | ECO | [AAAI24](https://arxiv.org/pdf/2312.17526.pdf) | [code](https://github.com/2minkyulee/ECO) |SISR, train opt |
+|Transforming Image Super-Resolution:A ConvFormer-based Efficient Approach |CFSR | [arxiv](https://arxiv.org/pdf/2401.05633.pdf) | [code](https://github.com/Aitical/CFSR) | |
+|Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention |MIA-VSR | [arxiv](https://arxiv.org/pdf/2401.06312.pdf) | [code](https://github.com/LabShuHangGU/MIA-VSR) | |
 
 
