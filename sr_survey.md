@@ -15,3 +15,5 @@
 [7]Chunwei Tian, Xuanyu Zhang, Jerry Chun-Wen Lin, Wangmeng Zuo, Yanning Zhang. Generative Adversarial Networks for Image Super-Resolution: A Survey. arxiv, 2022. [paper](https://arxiv.org/pdf/2204.13620.pdf)
 
 [8]B. B. Moser, F. Raue, S. Frolov, S. Palacio, J. Hees and A. Dengel, "Hitchhiker's Guide to Super-Resolution: Introduction and Recent Advances," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 9862-9882, Aug. 2023, doi: 10.1109/TPAMI.2023.3243794. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10041995)
+
+[9]Moser, Brian B. et al. “Diffusion Models, Image Super-Resolution And Everything: A Survey.” ArXiv abs/2401.00736 (2024): n. pag.[paper](https://arxiv.org/pdf/2401.00736.pdf)
