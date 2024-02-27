@@ -37,5 +37,6 @@ More years papers, plase check Quick navigation
 |Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention |MIA-VSR | [arxiv](https://arxiv.org/pdf/2401.06312.pdf) | [code](https://github.com/LabShuHangGU/MIA-VSR) | |
 |Efficient Image Super-Resolution via Symmetric Visual Attention Network |SVAN | [arxiv](https://browse.arxiv.org/pdf/2401.08913.pdf) |  | |
 |You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation |YONOS-SR | [arxiv](https://arxiv.org/pdf/2401.17258.pdf) |  | |
+|https://arxiv.org/pdf/2402.03412.pdf |SeemoRe | [arxiv](https://arxiv.org/pdf/2401.17258.pdf) |[code](https://github.com/eduardzamfir/seemoredetails)  |  Efficient SR|
 
 
