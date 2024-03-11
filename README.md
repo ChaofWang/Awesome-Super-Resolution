@@ -37,6 +37,13 @@ More years papers, plase check Quick navigation
 |Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention |MIA-VSR | [arxiv](https://arxiv.org/pdf/2401.06312.pdf) | [code](https://github.com/LabShuHangGU/MIA-VSR) | |
 |Efficient Image Super-Resolution via Symmetric Visual Attention Network |SVAN | [arxiv](https://browse.arxiv.org/pdf/2401.08913.pdf) |  | |
 |You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation |YONOS-SR | [arxiv](https://arxiv.org/pdf/2401.17258.pdf) |  | |
-|https://arxiv.org/pdf/2402.03412.pdf |SeemoRe | [arxiv](https://arxiv.org/pdf/2401.17258.pdf) |[code](https://github.com/eduardzamfir/seemoredetails)  |  Efficient SR|
+|See More Details: Efficient Image Super-Resolution by Experts Mining |SeemoRe | [arxiv](https://arxiv.org/pdf/2402.03412.pdf) |[code](https://github.com/eduardzamfir/seemoredetails)  |  Efficient SR|
+|SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution |SAM-DiffSR | [arxiv](https://arxiv.org/pdf/2402.17133.pdf) |[code](https://github.com/lose4578/SAM-DiffSR)  | |
+|CAMixerSR: Only Details Need More “Attention” |CAMixerSR | [CVPR24](https://arxiv.org/pdf/2402.19289.pdf) |[code](https://github.com/icandle/CAMixerSR)  | |
+|SeD: Semantic-Aware Discriminator for Image Super-Resolution |SeD | [CVPR24](https://arxiv.org/pdf/2402.19387.pdf) |[code](https://github.com/lbc12345/SeD)  | |
+|Text-guided Explorable Image Super-resolution |- | [CVPR24](https://arxiv.org/pdf/2403.01124.pdf) |  | |
+|Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning |LWay | [CVPR24](https://arxiv.org/pdf/2403.02601.pdf) |[code](https://haoyuchen.com/LWay)  | |
+|APISR: Anime Production Inspired Real-World Anime Super-Resolution |APISR | [arxiv](https://arxiv.org/pdf/2403.01598.pdf) |[code](https://github.com/Kiteretsu77/APISR)  | |
+|XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution |XPSR | [arxiv](https://arxiv.org/pdf/2403.05049.pdf) |[code](https://github.com/qyp2000/XPSR)  | |
 
 
