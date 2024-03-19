@@ -45,5 +45,11 @@ More years papers, plase check Quick navigation
 |Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning |LWay | [CVPR24](https://arxiv.org/pdf/2403.02601.pdf) |[code](https://haoyuchen.com/LWay)  | |
 |APISR: Anime Production Inspired Real-World Anime Super-Resolution |APISR | [arxiv](https://arxiv.org/pdf/2403.01598.pdf) |[code](https://github.com/Kiteretsu77/APISR)  | |
 |XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution |XPSR | [arxiv](https://arxiv.org/pdf/2403.05049.pdf) |[code](https://github.com/qyp2000/XPSR)  | |
-
-
+|Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary |ATD | [CVPR24](https://arxiv.org/pdf/2401.08209.pdf) |[code](https://github.com/LabShuHangGU/Adaptive-Token-Dictionary)  | |
+|Boosting Flow-based Generative Super-Resolution Models via Learned Prior |FlowSR-LP | [CVPR24](https://arxiv.org/pdf/2403.10988.pdf) |[code](https://github.com/liyuantsao/FlowSR-LP)  | |
+|Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder | | [CVPR24](https://arxiv.org/pdf/2403.10255.pdf) | | |
+|CasSR: Activating Image Power for Real-World Image Super-Resolution |CasSR | [arxiv](https://arxiv.org/pdf/2403.11451.pdf) |  | |
+|VmambaIR: Visual State Space Model for Image Restoration |VmambaIR | [arxiv](https://arxiv.org/pdf/2403.11423.pdf) | [code](https://github.com/AlphacatPlus/VmambaIR) | |
+|Learning Dual-Level Deformable Implicit Representation for Real-World Scale Arbitrary Super-Resolution |DDIR | [arxiv](https://arxiv.org/pdf/2403.10925.pdf) |  | |
+|Activating Wider Areas in Image Super-Resolution |MMA | [arxiv](https://arxiv.org/pdf/2403.08330.pdf) |  | |
+|Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution |SSR | [arxiv](https://arxiv.org/pdf/2403.05808.pdf) |  | |
