@@ -53,3 +53,9 @@ More years papers, plase check Quick navigation
 |Learning Dual-Level Deformable Implicit Representation for Real-World Scale Arbitrary Super-Resolution |DDIR | [arxiv](https://arxiv.org/pdf/2403.10925.pdf) |  | |
 |Activating Wider Areas in Image Super-Resolution |MMA | [arxiv](https://arxiv.org/pdf/2403.08330.pdf) |  | |
 |Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution |SSR | [arxiv](https://arxiv.org/pdf/2403.05808.pdf) |  | |
+|AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation |AddSR | [arxiv](https://arxiv.org/pdf/2404.01717.pdf) |[code](https://nju-pcalab.github.io/projects/AddSR/)  | |
+|Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss |SR4IR | [CVPR24](https://arxiv.org/pdf/2404.01692.pdf) |[code](https://github.com/JaehaKim97/SR4IR) | |
+|RefQSR: Reference-based Quantization for Image Super-Resolution Networks |RefQSR | [TIP](https://arxiv.org/pdf/2404.01690.pdf) |  | |
+|DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion |DeeDSR | [arxiv](https://arxiv.org/pdf/2404.00661.pdf) |[code](https://github.com/bichunyang419/DeeDSR)  | |
+|Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution |SATeCo | [CVPR24](https://arxiv.org/pdf/2403.17000.pdf) | | |
+|CFAT: Unleashing Triangular Windows for Image Super-resolution |CFAT | [CVPR24](https://arxiv.org/pdf/2403.16143.pdf) |[code](https://github.com/rayabhisek123/CFAT) | |
