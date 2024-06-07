@@ -73,4 +73,15 @@ More years papers, plase check Quick navigation
 |VideoGigaGAN: Towards Detail-rich Video Super-Resolution| VideoGigaGAN | [arxiv](https://arxiv.org/pdf/2404.12388) |[web](https://videogigagan.github.io/) | |
 |A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution| DKP | [CVPR24](https://arxiv.org/pdf/2404.15620) |[code](https://github.com/XYLGroup/DKP) | |
 |Latent Modulated Function for Computational Optimal Continuous Image Representation| LMF | [arxiv](https://arxiv.org/pdf/2404.16451) |[code](https://github.com/HeZongyao/LMF) | |
+|A Study in Dataset Pruning for Image Super-Resolution|   | [ICANN 2024](https://arxiv.org/pdf/2403.17083) |  | |
+|CDFormer: When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution| CDFormer | [CVPR24](https://arxiv.org/pdf/2405.07648) |[code](https://github.com/I2-Multimedia-Lab/CDFormer) | |
+|Efficient Real-world Image Super-Resolution Via Adaptive Directional Gradient Convolution| ERealSR-DGPNet | [arxiv](https://arxiv.org/pdf/2405.07023) |[code](https://github.com/peylnog/ERealSR-DGPNet) | |
+|Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer| Inf-DiT | [arxiv](https://arxiv.org/pdf/2405.04312) |[code](https://github.com/THUDM/Inf-DiT) | |
+|Bilateral Event Mining and Complementary for Event Stream Super-Resolution| BMCNet-ESR | [CVPR24](https://arxiv.org/pdf/2405.10037) |[code](https://github.com/Lqm26/BMCNet-ESR) | |
+|Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution| FDDiff | [arxiv](https://arxiv.org/pdf/2405.10014) | | |
+|Exploring the Low-Pass Filtering Behavior in Image Super-Resolution| LPFInISR | [ICML24](https://arxiv.org/pdf/2405.07919) |[code](https://github.com/RisingEntropy/LPFInISR) | |
+|Does Diffusion Beat GAN in Image Super Resolution?| gan_vs_diff_sr | [arxiv](https://arxiv.org/pdf/2405.17261) |[code](https://github.com/yandex-research/gan_vs_diff_sr) | |
+|Perceptual Fairness in Image Restoration|   | [arxiv](https://arxiv.org/pdf/2405.13805) | | |
+|PatchScaler: An Efficient Patch-Independent Diffusion Model for Super-Resolution| PatchScaler | [arxiv](https://arxiv.org/pdf/2405.17158) |[code](https://github.com/yongliuy/PatchScaler) | |
+
 
