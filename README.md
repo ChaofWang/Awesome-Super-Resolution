@@ -43,7 +43,7 @@ More years papers, plase check Quick navigation
 |SeD: Semantic-Aware Discriminator for Image Super-Resolution |SeD | [CVPR24](https://arxiv.org/pdf/2402.19387.pdf) |[code](https://github.com/lbc12345/SeD)  | |
 |Text-guided Explorable Image Super-resolution |- | [CVPR24](https://arxiv.org/pdf/2403.01124.pdf) |  | |
 |Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning |LWay | [CVPR24](https://arxiv.org/pdf/2403.02601.pdf) |[code](https://haoyuchen.com/LWay)  | |
-|APISR: Anime Production Inspired Real-World Anime Super-Resolution |APISR | [arxiv](https://arxiv.org/pdf/2403.01598.pdf) |[code](https://github.com/Kiteretsu77/APISR)  | |
+|APISR: Anime Production Inspired Real-World Anime Super-Resolution |APISR | [CVPR24](https://arxiv.org/pdf/2403.01598.pdf) |[code](https://github.com/Kiteretsu77/APISR)  | |
 |XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution |XPSR | [arxiv](https://arxiv.org/pdf/2403.05049.pdf) |[code](https://github.com/qyp2000/XPSR)  | |
 |Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary |ATD | [CVPR24](https://arxiv.org/pdf/2401.08209.pdf) |[code](https://github.com/LabShuHangGU/Adaptive-Token-Dictionary)  | |
 |Boosting Flow-based Generative Super-Resolution Models via Learned Prior |FlowSR-LP | [CVPR24](https://arxiv.org/pdf/2403.10988.pdf) |[code](https://github.com/liyuantsao/FlowSR-LP)  | |
@@ -83,5 +83,5 @@ More years papers, plase check Quick navigation
 |Does Diffusion Beat GAN in Image Super Resolution?| gan_vs_diff_sr | [arxiv](https://arxiv.org/pdf/2405.17261) |[code](https://github.com/yandex-research/gan_vs_diff_sr) | |
 |Perceptual Fairness in Image Restoration|   | [arxiv](https://arxiv.org/pdf/2405.13805) | | |
 |PatchScaler: An Efficient Patch-Independent Diffusion Model for Super-Resolution| PatchScaler | [arxiv](https://arxiv.org/pdf/2405.17158) |[code](https://github.com/yongliuy/PatchScaler) | |
-
+|Image Processing GNN: Breaking Rigidity in Super-Resolution|IPG | [CVPR24](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Image_Processing_GNN_Breaking_Rigidity_in_Super-Resolution_CVPR_2024_paper.pdf) |[code](https://github.com/huawei-noah/Efficient-Computing/tree/master/LowLevel/IPG)  | |
 
