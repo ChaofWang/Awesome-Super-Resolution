@@ -115,3 +115,47 @@ More years papers, plase check Quick navigation
 |Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution|SSR | [ECCV24](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06903.pdf) | | |
 |HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution|HiT-SR | [ECCV24](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05709.pdf) |[code](https://github.com/XiangZ-0/HiT-SR) | |
 |Learning Truncated Causal History Model for Video Restoration|Turtle| [NeurIPS24](https://arxiv.org/pdf/2410.03936) |[code](https://github.com/Ascend-Research/Turtle) | |
+|AnySR: Realizing Image Super-Resolution as Any-Scale, Any-Resource|AnySR | [arxiv](https://arxiv.org/abs/2407.04241) |[code](https://github.com/CrispyFeSo4/AnySR) | |
+|Preserving Full Degradation Details for Blind Image Super-Resolution|ReDSR | [arxiv](https://arxiv.org/abs/2407.01299) |[code](https://github.com/Chernobyllight/ReDSR) | |
+|Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion|RMFNet | [arxiv](https://arxiv.org/abs/2406.19640) |[code](https://github.com/Lqm26/RMFNet) | |
+|DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution|DaLPSR | [arxiv](https://arxiv.org/abs/2406.16477) |[code](https://github.com/puppy210/DaLPSR) | |
+|EvTexture: Event-driven Texture Enhancement for Video Super-Resolution|EvTexture | [arxiv](https://arxiv.org/abs/2406.13457) |[code](https://github.com/DachunKai/EvTexture) | |
+|Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation|MLMC | [arxiv](https://arxiv.org/abs/2406.08896) |[code](https://github.com/XYLGroup/MLMC) | |
+|One-Step Effective Diffusion Network for Real-World Image Super-Resolution|OSEDiff | [NeurIPS24](https://arxiv.org/abs/2406.08177) |[code](https://github.com/cswry/OSEDiff) | |
+|Towards Realistic Data Generation for Real-World Super-Resolution| | [arxiv](https://arxiv.org/abs/2406.07255) | | |
+|2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution|2DQuant | [NeurIPS24](https://arxiv.org/abs/2406.06649) |[code](https://github.com/Kai-Liu001/2DQuant) | |
+|Binarized Diffusion Model for Image Super-Resolution|BI-DiffSR | [NeurIPS24](https://arxiv.org/abs/2406.05723) |[code](https://github.com/zhengchen1999/BI-DiffSR) | |
+|RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution|RealOSR | [arxiv](https://arxiv.org/abs/2412.09646) | | |
+|OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs|OFTSR | [arxiv](https://arxiv.org/abs/2412.09465) |[code](https://github.com/yuanzhi-zhu/OFTSR) | |
+|Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors|Hero-SR | [arxiv](https://arxiv.org/abs/2412.07152) |[code](https://github.com/W-JG/Hero-SR) | |
+|RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution|RAP-SR | [arxiv](https://arxiv.org/abs/2412.07149) |[code](https://github.com/W-JG/RAP-SR) | |
+|LocalSR: Image Super-Resolution in Local Region|LocalSR | [arxiv](https://arxiv.org/abs/2412.04314) | | |
+|TASR: Timestep-Aware Diffusion Model for Image Super-Resolution|TASR | [arxiv](https://arxiv.org/abs/2412.03355) |[code](https://github.com/SleepyLin/TASR) | |
+|Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution|SegSR | [arxiv](https://arxiv.org/abs/2412.02960) | | |
+|CubeFormer: A Simple yet Effective Baseline for Lightweight Image Super-Resolution|CubeFormer | [arxiv](https://arxiv.org/abs/2412.02234) | | |
+|Auto-Encoded Supervision for Perceptual Image Super-Resolution|AESOP | [arxiv](https://arxiv.org/abs/2412.00124) | | |
+|TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution|TSD-SR | [arxiv](https://arxiv.org/abs/2411.18263) |[code](https://liyuantsao.github.io/HoliSDiP/) | |
+|MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution|MAT | [arxiv](https://arxiv.org/abs/2411.17214) |[code]() | |
+|PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution|PassionSR | [arxiv](https://arxiv.org/abs/2411.17106) |[code](https://github.com/libozhu03/PassionSR) | |
+|HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution|HF-Diff | [arxiv](https://arxiv.org/abs/2411.13548) | | |
+|Adversarial Diffusion Compression for Real-World Image Super-Resolution| AdcSR| [arxiv](https://arxiv.org/abs/2411.13383) | | |
+|S3Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model|S3Mamba | [arxiv](https://arxiv.org/abs/2411.11906) |[code](https://github.com/xiapeizhe12138/S3Mamba-ArbSR) | |
+|A Low-Resolution Image is Worth 1x1 Words: Enabling Fine Image Super-Resolution with Transformers and TaylorShift|TaylorSwinIR | [arxiv](https://arxiv.org/abs/2411.10231) | | |
+|Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution|LIWT | [BMVC24](https://arxiv.org/abs/2411.06442) |[code](https://github.com/dmhdmhdmh/LIWT) | |
+|AdaDiffSR: Adaptive Region-aware Dynamic Acceleration Diffusion Model for Real-World Image Super-Resolution|AdaDiffSR | [arxiv](https://arxiv.org/abs/2410.17752) | | |
+|ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution|ConsisSR | [arxiv](https://arxiv.org/abs/2410.13807) | | |
+|Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution|STDAN | [arxiv](https://arxiv.org/abs/2410.11506) | | |
+|Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution|Hi-Mamba | [arxiv](https://arxiv.org/abs/2410.10140) | | |
+|SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution|SeeClear | [NeurIPS24](https://arxiv.org/abs/2410.05799) |[code](https://github.com/Tang1705/SeeClear-NeurIPS24) | |
+|Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution|DFOSD | [arxiv](https://arxiv.org/abs/2410.04224) |[code](https://github.com/JianzeLi-114/DFOSD) | |
+|Effective Diffusion Transformer Architecture for Image Super-Resolution| | [arxiv](https://arxiv.org/abs/2409.19589) | | |
+|Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs|DoSSR | [NeurIPS24](https://arxiv.org/abs/2409.17778) |[code](https://github.com/AMD-AIG-AIMA/DoSSR) | |
+|Unifying Dimensions: A Linear Adaptive Approach to Lightweight Image Super-Resolution|LAMNet | [arxiv](https://arxiv.org/abs/2409.17597) |[code](https://github.com/zononhzy/LAMNet) | |
+|Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors| | [arxiv](https://arxiv.org/abs/2409.17058) | | |
+|NSSR-DIL: Null-Shot Image Super-Resolution Using Deep Identity Learning| | [arxiv](https://arxiv.org/abs/2409.12165) | | |
+|LMLT: Low-to-high Multi-Level Vision Transformer for Image Super-Resolution|LMLT| [arxiv](https://arxiv.org/abs/2409.03516) |[code](https://github.com/jwgdmkj/LMLT) | |
+|Rethinking Image Super-Resolution from Training Data Perspectives| | [arxiv](https://arxiv.org/abs/2409.00768) |[code](https://github.com/gohtanii/DiverSeg-dataset) | |
+|Cascaded Temporal Updating Network for Efficient Video Super-Resolution|CTUN | [arxiv](https://arxiv.org/abs/2408.14244) |[code](https://github.com/House-Leo/CTUN) | |
+|Implicit Grid Convolution for Multi-Scale Image Super-Resolution|IGConv | [arxiv](https://arxiv.org/abs/2408.09674) |[code](https://github.com/dslisleedh/IGConv) | |
+|A New Dataset and Framework for Real-World Blurred Images Super-Resolution| | [arxiv](https://arxiv.org/abs/2407.14880) | | |
+|Large Kernel Distillation Network for Efficient Single Image Super-Resolution|LKDN | [arxiv](https://arxiv.org/abs/2407.14340) |[code](https://github.com/stella-von/LKDN) | |
