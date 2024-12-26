@@ -159,3 +159,4 @@ More years papers, plase check Quick navigation
 |Implicit Grid Convolution for Multi-Scale Image Super-Resolution|IGConv | [arxiv](https://arxiv.org/abs/2408.09674) |[code](https://github.com/dslisleedh/IGConv) | |
 |A New Dataset and Framework for Real-World Blurred Images Super-Resolution| | [arxiv](https://arxiv.org/abs/2407.14880) | | |
 |Large Kernel Distillation Network for Efficient Single Image Super-Resolution|LKDN | [arxiv](https://arxiv.org/abs/2407.14340) |[code](https://github.com/stella-von/LKDN) | |
+|DRCT Saving Image Super-Resolution away from Information Bottlenecks|DRCT | [CVPRW24](https://arxiv.org/abs/2404.00722) |[code](https://github.com/ming053l/DRCT) | |
