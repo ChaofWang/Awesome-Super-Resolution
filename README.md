@@ -112,7 +112,7 @@ More years papers, plase check Quick navigation
 |Rethinking Image Evaluation in Super-Resolution| | [arxiv](https://arxiv.org/abs/2503.13074) | | |
 |QDM: Quadtree-Based Region-Adaptive Sparse Diffusion Models for Efficient Image Super-Resolution|QDM | [arxiv](https://arxiv.org/abs/2503.12015) |[code](https://arxiv.org/pdf/2503.12015) | |
 |Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models|PURE | [arxiv](https://arxiv.org/abs/2503.11073) |[code](https://github.com/nonwhy/PURE) | |
-|Auto-Encoded Supervision for Perceptual Image Super-Resolution|AESOP | [CVPR 2025](https://arxiv.org/abs/2503.11073) |[code](https://github.com/2minkyulee/AESOP-Auto-Encoded-Supervision-for-Perceptual-Image-Super-Resolution) | |
-|DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior|DC-VSR | [SIGGRAPH 2025](https://arxiv.org/abs/2503.11073) |[code](https://daramgc.github.io/docs/Publications/dc-vsr) | |
+|Auto-Encoded Supervision for Perceptual Image Super-Resolution|AESOP | [CVPR 2025](https://arxiv.org/pdf/2412.00124) |[code](https://github.com/2minkyulee/AESOP-Auto-Encoded-Supervision-for-Perceptual-Image-Super-Resolution) | |
+|DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior|DC-VSR | [SIGGRAPH 2025](https://arxiv.org/abs/2502.03502) |[code](https://daramgc.github.io/docs/Publications/dc-vsr) | |
 
 
