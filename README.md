@@ -39,9 +39,9 @@ More years papers, plase check Quick navigation
 |Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution|GSASR | [arxiv](https://arxiv.org/abs/2501.06838) |[code](https://github.com/ChrisDud0257/GSASR) | |
 |BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution|BF-STVSR | [arxiv](https://arxiv.org/abs/2501.11043) | | |
 |Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution|ASID | [AAAI25](https://arxiv.org/abs/2501.15774) |[code](https://github.com/saturnian77/ASID) | |
-|Visual Autoregressive Modeling for Image Super-Resolution|VARSR | [arxiv](https://arxiv.org/abs/2501.18993) |[code](https://github.com/quyp2000/VARSR) | |
-|BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution|BiMaCoSR | [arxiv](https://arxiv.org/abs/2502.00333) |[code](https://github.com/Kai-Liu001/BiMaCoSR) | |
-|One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation|FluxSR | [arxiv](https://arxiv.org/abs/2502.01993) |[code](https://github.com/JianzeLi-114/FluxSR) | |
+|Visual Autoregressive Modeling for Image Super-Resolution|VARSR | [ICML 2025](https://arxiv.org/abs/2501.18993) |[code](https://github.com/quyp2000/VARSR) | |
+|BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution|BiMaCoSR | [ICML 2025](https://arxiv.org/abs/2502.00333) |[code](https://github.com/Kai-Liu001/BiMaCoSR) | |
+|One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation|FluxSR | [ICML 2025](https://arxiv.org/abs/2502.01993) |[code](https://github.com/JianzeLi-114/FluxSR) | |
 |Fast Omni-Directional Image Super-Resolution: Adapting the Implicit Image Function with Pixel and Semantic-Wise Spherical Geometric Priors|FAOR | [AAAI25](https://arxiv.org/abs/2502.05902) |[code](https://github.com/GingaUL/FAOR) | |
 |Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution|SDATC | [arxiv](https://arxiv.org/abs/2502.07381) | | |
 |CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution|CondiQuant | [arxiv](https://arxiv.org/abs/2502.15478) |[code](https://github.com/Kai-Liu001/CondiQuant) | |
@@ -147,3 +147,69 @@ More years papers, plase check Quick navigation
 |Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring|Griffon v2 | [ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhan_Griffon_v2_Advancing_Multimodal_Perception_with_High-Resolution_Scaling_and_Visual-Language_ICCV_2025_paper.pdf) |[code](https://github.com/jefferyZhan/Griffon)|
 |Blind Video Super-Resolution based on Implicit Kernels|BVSR-IK | [ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhan_Griffon_v2_Advancing_Multimodal_Perception_with_High-Resolution_Scaling_and_Visual-Language_ICCV_2025_paper.pdf) |[code](https://github.com/QZ1-boy/BVSR-IK)|
 |When 512×512 is Not Enough: Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution|- | [ICIP 2025](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11084710) | |
+| Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion | Stream-DiffVSR | [arXiv](https://arxiv.org/abs/2512.23709) | [code](https://jamichss.github.io/stream-diffvsr-project-page/) | diffusion, video, online, efficient, lightweight |
+| Iterative Inference-time Scaling with Adaptive Frequency Steering for Image Super-Resolution | IIS-SR | [arXiv](https://arxiv.org/abs/2512.23532) |  | diffusion, image, perceptual, fidelity, reconstruction |
+| Bridging Fidelity-Reality with Controllable One-Step Diffusion for Image Super-Resolution | CODSR | [arXiv](https://arxiv.org/abs/2512.14061) | [code](https://github.com/Chanson94/CODSR) | |
+| CreativeVR: Diffusion-Prior-Guided Approach for Structure and Motion Restoration in Generative and Real Videos | CreativeVR | [arXiv](https://arxiv.org/abs/2512.12060) |[code](https://daveishan.github.io/creativevr-webpage/)  |  |
+| Zero-shot Adaptation of Stable Diffusion via Plug-in Hierarchical Degradation Representation for Real-World Super-Resolution | PHDRep | [arXiv](https://arxiv.org/abs/2512.10340) |  | diffusion, image, perceptual, fidelity, super-resolution |
+| CARD: Correlation Aware Restoration with Diffusion | CARD | [arXiv](https://arxiv.org/abs/2512.05268) |  | diffusion, image, denoising, super-resolution |
+| OmniScaleSR: Unleashing Scale-Controlled Diffusion Prior for Faithful and Realistic Arbitrary-Scale Image Super-Resolution | OmniScaleSR | [arXiv](https://arxiv.org/abs/2512.04699) |[code](https://github.com/chaixinning/OmniScaleSR)  |  |
+| FMA-Net++: Motion- and Exposure-Aware Real-World Joint Video Super-Resolution and Deblurring | FMA-Net++ | [arXiv](https://arxiv.org/abs/2512.04390) | [code](https://kaist-viclab.github.io/fmanetpp_site/) | video, super-resolution |
+| PGP-DiffSR: Phase-Guided Progressive Pruning for Efficient Diffusion-based Image Super-Resolution | PGP-DiffSR | [arXiv](https://arxiv.org/abs/2512.02681) |[code](https://github.com/yzb1997/PGP-DiffSR)  |  |
+| FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution | FRAMER | [arXiv](https://arxiv.org/abs/2512.01390) | [code](https://cmlab-korea.github.io/FRAMER/) |  |
+| Restora-Flow: Mask-Guided Image Restoration with Flow Matching | Restora-Flow | [WACV 2026](https://arxiv.org/abs/2511.20152) |  | diffusion, image, perceptual, denoising, super-resolution |
+| MFmamba: A Multi-function Network for Panchromatic Image Resolution Restoration Based on State-Space Model | MFmamba | [AAAI 2026](https://arxiv.org/abs/2511.18888) |[code](https://github.com/QianqianWang1325/MFmamba)  | attention, image, super-resolution, SR |
+| STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution | STCDiT | [arXiv](https://arxiv.org/abs/2511.18786) | [code](https://jychen9811.github.io/STCDiT_page) | diffusion, transformer, video, fidelity, reconstruction |
+| MambaX: Image Super-Resolution with State Predictive Control | MambaX | [arXiv](https://arxiv.org/abs/2511.18028) |  | image, online, efficient, reconstruction, super-resolution |
+| One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution | OSD-ISR | [arXiv](https://arxiv.org/abs/2511.17138) |[code](https://github.com/RedMediaTech/ODTSR)  |  |
+| Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features | DGAF-VSR | [arXiv](https://arxiv.org/abs/2511.16928) |  | diffusion, video, perceptual, fidelity, PSNR |
+| Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution with Implicit Representation Networks | ARAS-FSR | [arXiv](https://arxiv.org/abs/2511.16341) |  | image, super-resolution, SR |
+| One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models | LUA | [arXiv](https://arxiv.org/abs/2511.10629) |[code](https://github.com/vaskers5/LUA)  | |
+| Transformer-Progressive Mamba Network for Lightweight Image Super-Resolution | TPMamba | [arXiv](https://arxiv.org/abs/2511.03232) |  | transformer, attention, image, lightweight, super-resolution |
+| Outlier-Aware Post-Training Quantization for Image Super-Resolution | OA-PTQ | [arXiv](https://arxiv.org/abs/2511.00682) |  | attention, image, super-resolution, SR |
+| GLYPH-SR: Can We Achieve Both High-Quality Image Super-Resolution and High-Fidelity Text Recovery via VLM-guided Latent Diffusion Model? | GLYPH-SR | [arxiv](https://arxiv.org/abs/2510.26339) |  | diffusion, GAN, image, perceptual, fidelity |
+| BasicAVSR: Arbitrary-Scale Video Super-Resolution via Image Priors and Enhanced Motion Compensation | BasicAVSR | [arXiv](https://arxiv.org/abs/2510.26149) |[code](https://github.com/shangwei5/BasicAVSR)  |  |
+| DP²O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution | DP²O-SR | [NeurIPS 2025](https://arxiv.org/abs/2510.18851) |[code](https://github.com/cswry/DP2O-SR)  |  |
+| Efficient Perceptual Image Super Resolution: AIM 2025 Study and Benchmark | AIM 2025 | [ICCV 2025](https://arxiv.org/abs/2510.12765) |  | GAN, image, efficient, perceptual, PSNR |
+| FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution | FlashVSR | [arXiv](https://arxiv.org/abs/2510.12747) | [code](https://zhuang2002.github.io/FlashVSR) | diffusion, attention, video, image, real-time |
+| HeadsUp! High-Fidelity Portrait Image Super-Resolution |  | [arXiv](https://arxiv.org/abs/2510.09924) |  | |
+| LinearSR: Unlocking Linear Attention for Stable and Efficient Image Super-Resolution | LinearSR | [arXiv](https://arxiv.org/abs/2510.08771) |  | diffusion, attention, image, efficient, lightweight |
+| UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution | UniMMVSR | [arXiv](https://arxiv.org/abs/2510.08143) |[code](https://shiandu.github.io/UniMMVSR-website/)  | |
+| Diffusion-Based, Data-Assimilation-Enabled Super-Resolution of Hub-height Winds | DA-DiffSR | [arXiv](https://arxiv.org/abs/2510.03364) |  | diffusion, SSIM, super-resolution, SR |
+| PocketSR: The Super-Resolution Expert in Your Pocket Mobiles | PocketSR | [arXiv](https://arxiv.org/abs/2510.03012) |  | image, online, efficient, lightweight, fidelity |
+| Pure-Pass: Fine-Grained, Adaptive Masking for Dynamic Token-Mixing Routing in Lightweight Image Super-Resolution | Pure-Pass | [arXiv](https://arxiv.org/abs/2510.01997) | [code](https://github.com/idiotgoose/PurePass) | image, lightweight, reconstruction, super-resolution, SR |
+| NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems | NPN | [NeurIPS 2025](https://arxiv.org/abs/2510.01608) |  | diffusion, image, fidelity, reconstruction, super-resolution |
+| InfVSR: Breaking Length Limits of Generic Video Super-Resolution | InfVSR | [arXiv](https://arxiv.org/abs/2510.00948) | [code](https://github.com/Kai-Liu001/InfVSR) | diffusion, video, efficient, streaming, denoising |
+| NSARM: Next-Scale Autoregressive Modeling for Robust Real-World Image Super-Resolution | NSARM | [arXiv](https://arxiv.org/abs/2510.00820) |[code](https://github.com/Xiangtaokong/NSARM)  |  |
+| PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution | PatchVSR | [CVPR 2025](https://arxiv.org/abs/2509.26025) |  | diffusion, attention, video, fidelity, super-resolution |
+| Asymmetric VAE for One-Step Video Super-Resolution Acceleration | FastVSR | [arXiv](https://arxiv.org/abs/2509.24142) |[code](FastVSR)  |  |
+| Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution | OASIS | [arXiv](https://arxiv.org/abs/2509.23980) | [code](https://github.com/jp-guo/OASIS) |  |
+| Texture Vector-Quantization and Reconstruction Aware Prediction for Generative Super-Resolution | TVQ-RAP | [arXiv](https://arxiv.org/abs/2509.23774) |[code](https://github.com/CVL-UESTC/TVQ-RAP)  |  |
+| Consistency Models as Plug-and-Play Priors for Inverse Problems | CM-PnP | [arXiv](https://arxiv.org/abs/2509.22736) |  | diffusion, fidelity, reconstruction, super-resolution |
+| OS-DiffVSR: Towards One-step Latent Diffusion Model for High-detailed Real-world Video Super-Resolution | OS-DiffVSR | [arXiv](https://arxiv.org/abs/2509.16507) |  | diffusion, video, image, super-resolution, SR |
+| Not All Degradations Are Equal: A Targeted Feature Denoising Framework for Generalizable Image Super-Resolution | TFD-SR | [arXiv](https://arxiv.org/abs/2509.14841) |  | image, denoising, super-resolution |
+| EatGAN: An Edge-Attention Guided Generative Adversarial Network for Single Image Super-Resolution | EatGAN | [arXiv](https://arxiv.org/abs/2509.14550) |  | GAN, attention, image, lightweight, perceptual |
+| Realism Control One-step Diffusion for Real-World Image Super-Resolution | RCOD-SR | [AAAI 2026](https://arxiv.org/abs/2509.10122) | [Link](https://zongliang-wu.github.io/RCOD-SR/) | diffusion, image, perceptual, fidelity, reconstruction |
+| BIR-Adapter: A Low-Complexity Diffusion Model Adapter for Blind Image Restoration | BIR-Adapter | [arXiv](https://arxiv.org/abs/2509.06904) |  | diffusion, attention, image, super-resolution |
+| SwinSRGAN: Swin Transformer-based Generative Adversarial Network for High-Fidelity Speech Super-Resolution | SwinSRGAN | [arXiv](https://arxiv.org/abs/2509.03913) |  | diffusion, transformer, GAN, CNN, fidelity |
+| WaveHiT-SR: Hierarchical Wavelet Network for Efficient Image Super-Resolution | WaveHiT-SR | [arXiv](https://arxiv.org/abs/2508.19927) |  | transformer, attention, image, efficient, super-resolution |
+| CATformer: Contrastive Adversarial Transformer for Image Super-Resolution | CATformer | [arXiv](https://arxiv.org/abs/2508.17708) |  | diffusion, transformer, GAN, image, reconstruction |
+| TinySR: Pruning Diffusion for Real-World Image Super-Resolution | TinySR | [arXiv](https://arxiv.org/abs/2508.17434) |  | diffusion, attention, image, real-time, lightweight |
+| Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution | TADSR | [arXiv](https://arxiv.org/abs/2508.16557) |[code](https://zty557.github.io/TADSR_HomePage/)  | diffusion, image, efficient, fidelity, super-resolution |
+| Arbitrary-Scale 3D Gaussian Super-Resolution | Arbi-3DGSR | [AAAI 2026](https://arxiv.org/abs/2508.16467) |[code](https://github.com/huimin-zeng/Arbi-3DGSR)  | real-time, PSNR, super-resolution |
+| RAGSR: Regional Attention Guided Diffusion for Image Super-Resolution | RAGSR | [arXiv](https://arxiv.org/abs/2508.16158) |  | diffusion, attention, image, perceptual, super-resolution |
+| SNNSIR: A Simple Spiking Neural Network for Stereo Image Restoration | SNNSIR | [arXiv](https://arxiv.org/abs/2508.12271) |  | attention, image, real-time, online, efficient |
+| Large Kernel Modulation Network for Efficient Image Super-Resolution | LKMN | [arXiv](https://arxiv.org/abs/2508.11893) |[code](https://github.com/Supereeeee/LKMN)  | transformer, CNN, attention, image, efficient |
+| LKFMixer: Exploring Large Kernel Feature For Efficient Image Super-Resolution | LKFMixer | [arXiv](https://arxiv.org/abs/2508.11391) |[code](https://github.com/Supereeeee/LKFMixer)  | transformer, CNN, attention, image, efficient |
+| Ultra-High-Definition Reference-Based Landmark Image Super-Resolution with Generative Diffusion Prior | UHD-LISR | [arXiv](https://arxiv.org/abs/2508.10779) |[code](https://github.com/nkicsl/TriFlowSR)  | diffusion, image, super-resolution, SR |
+| Fourier-Guided Attention Upsampling for Image Super-Resolution | FGA-SR | [arXiv](https://arxiv.org/abs/2508.10616) |[code](https://hpc-lab-koreatech.github.io/FGA-SR/)  | attention, image, efficient, lightweight, fidelity |
+| Trajectory-aware Shifted State Space Models for Online Video Super-Resolution | TS-Mamba | [arXiv](https://arxiv.org/abs/2508.10453) |  | video, online, efficient, super-resolution, SR |
+| RASR: Retrieval-Augmented Super Resolution for Practical Reference-based Image Restoration | RASR | [arXiv](https://arxiv.org/abs/2508.09449) |  | diffusion, image, fidelity, PSNR, SR |
+| OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution | OMGSR | [arXiv](https://arxiv.org/abs/2508.08227) |[code](https://github.com/wuer5/OMGSR)  |  |
+| DiTVR: Zero-Shot Diffusion Transformer for Video Restoration | DiTVR | [arXiv](https://arxiv.org/abs/2508.07811) |  | diffusion, transformer, attention, video, denoising |
+| Rotation Equivariant Arbitrary-scale Image Super-Resolution | RE-ASISR | [arXiv](https://arxiv.org/abs/2508.05160) | [Link](https://github.com/XieQi2015/Equivariant-ASISR) |  |
+| QuantVSR: Low-Bit Post-Training Quantization for Real-World Video Super-Resolution | QuantVSR | [arXiv](https://arxiv.org/abs/2508.04485) |[code](https://github.com/bowenchai/QuantVSR)  |  |
+| SpatioTemporal Difference Network for Video Depth Super-Resolution | STDNet | [AAAI 2026](https://arxiv.org/abs/2508.01259) |[code](https://github.com/yanzq95/STDNet)  | video, reconstruction, super-resolution |
+
+
+
