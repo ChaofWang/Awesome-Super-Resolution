@@ -14,7 +14,7 @@
     - [2022](2022_papers.md)
     - [2023](2023_papers.md)
 	- [2024](2024_papers.md)
-    - [2025](#2025)
+    - [2025](2025_papers.md)
 - [Super Resolution workshop papers](workshops.md)
 - [Super Resolution survey](sr_survey.md)
 
