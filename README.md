@@ -33,4 +33,4 @@ More years papers, plase check Quick navigation
 
 | Title                  | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Trust but Verify: Adaptive Conditioning for Reference-Based Diffusion Super-Resolution via Implicit Reference Correlation Modeling | Ada-RefSR | [ICLR 2026](https://arxiv.org/abs/2602.01864) | https://github.com/vivoCameraResearch/AdaRefSR | |
+| Trust but Verify: Adaptive Conditioning for Reference-Based Diffusion Super-Resolution via Implicit Reference Correlation Modeling |Ada-RefSR | [ICLR 2026](https://arxiv.org/abs/2602.01864) | https://github.com/vivoCameraResearch/AdaRefSR | |
