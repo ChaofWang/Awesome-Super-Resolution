@@ -37,3 +37,5 @@
 | [video-super-resolution](https://github.com/thangvubk/video-super-resolution) |  Pytorch   |
 |[MMSR](https://github.com/open-mmlab/mmsr) | PyTorch |
 |[UpscalerJS](https://github.com/thekevinscott/upscalerjs) | Tensorflow.js |
+|[UpRes](https://github.com/auroracapital/upres-cli) | Node.js / Python / Multi-Model API |
+
