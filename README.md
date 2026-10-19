@@ -58,6 +58,7 @@ More years papers, plase check Quick navigation
 |Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment |NADB | [CVPR 2026](https://arxiv.org/abs/2605.28962) | [code](https://github.com/gyr02/NADB) | diffusion bridge, noise alignment, image, translation, restoration |
 |Expandable, Compressible, Mineable: Open-World Thermal Image Restoration |ECMRNet | [ICML 2026](https://arxiv.org/abs/2605.16967) | [code](https://github.com/Kust-lp/ECMRNet) | continual learning, open-world, thermal, infrared, all-in-one, restoration |
 |Image Restoration via Diffusion Models with Dynamic Resolution |SubDAPS | [ICML 2026](https://arxiv.org/abs/2605.14267) | [code](https://github.com/StarNextDay/SubDAPS.git) | diffusion, posterior sampling, dynamic resolution, efficient, image, restoration |
+|TOC-SR: Task-Optimal Compact diffusion for Image Super Resolution |TOC-SR | [ECCV 2026 Workshop](https://arxiv.org/abs/2605.02767) |  | diffusion, distillation, one-step, bayesian optimization, efficient, super-resolution |
 |Breaking Degradation Coupling: A Structural Entropy Guided Decoupled Framework and Benchmark for Infrared Enhancement |SEGD | [CVPR 2026](https://arxiv.org/abs/2604.22886) | [code](https://github.com/Kust-lp/SEGD) | structural entropy, benchmark, thermal infrared, all-in-one, image, enhancement |
 | Trust but Verify: Adaptive Conditioning for Reference-Based Diffusion Super-Resolution via Implicit Reference Correlation Modeling |Ada-RefSR | [ICLR2026](https://arxiv.org/abs/2602.01864) | [code](https://github.com/vivoCameraResearch/AdaRefSR) | diffusion, one-step, reference-based, attention, image, super-resolution |
 |LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion |LiveMoments | [ICLR 2026](https://arxiv.org/abs/2604.12286) | [code](https://github.com/OpenVeraTeam/LiveMoments) | diffusion, flow-matching, reference-based, image, restoration, 4K |
@@ -94,5 +95,6 @@ More years papers, plase check Quick navigation
 |Deep LoRA-Unfolding Networks for Image Restoration |LoRA | [TIP](https://arxiv.org/abs/2602.18697) |  | deep unfolding, LoRA, reconstruction, compressive sensing, image, efficient |
 |Vascular anatomy-aware self-supervised pre-training for X-ray angiogram analysis |XA-SSL | [AAAI 2026](https://arxiv.org/abs/2602.11536) | [code](https://github.com/Dxhuang-CASIA/XA-SSL) | transformer, masked image modeling, medical, pre-training, reconstruction |
 |Eliminating VAE for Fast and High-Resolution Generative Detail Restoration |GenDR-Pix | [ICLR 2026](https://arxiv.org/abs/2602.10630) | | diffusion, distillation, one-step, real-world, 4K, super-resolution |
+|NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration |NanoSD | [CVPR 2026](https://arxiv.org/abs/2601.09823) |  | diffusion, stable diffusion, distillation, edge device, real-time, super-resolution |
 
 
